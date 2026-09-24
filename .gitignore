@@ -220,12 +220,12 @@ activemq-data/
 ############################
 # Word temporary/lock files
 ############################
-~$*.docx
-~$*.doc
-~$*.docm
+# ~$*.docx
+# ~$*.doc
+# ~$*.docm
 
 ############################
 Office temp files too
 ############################
-~$*.xlsx
-~$*.pptx
+# ~$*.xlsx
+# ~$*.pptx
