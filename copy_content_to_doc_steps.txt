@@ -22,5 +22,6 @@ en.wiktionary.org/wiki/data_mining
 > All images should be reduced in size 
 > all normal taxt in each slide bulleted, except header  
 > do not oputput the resultant content here, only in the .docx file which I will download for study purposes.
+> please double check the slide content matches directly the topic content, and they are not out of sync
 
 > watched out for text boxes - as yuo ahve missed a few when boxed
