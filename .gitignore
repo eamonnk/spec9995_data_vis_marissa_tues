@@ -216,3 +216,16 @@ mnesia/
 rabbitmq/
 rabbitmq-data/
 activemq-data/
+
+############################
+# Word temporary/lock files
+############################
+~$*.docx
+~$*.doc
+~$*.docm
+
+############################
+Office temp files too
+############################
+~$*.xlsx
+~$*.pptx
