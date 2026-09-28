@@ -10,7 +10,7 @@ en.wikipedia.org/wiki/Data_mining
 en.wiktionary.org/wiki/data_mining 
 
 > copy all text amd images into a .docx file...
-> one .docx page per slide
+> one .docx page per slide/page
 > section titles shodul be H3
 > in each slide, header is H4 
 > all text should be normal except if bulleted list should be bulleted list
@@ -22,6 +22,6 @@ en.wiktionary.org/wiki/data_mining
 > All images should be reduced in size 
 > all normal taxt in each slide bulleted, except header  
 > do not oputput the resultant content here, only in the .docx file which I will download for study purposes.
-> please double check the slide content matches directly the topic content, and they are not out of sync
-
+> ensure all slides match the toic title, double check topic content and slides match
 > watched out for text boxes - as yuo ahve missed a few when boxed
+> put a solid line around each slide image to demarcate it form the text. i.e. image properties > line > solid line > 0.75 width + colour black
