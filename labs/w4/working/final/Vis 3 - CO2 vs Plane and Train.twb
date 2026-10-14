@@ -1,0 +1,526 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20262.26.0912.1023                               -->
+<workbook _.fcp.WorkbookFingerprinting.true...author-id='cae6da4566b604b03877799dc4ba5fc8565e0f852578341487bb7e2c284190da' _.fcp.WorkbookFingerprinting.true...creator-author-id='cae6da4566b604b03877799dc4ba5fc8565e0f852578341487bb7e2c284190da' _.fcp.WorkbookFingerprinting.true...creator-license-type='public' _.fcp.WorkbookFingerprinting.true...creator-machine-id='069e957b1c15e9df16eab3b0f34ac01749d4010333813e5f57a3a7e34d3e2a4e' _.fcp.WorkbookFingerprinting.true...license-type='public' _.fcp.WorkbookFingerprinting.true...machine-id='069e957b1c15e9df16eab3b0f34ac01749d4010333813e5f57a3a7e34d3e2a4e' original-version='18.1' source-build='2026.2.3 (20262.26.0912.1023)' source-platform='win' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+    <_.fcp.WorkbookFingerprinting.true...WorkbookFingerprinting />
+  </document-format-change-manifest>
+  <repository-location id='Vis3-CO2vsPlaneandTrain' path='/workbooks' revision='1.0' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+    <color-palette custom='true' name='colour 1 from planes' type='regular'>
+      <color>#d6471f</color>
+    </color-palette>
+  </preferences>
+  <datasources>
+    <datasource caption='Flights-Trains' inline='true' name='federated.0nc4atj0u0icf51017vfj1cgyauo' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='Flights-Trains' name='textscan.0tcyi6p0yxukjh117rkh30j97dtd'>
+            <connection class='textscan' directory='E:/GG/Msc/SPEC9995_data_visualisation_marisa llorens-salvador_tues/github/spec9995_data_vis_marissa_tues/labs/w4' filename='Flights-Trains.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.0tcyi6p0yxukjh117rkh30j97dtd' name='Flights-Trains.csv' table='[Flights-Trains#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+            <column datatype='string' name='Route' ordinal='0' />
+            <column datatype='string' name='Mode' ordinal='1' />
+            <column datatype='integer' name='WeeksAhead' ordinal='2' />
+            <column datatype='integer' name='EcoPassengerCO2' ordinal='3' />
+            <column datatype='integer' name='Raw travel time' ordinal='4' />
+            <column datatype='integer' name='Ticket price' ordinal='5' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[Flights-Trains.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;£&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Route</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Route]</local-name>
+            <parent-name>[Flights-Trains.csv]</parent-name>
+            <remote-alias>Route</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Mode</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[Mode]</local-name>
+            <parent-name>[Flights-Trains.csv]</parent-name>
+            <remote-alias>Mode</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>WeeksAhead</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[WeeksAhead]</local-name>
+            <parent-name>[Flights-Trains.csv]</parent-name>
+            <remote-alias>WeeksAhead</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>EcoPassengerCO2</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[EcoPassengerCO2]</local-name>
+            <parent-name>[Flights-Trains.csv]</parent-name>
+            <remote-alias>EcoPassengerCO2</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Raw travel time</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Raw travel time]</local-name>
+            <parent-name>[Flights-Trains.csv]</parent-name>
+            <remote-alias>Raw travel time</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>Ticket price</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[Ticket price]</local-name>
+            <parent-name>[Flights-Trains.csv]</parent-name>
+            <remote-alias>Ticket price</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column datatype='string' name='[Mode]' role='dimension' type='nominal' />
+      <column datatype='string' name='[Route]' role='dimension' type='nominal'>
+        <aliases>
+          <alias key='&quot;Berlin-Warsaw&quot;' value='Berlin-Warsaw                      (517 km)' />
+          <alias key='&quot;London-Amsterdam&quot;' value='London-Amsterdam        (357 km)' />
+          <alias key='&quot;London-Marseille&quot;' value='London-Marseille               (977 km)' />
+          <alias key='&quot;Munich-Budapest&quot;' value='Munich-Budapest               (562 km)' />
+          <alias key='&quot;Paris-Barcelona&quot;' value='Paris-Barcelona               (826 km)' />
+          <alias key='&quot;Zurich-Milan&quot;' value='Zurich-Milan                      (217 km)' />
+        </aliases>
+      </column>
+      <column caption='Weeks Ahead' datatype='integer' name='[WeeksAhead]' role='measure' type='quantitative' />
+      <column caption='Flights-Trains.csv' datatype='table' name='[__tableau_internal_object_id__].[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]' role='measure' type='quantitative' />
+      <column-instance column='[Mode]' derivation='None' name='[none:Mode:nk]' pivot='key' type='nominal' />
+      <extract count='-1' enabled='true' object-id='' units='records' user-specific='false'>
+        <connection access_mode='readonly' author-locale='en_GB' class='hyper' dbname='C:/Users/eamon/AppData/Local/Temp/TableauTemp/#TableauTemp_0vazmmq1xtrwpr12xcy0s1x7410o.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='10/13/2026 08:05:23 AM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>Route</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Route]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Route</remote-alias>
+              <ordinal>0</ordinal>
+              <family>Flights-Trains.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Mode</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[Mode]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Mode</remote-alias>
+              <ordinal>1</ordinal>
+              <family>Flights-Trains.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>WeeksAhead</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[WeeksAhead]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>WeeksAhead</remote-alias>
+              <ordinal>2</ordinal>
+              <family>Flights-Trains.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>EcoPassengerCO2</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[EcoPassengerCO2]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>EcoPassengerCO2</remote-alias>
+              <ordinal>3</ordinal>
+              <family>Flights-Trains.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>12</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Raw travel time</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Raw travel time]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Raw travel time</remote-alias>
+              <ordinal>4</ordinal>
+              <family>Flights-Trains.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>20</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>Ticket price</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[Ticket price]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>Ticket price</remote-alias>
+              <ordinal>5</ordinal>
+              <family>Flights-Trains.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>58</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Mode:nk]' palette='colour 1 from planes' type='palette'>
+            <map to='#00a3ff'>
+              <bucket>&quot;Train&quot;</bucket>
+            </map>
+            <map to='#d6471f'>
+              <bucket>&quot;Plane&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Ireland&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <object-graph>
+        <objects>
+          <object caption='Flights-Trains.csv' id='Flights-Trains.csv_69F91C99153D418AB5BB5086BCDB3187'>
+            <properties context=''>
+              <relation connection='textscan.0tcyi6p0yxukjh117rkh30j97dtd' name='Flights-Trains.csv' table='[Flights-Trains#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+                  <column datatype='string' name='Route' ordinal='0' />
+                  <column datatype='string' name='Mode' ordinal='1' />
+                  <column datatype='integer' name='WeeksAhead' ordinal='2' />
+                  <column datatype='integer' name='EcoPassengerCO2' ordinal='3' />
+                  <column datatype='integer' name='Raw travel time' ordinal='4' />
+                  <column datatype='integer' name='Ticket price' ordinal='5' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Vis 3 - CO2 vs plane and train'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='Flights-Trains' name='federated.0nc4atj0u0icf51017vfj1cgyauo' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0nc4atj0u0icf51017vfj1cgyauo'>
+            <column datatype='integer' name='[EcoPassengerCO2]' role='measure' type='quantitative' />
+            <column datatype='string' name='[Mode]' role='dimension' type='nominal' />
+            <column datatype='string' name='[Route]' role='dimension' type='nominal'>
+              <aliases>
+                <alias key='&quot;Berlin-Warsaw&quot;' value='Berlin-Warsaw                      (517 km)' />
+                <alias key='&quot;London-Amsterdam&quot;' value='London-Amsterdam        (357 km)' />
+                <alias key='&quot;London-Marseille&quot;' value='London-Marseille               (977 km)' />
+                <alias key='&quot;Munich-Budapest&quot;' value='Munich-Budapest               (562 km)' />
+                <alias key='&quot;Paris-Barcelona&quot;' value='Paris-Barcelona               (826 km)' />
+                <alias key='&quot;Zurich-Milan&quot;' value='Zurich-Milan                      (217 km)' />
+              </aliases>
+            </column>
+            <column-instance column='[EcoPassengerCO2]' derivation='Avg' name='[avg:EcoPassengerCO2:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Mode]' derivation='None' name='[none:Mode:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Route]' derivation='None' name='[none:Route:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0nc4atj0u0icf51017vfj1cgyauo].[none:Mode:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Plane&quot;</bucket>
+              <bucket>&quot;Train&quot;</bucket>
+              <bucket>%all%</bucket>
+            </dictionary>
+          </manual-sort>
+          <manual-sort column='[federated.0nc4atj0u0icf51017vfj1cgyauo].[none:Route:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;Zurich-Milan&quot;</bucket>
+              <bucket>&quot;London-Amsterdam&quot;</bucket>
+              <bucket>&quot;Berlin-Warsaw&quot;</bucket>
+              <bucket>&quot;Munich-Budapest&quot;</bucket>
+              <bucket>&quot;Paris-Barcelona&quot;</bucket>
+              <bucket>&quot;London-Marseille&quot;</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0nc4atj0u0icf51017vfj1cgyauo].[avg:EcoPassengerCO2:qk]' scope='rows' value='CO2 per passenger (Kg)' />
+          </style-rule>
+          <style-rule element='cell'>
+            <format attr='text-format' field='[federated.0nc4atj0u0icf51017vfj1cgyauo].[avg:EcoPassengerCO2:qk]' value='n#,##0;-#,##0' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='display' field='[federated.0nc4atj0u0icf51017vfj1cgyauo].[none:Mode:nk]' value='false' />
+            <format attr='text-format' field='[federated.0nc4atj0u0icf51017vfj1cgyauo].[avg:EcoPassengerCO2:qk]' value='n#,##0;-#,##0' />
+          </style-rule>
+          <style-rule element='table-div'>
+            <format attr='stroke-size' scope='cols' value='1' />
+            <format attr='line-visibility' scope='cols' value='on' />
+            <format attr='line-pattern-only' scope='cols' value='solid' />
+            <format attr='div-level' scope='cols' value='1' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='2' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <encodings>
+              <color column='[federated.0nc4atj0u0icf51017vfj1cgyauo].[none:Mode:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='size' value='1.5492265224456787' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0nc4atj0u0icf51017vfj1cgyauo].[avg:EcoPassengerCO2:qk]</rows>
+        <cols>([federated.0nc4atj0u0icf51017vfj1cgyauo].[none:Route:nk] / [federated.0nc4atj0u0icf51017vfj1cgyauo].[none:Mode:nk])</cols>
+      </table>
+      <simple-id uuid='{604A71C2-D5DA-441C-9557-4B31BF8DA652}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' maximized='true' name='Vis 3 - CO2 vs plane and train'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='2' param='[federated.0nc4atj0u0icf51017vfj1cgyauo].[none:Mode:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+        <highlight>
+          <color-one-way>
+            <field>[federated.0nc4atj0u0icf51017vfj1cgyauo].[none:Mode:nk]</field>
+            <field>[federated.0nc4atj0u0icf51017vfj1cgyauo].[none:Route:nk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{93D5F3A1-4358-46A1-8FF2-B04F67499B0E}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Vis 3 - CO2 vs plane and train' width='192'>
+      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
+      AAAASUVORK5CYII=
+    </thumbnail>
+  </thumbnails>
+</workbook>
