@@ -1,0 +1,2369 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20262.26.0912.1023                               -->
+<workbook _.fcp.WorkbookFingerprinting.true...author-id='cae6da4566b604b03877799dc4ba5fc8565e0f852578341487bb7e2c284190da' _.fcp.WorkbookFingerprinting.true...creator-author-id='cae6da4566b604b03877799dc4ba5fc8565e0f852578341487bb7e2c284190da' _.fcp.WorkbookFingerprinting.true...creator-license-type='public' _.fcp.WorkbookFingerprinting.true...creator-machine-id='069e957b1c15e9df16eab3b0f34ac01749d4010333813e5f57a3a7e34d3e2a4e' _.fcp.WorkbookFingerprinting.true...license-type='public' _.fcp.WorkbookFingerprinting.true...machine-id='069e957b1c15e9df16eab3b0f34ac01749d4010333813e5f57a3a7e34d3e2a4e' original-version='18.1' source-build='2026.2.3 (20262.26.0912.1023)' source-platform='win' version='18.1' xml:base='https://public.tableau.com' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <AnimationOnByDefault />
+    <IntuitiveSorting />
+    <IntuitiveSorting_SP2 />
+    <MarkAnimation />
+    <ObjectModelEncapsulateLegacy />
+    <ObjectModelExtractV2 />
+    <ObjectModelTableType />
+    <SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <VConnDownstreamExtractsWithWarnings />
+    <WindowsPersistSimpleIdentifiers />
+    <_.fcp.WorkbookFingerprinting.true...WorkbookFingerprinting />
+  </document-format-change-manifest>
+  <repository-location id='Lab5ExploratoryAnalysis-GendervsMaritalStatus' path='/workbooks' revision='1.0' />
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+  </preferences>
+  <datasources>
+    <datasource caption='adult_converted' inline='true' name='federated.0majz1a18968a71aozgur0vm611d' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='adult_converted' name='textscan.00edq1p189lnmm1337o131tfjh55'>
+            <connection class='textscan' directory='E:/GG/Msc/SPEC9995_data_visualisation_marisa llorens-salvador_tues/github/spec9995_data_vis_marissa_tues/labs/w5/working' filename='adult_converted.csv' password='' server='' workgroup-auth-mode='as-is' />
+          </named-connection>
+        </named-connections>
+        <relation connection='textscan.00edq1p189lnmm1337o131tfjh55' name='adult_converted.csv' table='[adult_converted#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+            <column datatype='integer' name='age' ordinal='0' />
+            <column datatype='string' name='workclass' ordinal='1' />
+            <column datatype='integer' name='fnlwgt' ordinal='2' />
+            <column datatype='string' name='education' ordinal='3' />
+            <column datatype='integer' name='education_num' ordinal='4' />
+            <column datatype='string' name='marital_status' ordinal='5' />
+            <column datatype='string' name='occupation' ordinal='6' />
+            <column datatype='string' name='relationship' ordinal='7' />
+            <column datatype='string' name='race' ordinal='8' />
+            <column datatype='string' name='gender' ordinal='9' />
+            <column datatype='integer' name='capital_gain' ordinal='10' />
+            <column datatype='integer' name='capital_loss' ordinal='11' />
+            <column datatype='integer' name='hours_per_week' ordinal='12' />
+            <column datatype='string' name='native_country' ordinal='13' />
+            <column datatype='string' name='income_bracket' ordinal='14' />
+          </columns>
+        </relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='currency'>&quot;£&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_GB&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>age</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[age]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>age</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>workclass</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[workclass]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>workclass</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>fnlwgt</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[fnlwgt]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>fnlwgt</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>education</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[education]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>education</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>education_num</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[education_num]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>education_num</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>marital_status</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[marital_status]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>marital_status</remote-alias>
+            <ordinal>5</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>occupation</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[occupation]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>occupation</remote-alias>
+            <ordinal>6</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>relationship</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[relationship]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>relationship</remote-alias>
+            <ordinal>7</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>race</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[race]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>race</remote-alias>
+            <ordinal>8</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>gender</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[gender]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>gender</remote-alias>
+            <ordinal>9</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>capital_gain</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[capital_gain]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>capital_gain</remote-alias>
+            <ordinal>10</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>capital_loss</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[capital_loss]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>capital_loss</remote-alias>
+            <ordinal>11</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>hours_per_week</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[hours_per_week]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>hours_per_week</remote-alias>
+            <ordinal>12</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>native_country</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[native_country]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>native_country</remote-alias>
+            <ordinal>13</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>income_bracket</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[income_bracket]</local-name>
+            <parent-name>[adult_converted.csv]</parent-name>
+            <remote-alias>income_bracket</remote-alias>
+            <ordinal>14</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RGB' />
+            <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column aggregation='None' caption='Age (5 Year bins)' datatype='integer' name='[Age (bin)]' role='dimension' type='ordinal'>
+        <calculation class='bin' decimals='0' formula='[age]' peg='0' size='5' />
+      </column>
+      <column caption='Workclass Null' datatype='boolean' name='[Calculation_0875543909318656]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='ISNULL([workclass])' />
+      </column>
+      <column caption='Occupation Null' datatype='boolean' name='[Calculation_0875543925911553]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='ISNULL([occupation])' />
+      </column>
+      <column caption='Native Country missing' datatype='boolean' name='[Calculation_0875543944421378]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='ISNULL([native_country])' />
+      </column>
+      <column caption='Country Group' datatype='string' name='[Calculation_0875543964782595]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF ISNULL([native_country]) THEN &apos;Missing&apos;&#13;&#10;   ELSEIF [native_country] = &apos;United-States&apos; THEN &apos;United States&apos;&#13;&#10;   ELSEIF [native_country] = &apos;Mexico&apos; THEN &apos;Mexico&apos;&#13;&#10;   ELSE &apos;Other countries&apos;&#13;&#10;   END' />
+      </column>
+      <column caption='Education Level' datatype='string' name='[Calculation_0875543964954628]' role='dimension' type='nominal'>
+        <calculation class='tableau' formula='IF [education_num] &lt;= 8 THEN &apos;1 Below HS&apos;&#13;&#10;   ELSEIF [education_num] = 9 THEN &apos;2 HS-grad&apos;&#13;&#10;   ELSEIF [education_num] &lt;= 12 THEN &apos;3 Some college / Assoc&apos;&#13;&#10;   ELSE &apos;4 Bachelors+&apos;&#13;&#10;   END' />
+      </column>
+      <column aggregation='None' caption='Capital Gain (Dollars $  - 5K bins)' datatype='integer' name='[Capital Gain (bin)]' role='dimension' type='ordinal'>
+        <calculation class='bin' decimals='3' formula='[capital_gain]' peg='0' size='5000' />
+      </column>
+      <column aggregation='None' caption='Capital Loss (Dollars $  - 250 bins)' datatype='integer' name='[Capital Loss (bin)]' role='dimension' type='ordinal'>
+        <calculation class='bin' decimals='2' formula='[capital_loss]' peg='0' size='250' />
+      </column>
+      <column aggregation='None' caption='Fnlwgt (50K bins)' datatype='integer' name='[Fnlwgt (bin)]' role='dimension' type='ordinal'>
+        <calculation class='bin' decimals='4' formula='[fnlwgt]' peg='0' size='50000' />
+      </column>
+      <column aggregation='None' caption='Hours Worked Per Week ( 5 Hour bins)' datatype='integer' name='[Hours Per Week (bin)]' role='dimension' type='ordinal'>
+        <calculation class='bin' decimals='0' formula='[hours_per_week]' peg='0' size='5' />
+      </column>
+      <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+      <column caption='Age' datatype='integer' name='[age]' role='measure' type='quantitative' />
+      <column caption='Capital Gain' datatype='integer' name='[capital_gain]' role='measure' type='quantitative' />
+      <column caption='Capital Loss' datatype='integer' name='[capital_loss]' role='measure' type='quantitative' />
+      <column caption='Education' datatype='string' name='[education]' role='dimension' type='nominal' />
+      <column caption='Education Num' datatype='integer' name='[education_num]' role='dimension' type='ordinal' />
+      <column caption='Fnlwgt' datatype='integer' name='[fnlwgt]' role='measure' type='quantitative' />
+      <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+      <column caption='Hours Per Week' datatype='integer' name='[hours_per_week]' role='dimension' type='quantitative' />
+      <column caption='Income Bracket' datatype='string' name='[income_bracket]' role='dimension' type='nominal' />
+      <column caption='Marital Status' datatype='string' name='[marital_status]' role='dimension' type='nominal' />
+      <column caption='Native Country' datatype='string' name='[native_country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+      <column caption='Occupation' datatype='string' name='[occupation]' role='dimension' type='nominal' />
+      <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+      <column caption='Relationship' datatype='string' name='[relationship]' role='dimension' type='nominal' />
+      <column caption='Workclass' datatype='string' name='[workclass]' role='dimension' type='nominal' />
+      <column-instance column='[Calculation_0875543909318656]' derivation='None' name='[none:Calculation_0875543909318656:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Calculation_0875543925911553]' derivation='None' name='[none:Calculation_0875543925911553:nk]' pivot='key' type='nominal' />
+      <column-instance column='[Calculation_0875543964954628]' derivation='None' name='[none:Calculation_0875543964954628:nk]' pivot='key' type='nominal' />
+      <column-instance column='[gender]' derivation='None' name='[none:gender:nk]' pivot='key' type='nominal' />
+      <column-instance column='[income_bracket]' derivation='None' name='[none:income_bracket:nk]' pivot='key' type='nominal' />
+      <extract count='-1' enabled='true' object-id='' units='records' user-specific='false'>
+        <connection access_mode='readonly' author-locale='en_GB' class='hyper' dbname='C:/Users/eamon/AppData/Local/Temp/TableauTemp/#TableauTemp_0f7ae2f170au2b11bzae80bxxzjv.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='10/20/2026 09:01:59 AM' username='tableau_internal_user'>
+          <relation name='Extract' table='[Extract].[Extract]' type='table' />
+          <metadata-records>
+            <metadata-record class='column'>
+              <remote-name>age</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[age]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>age</remote-alias>
+              <ordinal>0</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>89</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>workclass</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[workclass]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>workclass</remote-alias>
+              <ordinal>1</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>7</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>fnlwgt</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[fnlwgt]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>fnlwgt</remote-alias>
+              <ordinal>2</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>13818</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>education</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[education]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>education</remote-alias>
+              <ordinal>3</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>20</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>education_num</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[education_num]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>education_num</remote-alias>
+              <ordinal>4</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>20</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>marital_status</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[marital_status]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>marital_status</remote-alias>
+              <ordinal>5</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>7</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>occupation</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[occupation]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>occupation</remote-alias>
+              <ordinal>6</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>14</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>relationship</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[relationship]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>relationship</remote-alias>
+              <ordinal>7</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>6</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>race</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[race]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>race</remote-alias>
+              <ordinal>8</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>5</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>gender</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[gender]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>gender</remote-alias>
+              <ordinal>9</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>capital_gain</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[capital_gain]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>capital_gain</remote-alias>
+              <ordinal>10</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>121</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>capital_loss</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[capital_loss]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>capital_loss</remote-alias>
+              <ordinal>11</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>76</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>hours_per_week</remote-name>
+              <remote-type>20</remote-type>
+              <local-name>[hours_per_week]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>hours_per_week</remote-alias>
+              <ordinal>12</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>integer</local-type>
+              <aggregation>Sum</aggregation>
+              <approx-count>107</approx-count>
+              <contains-null>true</contains-null>
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>native_country</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[native_country]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>native_country</remote-alias>
+              <ordinal>13</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>68</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+            <metadata-record class='column'>
+              <remote-name>income_bracket</remote-name>
+              <remote-type>129</remote-type>
+              <local-name>[income_bracket]</local-name>
+              <parent-name>[Extract]</parent-name>
+              <remote-alias>income_bracket</remote-alias>
+              <ordinal>14</ordinal>
+              <family>adult_converted.csv</family>
+              <local-type>string</local-type>
+              <aggregation>Count</aggregation>
+              <approx-count>2</approx-count>
+              <contains-null>true</contains-null>
+              <collation flag='0' name='LEN_RGB' />
+              <object-id>[adult_converted.csv_7120295E822D483F82FF342C3A717F56]</object-id>
+            </metadata-record>
+          </metadata-records>
+        </connection>
+      </extract>
+      <layout dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:Calculation_0875543909318656:nk]' type='palette'>
+            <map to='#b07aa1'>
+              <bucket>false</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>true</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Calculation_0875543925911553:nk]' type='palette'>
+            <map to='#1ba3c6'>
+              <bucket>false</bucket>
+            </map>
+            <map to='#d5bb21'>
+              <bucket>true</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:income_bracket:nk]' type='palette'>
+            <map to='#a0cbe8'>
+              <bucket>&quot;&lt;=50K&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;&gt;50K&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:Calculation_0875543964954628:nk]' type='palette'>
+            <map to='#2c5985'>
+              <bucket>&quot;4 Bachelors+&quot;</bucket>
+            </map>
+            <map to='#419eb6'>
+              <bucket>&quot;3 Some college / Assoc&quot;</bucket>
+            </map>
+            <map to='#7ec1ca'>
+              <bucket>&quot;2 HS-grad&quot;</bucket>
+            </map>
+            <map to='#bce4d8'>
+              <bucket>&quot;1 Below HS&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:gender:nk]' type='palette'>
+            <map to='#99daff'>
+              <bucket>&quot;Male&quot;</bucket>
+            </map>
+            <map to='#ff9da7'>
+              <bucket>&quot;Female&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;Ireland&quot;' />
+      </semantic-values>
+      <date-options start-of-week='monday' />
+      <object-graph>
+        <objects>
+          <object caption='adult_converted.csv' id='adult_converted.csv_7120295E822D483F82FF342C3A717F56'>
+            <properties context=''>
+              <relation connection='textscan.00edq1p189lnmm1337o131tfjh55' name='adult_converted.csv' table='[adult_converted#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_GB' separator=','>
+                  <column datatype='integer' name='age' ordinal='0' />
+                  <column datatype='string' name='workclass' ordinal='1' />
+                  <column datatype='integer' name='fnlwgt' ordinal='2' />
+                  <column datatype='string' name='education' ordinal='3' />
+                  <column datatype='integer' name='education_num' ordinal='4' />
+                  <column datatype='string' name='marital_status' ordinal='5' />
+                  <column datatype='string' name='occupation' ordinal='6' />
+                  <column datatype='string' name='relationship' ordinal='7' />
+                  <column datatype='string' name='race' ordinal='8' />
+                  <column datatype='string' name='gender' ordinal='9' />
+                  <column datatype='integer' name='capital_gain' ordinal='10' />
+                  <column datatype='integer' name='capital_loss' ordinal='11' />
+                  <column datatype='integer' name='hours_per_week' ordinal='12' />
+                  <column datatype='string' name='native_country' ordinal='13' />
+                  <column datatype='string' name='income_bracket' ordinal='14' />
+                </columns>
+              </relation>
+            </properties>
+            <properties context='extract'>
+              <relation name='Extract' table='[Extract].[Extract]' type='table' />
+            </properties>
+          </object>
+        </objects>
+      </object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Age'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column aggregation='None' caption='Age (5 Year bins)' datatype='integer' name='[Age (bin)]' role='dimension' type='ordinal'>
+              <calculation class='bin' decimals='0' formula='[age]' peg='0' size='5' />
+            </column>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Age' datatype='integer' name='[age]' role='measure' type='quantitative' />
+            <column-instance column='[Age (bin)]' derivation='None' name='[none:Age (bin):ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='rows' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='size' value='1.9890055656433105' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[none:Age (bin):ok]</cols>
+        <show-full-range>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Age (bin)]</column>
+        </show-full-range>
+      </table>
+      <simple-id uuid='{385F1CD1-1950-4784-835D-9BB145FF5D00}' />
+    </worksheet>
+    <worksheet name='Capital Gain'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column aggregation='None' caption='Capital Gain (Dollars $  - 5K bins)' datatype='integer' name='[Capital Gain (bin)]' role='dimension' type='ordinal'>
+              <calculation class='bin' decimals='3' formula='[capital_gain]' peg='0' size='5000' />
+            </column>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Capital Gain' datatype='integer' name='[capital_gain]' role='measure' type='quantitative' />
+            <column-instance column='[Capital Gain (bin)]' derivation='None' name='[none:Capital Gain (bin):ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0majz1a18968a71aozgur0vm611d].[none:Capital Gain (bin):ok]'>
+            <groupfilter function='except' user:ui-domain='relevant' user:ui-enumeration='exclusive' user:ui-marker='enumerate'>
+              <groupfilter function='level-members' level='[none:Capital Gain (bin):ok]' />
+              <groupfilter function='member' level='[none:Capital Gain (bin):ok]' member='3' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0majz1a18968a71aozgur0vm611d].[none:Capital Gain (bin):ok]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='rows' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='14' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='color' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='#000000' />
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='12' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='size' value='1.9890055656433105' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#f28e2b' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[none:Capital Gain (bin):ok]</cols>
+        <show-full-range>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Age (bin)]</column>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Capital Loss (bin)]</column>
+        </show-full-range>
+      </table>
+      <simple-id uuid='{F22CA1FD-5F1F-43BB-8FD7-AADBA62EEF56}' />
+    </worksheet>
+    <worksheet name='Capital Loss'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column aggregation='None' caption='Capital Loss (Dollars $  - 250 bins)' datatype='integer' name='[Capital Loss (bin)]' role='dimension' type='ordinal'>
+              <calculation class='bin' decimals='2' formula='[capital_loss]' peg='0' size='250' />
+            </column>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Capital Loss' datatype='integer' name='[capital_loss]' role='measure' type='quantitative' />
+            <column-instance column='[Capital Loss (bin)]' derivation='None' name='[none:Capital Loss (bin):ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='rows' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='14' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='color' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='#000000' />
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='12' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='size' value='1.9890055656433105' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#f17b79' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[none:Capital Loss (bin):ok]</cols>
+        <show-full-range>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Age (bin)]</column>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Capital Loss (bin)]</column>
+        </show-full-range>
+      </table>
+      <simple-id uuid='{2DB6004A-704E-4E77-BA46-7323EFB8A64F}' />
+    </worksheet>
+    <worksheet name='Education'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Education </run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[education]' derivation='Count' name='[cnt:education:qk]' pivot='key' type='quantitative' />
+            <column caption='Education' datatype='string' name='[education]' role='dimension' type='nominal' />
+            <column-instance column='[education]' derivation='None' name='[none:education:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <computed-sort column='[federated.0majz1a18968a71aozgur0vm611d].[none:education:nk]' direction='DESC' using='[federated.0majz1a18968a71aozgur0vm611d].[cnt:education:qk]' />
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='Number of People' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-color' value='#ff9d9a' />
+                <format attr='has-stroke' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:education:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+      </table>
+      <simple-id uuid='{34AA960C-55FF-40F9-A51B-24F75552DB79}' />
+    </worksheet>
+    <worksheet name='Education Num'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Education Num Distribution in order of Progression -  Lowest to Highhest Education Level
+ (1 = Preschool  to 16  = Doctrate)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Education Num' datatype='integer' name='[education_num]' role='dimension' type='ordinal' />
+            <column-instance column='[education_num]' derivation='None' name='[none:education_num:ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='rows' value='Number of People' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#79706e' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[none:education_num:ok]</cols>
+      </table>
+      <simple-id uuid='{78CAEC6B-315F-4BA8-9B57-0BFC8BBFDA28}' />
+    </worksheet>
+    <worksheet name='Education by Country'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Education Levels Attained per Native Country</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='Country Group' datatype='string' name='[Calculation_0875543964782595]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF ISNULL([native_country]) THEN &apos;Missing&apos;&#13;&#10;   ELSEIF [native_country] = &apos;United-States&apos; THEN &apos;United States&apos;&#13;&#10;   ELSEIF [native_country] = &apos;Mexico&apos; THEN &apos;Mexico&apos;&#13;&#10;   ELSE &apos;Other countries&apos;&#13;&#10;   END' />
+            </column>
+            <column caption='Education Level' datatype='string' name='[Calculation_0875543964954628]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='IF [education_num] &lt;= 8 THEN &apos;1 Below HS&apos;&#13;&#10;   ELSEIF [education_num] = 9 THEN &apos;2 HS-grad&apos;&#13;&#10;   ELSEIF [education_num] &lt;= 12 THEN &apos;3 Some college / Assoc&apos;&#13;&#10;   ELSE &apos;4 Bachelors+&apos;&#13;&#10;   END' />
+            </column>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column caption='Education Num' datatype='integer' name='[education_num]' role='dimension' type='ordinal' />
+            <column caption='Native Country' datatype='string' name='[native_country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column-instance column='[Calculation_0875543964782595]' derivation='None' name='[none:Calculation_0875543964782595:nk]' pivot='key' type='nominal' />
+            <column-instance column='[Calculation_0875543964954628]' derivation='None' name='[none:Calculation_0875543964954628:nk]' pivot='key' type='nominal' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:4]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[federated.0majz1a18968a71aozgur0vm611d].[Calculation_0875543964954628]' ordering-type='Field' type='PctTotal' />
+            </column-instance>
+          </datasource-dependencies>
+          <filter class='categorical' column='[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543964782595:nk]'>
+            <groupfilter function='union' user:ui-domain='database' user:ui-enumeration='inclusive' user:ui-marker='enumerate'>
+              <groupfilter function='member' level='[none:Calculation_0875543964782595:nk]' member='&quot;Mexico&quot;' />
+              <groupfilter function='member' level='[none:Calculation_0875543964782595:nk]' member='&quot;Other countries&quot;' />
+              <groupfilter function='member' level='[none:Calculation_0875543964782595:nk]' member='&quot;United States&quot;' />
+            </groupfilter>
+          </filter>
+          <slices>
+            <column>[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543964782595:nk]</column>
+          </slices>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:4]' scope='cols' value='% of People' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='color' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:4]' value='#000000' />
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:4]' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543964954628:nk]' />
+              <text column='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:4]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543964782595:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:4]</cols>
+      </table>
+      <simple-id uuid='{BF89F159-93C9-466E-BA36-558F0DBFA9C8}' />
+    </worksheet>
+    <worksheet name='Final Weight (fnlwgt)'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Final Weight (fnlwgt -50K Bins)</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column aggregation='None' caption='Fnlwgt (50K bins)' datatype='integer' name='[Fnlwgt (bin)]' role='dimension' type='ordinal'>
+              <calculation class='bin' decimals='4' formula='[fnlwgt]' peg='0' size='50000' />
+            </column>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Fnlwgt' datatype='integer' name='[fnlwgt]' role='measure' type='quantitative' />
+            <column-instance column='[Fnlwgt (bin)]' derivation='None' name='[none:Fnlwgt (bin):ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='rows' value='Number of People' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='cols' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#59a14f' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[none:Fnlwgt (bin):ok]</cols>
+        <show-full-range>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Fnlwgt (bin)]</column>
+        </show-full-range>
+      </table>
+      <simple-id uuid='{77D5FEC2-74CF-47B9-86D8-447BE38A69BD}' />
+    </worksheet>
+    <worksheet name='Gender'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Gender Distribution</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+            <column-instance column='[gender]' derivation='None' name='[none:gender:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='11' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+            <format attr='color' field='[federated.0majz1a18968a71aozgur0vm611d].[none:gender:nk]' value='#000000' />
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[none:gender:nk]' value='12' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-color' value='#499894' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:gender:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+        <show-full-range>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Capital Gain (bin)]</column>
+        </show-full-range>
+      </table>
+      <simple-id uuid='{1079014E-43D0-4C7C-A341-F77476566E4F}' />
+    </worksheet>
+    <worksheet name='Gender vs Marital Status'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>&lt;Sheet Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[federated.0majz1a18968a71aozgur0vm611d].[gender]' ordering-type='Field' type='PctTotal' />
+            </column-instance>
+            <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+            <column caption='Marital Status' datatype='string' name='[marital_status]' role='dimension' type='nominal' />
+            <column-instance column='[gender]' derivation='None' name='[none:gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[marital_status]' derivation='None' name='[none:marital_status:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <computed-sort column='[federated.0majz1a18968a71aozgur0vm611d].[none:marital_status:nk]' direction='DESC' using='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' />
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='% of People' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+            <format attr='color' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='#000000' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0majz1a18968a71aozgur0vm611d].[none:gender:nk]' />
+              <text column='[federated.0majz1a18968a71aozgur0vm611d].[none:gender:nk]' />
+              <text column='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontalignment='0'><![CDATA[<[federated.0majz1a18968a71aozgur0vm611d].[none:gender:nk]>]]></run>
+                <run fontalignment='0'>:</run>
+                <run fontalignment='0'><![CDATA[<[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]>]]></run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:marital_status:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+      </table>
+      <simple-id uuid='{8C91313B-CB06-439B-9FFC-A0C2D267B9E6}' />
+    </worksheet>
+    <worksheet name='Hours per Week'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column aggregation='None' caption='Hours Worked Per Week ( 5 Hour bins)' datatype='integer' name='[Hours Per Week (bin)]' role='dimension' type='ordinal'>
+              <calculation class='bin' decimals='0' formula='[hours_per_week]' peg='0' size='5' />
+            </column>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Hours Per Week' datatype='integer' name='[hours_per_week]' role='dimension' type='quantitative' />
+            <column-instance column='[Hours Per Week (bin)]' derivation='None' name='[none:Hours Per Week (bin):ok]' pivot='key' type='ordinal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='rows' value='Number of People' />
+          </style-rule>
+          <style-rule element='header'>
+            <format attr='background-color' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='#ffffff' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='14' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='12' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <mark-sizing mark-sizing-setting='marks-scaling-off' />
+            <style>
+              <style-rule element='cell'>
+                <format attr='text-align' value='center' />
+              </style-rule>
+              <style-rule element='mark'>
+                <format attr='size' value='1.9890055656433105' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[none:Hours Per Week (bin):ok]</cols>
+        <show-full-range>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Age (bin)]</column>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Hours Per Week (bin)]</column>
+        </show-full-range>
+      </table>
+      <simple-id uuid='{9FB784AD-462A-4882-9443-6BCF11885E18}' />
+    </worksheet>
+    <worksheet name='Income Bracket'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'><![CDATA[Income Bracket (Dollars : <= $50K or > $50K)]]></run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Income Bracket' datatype='string' name='[income_bracket]' role='dimension' type='nominal' />
+            <column-instance column='[income_bracket]' derivation='None' name='[none:income_bracket:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='11' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' value='12' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-color' value='#59a14f' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+        <show-full-range>
+          <column>[federated.0majz1a18968a71aozgur0vm611d].[Capital Gain (bin)]</column>
+        </show-full-range>
+      </table>
+      <simple-id uuid='{C0F57D3C-D7BB-466C-A6A6-02197F966850}' />
+    </worksheet>
+    <worksheet name='Income Bracket vs Education'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>&lt;Sheet Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column caption='Education' datatype='string' name='[education]' role='dimension' type='nominal' />
+            <column caption='Education Num' datatype='integer' name='[education_num]' role='dimension' type='ordinal' />
+            <column caption='Income Bracket' datatype='string' name='[income_bracket]' role='dimension' type='nominal' />
+            <column-instance column='[education_num]' derivation='Min' name='[min:education_num:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[education]' derivation='None' name='[none:education:nk]' pivot='key' type='nominal' />
+            <column-instance column='[income_bracket]' derivation='None' name='[none:income_bracket:nk]' pivot='key' type='nominal' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[federated.0majz1a18968a71aozgur0vm611d].[income_bracket]' ordering-type='Field' type='PctTotal' />
+            </column-instance>
+          </datasource-dependencies>
+          <computed-sort column='[federated.0majz1a18968a71aozgur0vm611d].[none:education:nk]' direction='ASC' using='[federated.0majz1a18968a71aozgur0vm611d].[min:education_num:qk]' />
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' scope='cols' value='% of People' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' value='14' />
+            <format attr='color' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' value='#000000' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' />
+              <text column='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' />
+              <text column='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontalignment='0'>&lt;</run>
+                <run fontalignment='0'>[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]</run>
+                <run fontalignment='0'>&gt;:&lt;</run>
+                <run fontalignment='0'>[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]</run>
+                <run fontalignment='0'>&gt;</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:education:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]</cols>
+      </table>
+      <simple-id uuid='{4EC49A59-7CA1-49CE-88C6-C1FC6E4F8832}' />
+    </worksheet>
+    <worksheet name='Income Bracket vs Gender'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column caption='Gender' datatype='string' name='[gender]' role='dimension' type='nominal' />
+            <column caption='Income Bracket' datatype='string' name='[income_bracket]' role='dimension' type='nominal' />
+            <column-instance column='[gender]' derivation='None' name='[none:gender:nk]' pivot='key' type='nominal' />
+            <column-instance column='[income_bracket]' derivation='None' name='[none:income_bracket:nk]' pivot='key' type='nominal' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[federated.0majz1a18968a71aozgur0vm611d].[income_bracket]' ordering-type='Field' type='PctTotal' />
+            </column-instance>
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' scope='cols' value='% of People' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' value='14' />
+            <format attr='color' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' value='#000000' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' />
+              <text column='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run>&lt;</run>
+                <run>[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]</run>
+                <run>&gt;:</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:gender:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]</cols>
+      </table>
+      <simple-id uuid='{206AE3EF-E19B-4019-9552-A5C408101343}' />
+    </worksheet>
+    <worksheet name='Income Bracket vs Race'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>&lt;Sheet Name&gt;</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column caption='Income Bracket' datatype='string' name='[income_bracket]' role='dimension' type='nominal' />
+            <column-instance column='[income_bracket]' derivation='None' name='[none:income_bracket:nk]' pivot='key' type='nominal' />
+            <column-instance column='[race]' derivation='None' name='[none:race:nk]' pivot='key' type='nominal' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' pivot='key' type='quantitative'>
+              <table-calc ordering-field='[federated.0majz1a18968a71aozgur0vm611d].[income_bracket]' ordering-type='Field' type='PctTotal' />
+            </column-instance>
+            <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <manual-sort column='[federated.0majz1a18968a71aozgur0vm611d].[none:race:nk]' direction='ASC'>
+            <dictionary>
+              <bucket>&quot;White&quot;</bucket>
+              <bucket>&quot;Other&quot;</bucket>
+              <bucket>&quot;Black&quot;</bucket>
+              <bucket>&quot;Asian-Pac-Islander&quot;</bucket>
+              <bucket>&quot;Amer-Indian-Eskimo&quot;</bucket>
+              <bucket>%all%</bucket>
+            </dictionary>
+          </manual-sort>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' scope='cols' value='% of People' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' value='14' />
+            <format attr='color' field='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' value='#000000' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' />
+              <text column='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' />
+              <text column='[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]' />
+            </encodings>
+            <customized-label>
+              <formatted-text>
+                <run fontalignment='0'>&lt;</run>
+                <run fontalignment='0'>[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]</run>
+                <run fontalignment='0'>&gt;:&lt;</run>
+                <run fontalignment='0'>[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]</run>
+                <run fontalignment='0'>&gt;</run>
+              </formatted-text>
+            </customized-label>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:race:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[pcto:cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk:3]</cols>
+      </table>
+      <simple-id uuid='{147B30D3-F2DD-44B5-903F-EDC290D600A2}' />
+    </worksheet>
+    <worksheet name='Maital Status'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Marital Status</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Marital Status' datatype='string' name='[marital_status]' role='dimension' type='nominal' />
+            <column-instance column='[marital_status]' derivation='None' name='[none:marital_status:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0majz1a18968a71aozgur0vm611d].[none:marital_status:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' shelf='rows' />
+          </shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='11' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#ba9582' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:marital_status:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+      </table>
+      <simple-id uuid='{75A361BF-C764-433A-9F1F-A7697477024D}' />
+    </worksheet>
+    <worksheet name='Native Country'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Native Country</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='Native Country missing' datatype='boolean' name='[Calculation_0875543944421378]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='ISNULL([native_country])' />
+            </column>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column caption='Native Country' datatype='string' name='[native_country]' role='dimension' semantic-role='[Country].[ISO3166_2]' type='nominal' />
+            <column-instance column='[Calculation_0875543944421378]' derivation='None' name='[none:Calculation_0875543944421378:nk]' pivot='key' type='nominal' />
+            <column-instance column='[native_country]' derivation='None' name='[none:native_country:nk]' pivot='key' type='nominal' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0majz1a18968a71aozgur0vm611d].[none:native_country:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' shelf='rows' />
+          </shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='11' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543944421378:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#f1ce63' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:native_country:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+      </table>
+      <simple-id uuid='{E387FFA0-4AE1-4887-8123-D2C78F4133F5}' />
+    </worksheet>
+    <worksheet name='Occupation'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Occupation</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='Occupation Null' datatype='boolean' name='[Calculation_0875543925911553]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='ISNULL([occupation])' />
+            </column>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_0875543925911553]' derivation='None' name='[none:Calculation_0875543925911553:nk]' pivot='key' type='nominal' />
+            <column-instance column='[occupation]' derivation='None' name='[none:occupation:nk]' pivot='key' type='nominal' />
+            <column caption='Occupation' datatype='string' name='[occupation]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0majz1a18968a71aozgur0vm611d].[none:occupation:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' shelf='rows' />
+          </shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='11' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543925911553:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#f1ce63' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:occupation:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+      </table>
+      <simple-id uuid='{CBD9B06A-864E-4893-A7E4-8FF0BB991732}' />
+    </worksheet>
+    <worksheet name='Race'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Race Distriution</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[race]' derivation='None' name='[none:race:nk]' pivot='key' type='nominal' />
+            <column caption='Race' datatype='string' name='[race]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0majz1a18968a71aozgur0vm611d].[none:race:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' shelf='rows' />
+          </shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='11' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+            <format attr='color' field='[federated.0majz1a18968a71aozgur0vm611d].[none:race:nk]' value='#000000' />
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[none:race:nk]' value='11' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-color' value='#f17b79' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:race:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+      </table>
+      <simple-id uuid='{3FDF4C72-AEB3-4DB5-A3BB-DC3B748CFD65}' />
+    </worksheet>
+    <worksheet name='Relationship'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Relationship Distribution</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[relationship]' derivation='None' name='[none:relationship:nk]' pivot='key' type='nominal' />
+            <column caption='Relationship' datatype='string' name='[relationship]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0majz1a18968a71aozgur0vm611d].[none:relationship:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' shelf='rows' />
+          </shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='Number of People' />
+          </style-rule>
+          <style-rule element='field-labels'>
+            <format attr='font-size' value='11' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+          </style-rule>
+          <style-rule element='worksheet'>
+            <format attr='display-field-labels' scope='rows' value='false' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-cull' value='true' />
+                <format attr='mark-color' value='#8cd17d' />
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:relationship:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+      </table>
+      <simple-id uuid='{8BA8A706-A46B-4FCA-9B7B-A7276F5BE592}' />
+    </worksheet>
+    <worksheet name='Workclass'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run fontalignment='1'>Workclass </run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='adult_converted' name='federated.0majz1a18968a71aozgur0vm611d' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0majz1a18968a71aozgur0vm611d'>
+            <column caption='Workclass Null' datatype='boolean' name='[Calculation_0875543909318656]' role='dimension' type='nominal'>
+              <calculation class='tableau' formula='ISNULL([workclass])' />
+            </column>
+            <column caption='adult_converted.csv' datatype='table' name='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' role='measure' type='quantitative' />
+            <column-instance column='[__tableau_internal_object_id__].[adult_converted.csv_7120295E822D483F82FF342C3A717F56]' derivation='Count' name='[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' pivot='key' type='quantitative' />
+            <column-instance column='[Calculation_0875543909318656]' derivation='None' name='[none:Calculation_0875543909318656:nk]' pivot='key' type='nominal' />
+            <column-instance column='[workclass]' derivation='None' name='[none:workclass:nk]' pivot='key' type='nominal' />
+            <column caption='Workclass' datatype='string' name='[workclass]' role='dimension' type='nominal' />
+          </datasource-dependencies>
+          <shelf-sorts>
+            <shelf-sort-v2 dimension-to-sort='[federated.0majz1a18968a71aozgur0vm611d].[none:workclass:nk]' direction='DESC' is-on-innermost-dimension='true' measure-to-sort-by='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' shelf='rows' />
+          </shelf-sorts>
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='axis'>
+            <format attr='title' class='0' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' scope='cols' value='Number of People' />
+          </style-rule>
+          <style-rule element='label'>
+            <format attr='font-size' field='[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]' value='14' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <color column='[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543909318656:nk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+                <format attr='mark-labels-cull' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows>[federated.0majz1a18968a71aozgur0vm611d].[none:workclass:nk]</rows>
+        <cols>[federated.0majz1a18968a71aozgur0vm611d].[__tableau_internal_object_id__].[cnt:adult_converted.csv_7120295E822D483F82FF342C3A717F56:qk]</cols>
+      </table>
+      <simple-id uuid='{FAF809D2-8390-4124-A07B-F705124F9BFC}' />
+    </worksheet>
+  </worksheets>
+  <windows source-height='30'>
+    <window class='worksheet' name='Age'>
+      <cards>
+        <edge name='left'>
+          <strip size='165'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{3CA41AE7-B961-4A32-9500-E19831F601F9}' />
+    </window>
+    <window class='worksheet' name='Workclass'>
+      <cards>
+        <edge name='left'>
+          <strip size='146'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{F2B7D90A-3B3B-4C00-A6AD-3EE80503453F}' />
+    </window>
+    <window class='worksheet' name='Final Weight (fnlwgt)'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{DD8BDC67-3BCB-45E5-822C-C3915237414B}' />
+    </window>
+    <window class='worksheet' name='Education'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{A35A3A92-0D87-4715-8A04-A12B0C553FF2}' />
+    </window>
+    <window class='worksheet' name='Education Num'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{6AF1DB46-6749-4881-9FDD-F8421F1D9B12}' />
+    </window>
+    <window class='worksheet' name='Maital Status'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{7943DA1F-4AA1-443B-A1D5-1BC57D4FF6FC}' />
+    </window>
+    <window class='worksheet' name='Occupation'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543925911553:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{5632672F-38FB-4413-9E19-B98B204F7C11}' />
+    </window>
+    <window class='worksheet' name='Relationship'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{DB23D430-BC07-41A5-9E72-DFC5E3B99772}' />
+    </window>
+    <window class='worksheet' name='Race'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{BA921318-836A-422E-99B2-FA54CCDA27ED}' />
+    </window>
+    <window class='worksheet' name='Gender'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='fit-height' />
+      </viewpoint>
+      <simple-id uuid='{4A9CCE9A-8DDC-48DC-850C-BDDF0F43940B}' />
+    </window>
+    <window class='worksheet' name='Capital Gain'>
+      <cards>
+        <edge name='left'>
+          <strip size='165'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{00240BC5-0207-499B-A497-3DBD29159327}' />
+    </window>
+    <window class='worksheet' name='Capital Loss'>
+      <cards>
+        <edge name='left'>
+          <strip size='165'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{AEB50543-F591-4336-B679-AEC8D0FA6A26}' />
+    </window>
+    <window class='worksheet' name='Hours per Week'>
+      <cards>
+        <edge name='left'>
+          <strip size='165'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{A98E350D-C79E-490E-937B-35A3900EB039}' />
+    </window>
+    <window class='worksheet' name='Native Country'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543944421378:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{7EFA5474-4ACD-421E-9561-7EBAF0393F77}' />
+    </window>
+    <window class='worksheet' name='Income Bracket'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='fit-height' />
+      </viewpoint>
+      <simple-id uuid='{927A2166-3208-426D-A1BA-0FE13F65CBE2}' />
+    </window>
+    <window class='worksheet' name='Income Bracket vs Gender'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{4C6477E3-51F9-478A-8EA6-C22A7A9B8217}' />
+    </window>
+    <window class='worksheet' name='Income Bracket vs Race'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{2E728507-1ECB-40EF-B3D9-19B4F9E9A751}' />
+    </window>
+    <window class='worksheet' maximized='true' name='Education by Country'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0majz1a18968a71aozgur0vm611d].[none:Calculation_0875543964954628:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <zoom type='entire-view' />
+      </viewpoint>
+      <simple-id uuid='{17C261B2-10C8-44BB-94E3-316C1682E998}' />
+    </window>
+    <window class='worksheet' name='Gender vs Marital Status'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0majz1a18968a71aozgur0vm611d].[none:gender:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{ACFCACD7-0F0A-4BB1-AC42-6567396D5491}' />
+    </window>
+    <window class='worksheet' name='Income Bracket vs Education'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='0' param='[federated.0majz1a18968a71aozgur0vm611d].[none:income_bracket:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{FBA0535C-CDB7-49D5-9DBA-57C17EFF7B41}' />
+    </window>
+  </windows>
+</workbook>
