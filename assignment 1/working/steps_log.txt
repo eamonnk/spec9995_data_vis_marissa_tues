@@ -1,0 +1,328 @@
+https://data.cso.ie/
+
+downlaoded government finance statistics from >> https://www.cso.ie/en/statistics/highvaluedatasetshvd/ >> https://data.cso.ie/
+
+=== GFA01.20261025T131014.csv >>> Revenue, Expemnditure, Financing and Deficit - income and expenditure >>> 1995 to 2025
+data series > contains 29 data series >>>  retain 5 the below .. and rename
+
+1) General Government transactions - Revenue - ESA2010 Code (TR) = total_revenue
+2) General Government transactions - Expenditure - ESA2010 Code (TE) = total_expenditure
+3) General Government Surplus/Deficit - ESA2010 Code (B9) = Surplus/ Deficit = susplus_definicit
+4) General Government transactions - Revenue - Capital transfer revenue (excluding taxes) - ESA2010 Code (D9N) = one_off_capital_receipt
+5) General Government transactions - Expenditure - Interest (excluding FISIM) - ESA2010 Code (D41) = interest_debt
+
+
+
+=== GFA02.20261025T141020.csv >>> Net worth, Gross and Net debt...lilabilities and assets >>> 2000 to 2025
+data series > contains 28 data series >>>  retain 3  the below .. and rename ( did not take any pension data or public physcial asset data.. i/e/ buildings, infrastructure assets etc
+
+
+1) Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4) = cash_bond_assets
+2) Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt) = gross_debt
+3) Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt) = net_debt
+
+Closing net worth
+
+
+
+does not include company savings or individual private savings, just governments sources..
+
+==== GFA03.20261025T141058.csv >> Classification of revemnue and oputput - contains corporation tax Revenue -  from 2000 to 2025....
+data series > contains 48 data series >>>  retain 4 the below .. and rename >> have total revenue from GA01 .. from 1995 there, so keeping gfa01 valeus and dropping here.. cross checled values and they equal, so cross validated fine...
+
+
+1) Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91) = total_tax
+2) Revenue - Corporation tax - ESA2010 Code (D51 part of) = ct
+3) Revenue - Income tax - ESA2010 Code (D51 part of) = income_tax
+4) Revenue - Taxes on products of which Value-Added Tax - ESA2010 Code (D211) = vat
+
+
+
+
+Revenue - Capital transfer revenue - ESA2010 Code (D9N) = Caoital Transfer ( for apple case?)
+
+
+
+===== GFA04.20261025T141047.csv >> Classificatino of expenditure and consumption - expenditure and consumption >> 2000 to 2025>> continas spednign by economic type (pay, benefits, investments). not by department, so health, social welfare, education etc isn't available from this. 
+we have total expenditure from earlier in GFA01, so will sue that one....did tno cross check to validate?
+we have interest from earlier GFA01 also, using from there....
+
+data series > contains 38 data series >>>  retain 3 the below .. and rename >>
+
+
+1) Expenditure - Gross fixed capital formation - ESA2010 Code (P51) = public_investment
+2) Expenditure - Total Social benefits - ESA2010 Code (D62 + D632) = social_benefits
+3) Expenditure - Other capital transfers - ESA2010 Code (D99) = capital_transfers_paid (bail out money from IMF?)
+
+
+some duplicatio of data across csv's. selected the most apprropriate, cross validate?
+
+
+
+===== GFQ02.20261026T041034.csv >>  Net worth, Gross and Net debt...lilabilities and assets >>> 2009 to Q2 2026.....veryh similar datag to GFA02 above, except quarterly data, decided to use GFA02 instead as goes back to 2000, had celtic tiger data...
+
+
+data series > contains 56 data series >>> but it is quarterly data.. notk annual as in the others... retain 3 the below .. and aggregate to make anual data..and rename >>
+
+Not keeping any dhata used for validation only on other data... to interpt the emanings and values...
+
+
+
+
+
+not hug file sizes... 100/200 KB in size...
+
+
+Net debt decomposition yable - 2022 to 2025
+
+For your log: “Net debt decomposition: GFA02 asset change reconciles with GFA01 F2+F3+F4 transactions to within €0.5bn per year (residual = valuation effects).” That’s solid cleaning evidence.
+
+
+
+IFAC >>> https://www.fiscalcouncil.ie/our-work/#data
+
+https://www.fiscalcouncil.ie/our-work/
+
+Downloaded
+Fiscal Assessment reports -https://www.fiscalcouncil.ie/our-work/ >> downlaoded Fiscal Assessment Report, June 2026
+Data-pack-Fiscal-Assessment-Report-June-2026.xlsx
+messier to extract... multiple tabs, chart displayed at top of tab, some explanatory text in cells and furtherdwn data runs in rows across columns i.e. years and figures...
+so need to explicitly call specific tabs, rows and columns....
+
+
+
+
+
+Ecess corporatio Tax>> https://www.fiscalcouncil.ie/wp-content/uploads/2022/05/FAR-May-2022-Box-G-Exchequer-has-benefited-from-some-E22-billion-excess-corporation-tax-.pdf
+>>  “excess”. That is, beyond what is explained by the performance of the domestic economy
+
+CALCULATE value of Excess or Winfall Corp Tax
+there is no clean data set of calcualetd excess copr tax. There was also no clear definition of Excess CT.... 
+There are tables of data on IFAC of forecast avlues and actual values >> https://www.fiscalcouncil.ie/exchequer-monitor/
+Also > Data=Pack-June-2023-FAR.xlsx - Table 2.3 / Figure 2.14
+Figure 4.2 > Structural balance in surplus without windfalls
+Figure 2.5: Top payers of corporation tax have proportionally smaller real economy impacts
+Figure 2.6: Excess corporation tax is forecast to remain high
+Figure 3.1  - unemployment rate from 1952 to 2030
+Normal share of CT in relatino to Total Tax taken = 1/15 SUM 2000 to 2014 CT / Total Raxes (not revenue) 
+Normal CT  = Normal share of CT in relation to Total Tax taken x Total Tax taken
+Excess Corp Tax = CT taken that year - Normal CT
+
+ie. shae of CT eveyr eyar from 2000 to 2014.... to calcualte normal CT %
+
+
+Reflections
+calcualetd values.. definition of excess CT?
+doe percaptia
+changes for inflation... do legacy values relate to tdays values? account for inflation?
+per capit appraoch for cpmparison? - headlien fogures are amount fo revenue generated... not per capita... icnldue percapita just to demonstrat the imprtant of CT in coparison to Nort sea oil for UK and Norrwat.... this is important and generational revenue stream... liek hitting oil.. bigger than hitting iol was for UK... etc
+Kinsale + Corib reflection -societal unrest... ease of liquidity... available today.. no investment or borrowing required to tap into it....
+UK vs Irl >> picture of car... trotters ind trading company vs toyota corrolla for everyone....
+
+
+Insights 
+1) Data-pack-Fiscal-Assessment-Report-June-2026.xlsx > Figure 3.5 alone changes your story. It’s an independent source saying the share of CT being saved fell from about 37% to about 34% and is planned to drop to single digits by 2029. That’s a much stronger and fairer version of “frittered away”: not “we spent it all”, but “we’re saving a third, and plan to save less and less”. It probably deserves to be one of your three insigh
+
+
+Next Steps
+tie in world events.. see what correlation may eb present... why did 2015 startg as CT tax increase
+
+Corrib Plant gas field find >> how much? + social unrest... + time to receive apyemnts ... environmental impact? cpmaprative study?
+Kinsale gas find >> how much? >>> social unest + time to received... environmental impact? comparative study?
+
+
+
+
+high level steps
+
+
+data descipttion - where it was gotten 
+csv imoprted in df > initial assessment high level stats missing values etc
+plto per csv file for gfa01/gfa02/gfa03/gfa04 etc... a tabluea plot inlcuded in repor as part of EDA
+clean and 
+
+ifac - data description
+initial assessment high level stats missing values etc
+plto per stat listed - a tabluea plot inlcuded in repor as part of EDA
+clean....
+
+combine into single dataframd  / calculated fields / export to csv and tableua dashboard for EDA
+
+
+Norway data
+data description - where wa siti gotten etc
+initial assessment high level stats missing values etc
+plto per stat listed - a tabluea plot inlcuded in repor as part of EDA
+clean....
+
+
+
+UK data
+data description
+initial assessment high level stats missing values etc
+plto per stat listed - a tabluea plot inlcuded in repor as part of EDA
+clean....
+
+
+combine into dataframe with relavent Ireland data - export to CSV and import into tableau
+
+
+
+interest on debt - fell from 3.4 to 2.9 Bill>>as debt was paid down. That’s a concrete benefit of using the windfall to cut debt, and a balanced point for the “frittered?” debat
+
+
+
+what to keep
+
+
+keep = {
+    "gfa01": {
+        "General Government transactions - Revenue - ESA2010 Code (TR)": "total_revenue",
+        "General Government transactions - Expenditure - ESA2010 Code (TE)": "total_expenditure",
+        "General Government Surplus/Deficit - ESA2010 Code (B9)": "surplus_deficit",
+        "General Government transactions - Revenue - Capital transfer revenue (excluding taxes) - ESA2010 Code (D9N)": "one_off_capital_receipt",
+        "General Government transactions - Expenditure - Interest (excluding FISIM) - ESA2010 Code (D41)": "interest_debt",
+    },
+    "gfa02": {
+        "Gross General Government Debt (EDP face value) - EDP debt instrument assets - ESA2010 Code (F2 + F3 + F4)": "cash_bond_assets",
+        "Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt)": "gross_debt",
+        "Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt)": "net_debt",
+    },
+    "gfa03": {
+        "Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91)": "total_tax",
+        "Revenue - Corporation tax - ESA2010 Code (D51 part of)": "ct",
+        "Revenue - Income tax - ESA2010 Code (D51 part of)": "income_tax",
+        "Revenue - Taxes on products of which Value-Added Tax - ESA2010 Code (D211)": "vat",
+    },
+    "gfa04": {
+        "Expenditure - Gross fixed capital formation - ESA2010 Code (P51)": "public_investment",
+        "Expenditure - Total Social benefits - ESA2010 Code (D62 + D632)": "social_benefits",
+        "Expenditure - Other capital transfers - ESA2010 Code (D99)": "capital_transfers_paid",
+    },
+}
+
+
+
+# ---------- 2. Filter, rename and stack into one dataframe ----------
+frames = []
+for table, mapping in keep.items():
+    df = data_sources[table].copy()
+    df["item"] = df["item"].str.replace(r"\s+", " ", regex=True).str.strip()   # fix double spaces
+
+    missing = set(mapping) - set(df["item"])          # labels not found in the data
+    if missing:
+        print(f"WARNING {table}: not found -> {missing}")
+
+    df = df[df["item"].isin(mapping)].copy()
+    df["series"] = df["item"].map(mapping)
+    df["source"], df["table"], df["is_forecast"] = "CSO", table.upper(), False
+    frames.append(df)
+    print(f"{table} : {df.shape[0]} rows <- {len(mapping)} series x {df['year'].nunique()} years "
+          f"({df['year'].min()}-{df['year'].max()})")
+
+df_cso = pd.concat(frames, ignore_index=True)[
+    ["year", "series", "value", "unit", "source", "table", "item", "is_forecast"]]
+
+print("\ndf_cso:", df_cso.shape, "| series:", df_cso["series"].nunique())
+display(df_cso.head())
+
+
+
+# Add "bdgt_srplus_minus_ct_diff_from_xpctd": surplus/deficit minus the CT windfall
+# (only positive ct_diff_from_xpctd is subtracted; below-expected years unchanged)
+bdgt_srplus_minus_ct_diff_from_xpctd = w["surplus_deficit"] - ct_diff_from_xpctd.clip(lower=0) df_cso_4 = add_feature(df_cso_3, "bdgt_srplus_minus_ct_diff_from_xpctd",                        bdgt_srplus_minus_ct_diff_from_xpctd, "Euro Million")
+print("\ndf_cso_4:", df_cso_4.shape, "| total number of features", df_cso_4["feature_name"].nunique())
+
+
+SUM([Value]) /
+SUM({FIXED [Feature Name] : SUM(IF [Year] = 2000 THEN [Value] END)}) * 100
+
+
+
+# Find IFAC data packs in the data folder by the year in the file name (skip Excel ~$ lock files)
+ifac_xlsx_files = {}
+for f in sorted(data_location.glob("*.xlsx")):
+    if f.name.startswith("~$"):
+        continue
+    year = re.search(r"20\d{2}", f.name)
+    if year:
+        ifac_xlsx_files[int(year.group())] = f
+        print(f"{year.group()} : {f.name}")
+
+xl_ifac = ifac_xlsx_files[2026]
+
+
+# Location of each series in the IFAC June 2026 data pack (Excel row/column numbers, B=2):
+# key: (tab name, year row, first data column, unit, scale, {data row: feature_name})
+# scale converts units where needed (Figure 2.10 is in EUR billion -> x1000 = EUR million)
+ifac_tabs = {
+    "Fig3.5":  ("Figure 3.5", 40, 3, "Percent", 1,
+                {41: "ifac_pct_ct_saved"}),
+    "Fig2.10": ("Figure 2.10", 23, 2, "Euro Million", 1000,
+                {25: "ifac_fif_balance",
+                 27: "ifac_icnf_balance"}),
+    "Fig2.9":  ("Figure 2.9", 25, 4, "Euro Million", 1,
+                {29: "ifac_fif_contribution",
+                 28: "ifac_icnf_contribution"}),
+    "Fig2.1":  ("Figure 2.1", 33, 2, "Euro Million", 1,
+                {34: "ifac_surplus_excl_apple"}),
+    "Fig2.2":  ("Figure 2.2", 41, 2, "Euro Million", 1,
+                {44: "ifac_bal_excl_excess_ct"}),
+    "Fig3.4":  ("Figure 3.4", 52, 2, "Percent of national income", 1,
+                {56: "ifac_ct_pct_natl_income_ie",
+                 65: "ifac_ct_pct_natl_income_eu"}),
+
+}
+
+
+print(data_location)
+
+for i in sorted(data_location.glob("*.xlsx")):
+    # skip Excel's temporary lock files (created while a workbook is open)
+    if i.name.startswith("~$"):
+        continue
+    # get the pack year from the file name, e.g. "...June-2026.xlsx" -> 2026
+    found = re.search(r"20\d{2}", i.name)
+    if not found:
+        print(f"skipped (no year in name): {i.name}")
+        continue
+    pack_year = int(found.group())
+    # only extract packs whose tab positions have been defined
+    if pack_year not in ifac_tabs_by_year:
+        print(f"skipped (no tab positions defined for {pack_year}): {i.name}")
+        continue
+    # extract each tab into its own dataframe and store it in the dictionary
+    for tab_key, (sheet, year_row, first_col, unit, scale, rows) in ifac_tabs_by_year[pack_year].items():
+        df = ifac_block(i, pack_year, tab_key, sheet, year_row, first_col, unit, scale, rows)
+        key = f"ifac{pack_year}_{tab_key}"
+        data_sources[key] = df
+        print(f"{key} : {df.shape} <-{i.name} [{sheet}]")
+
+# Call the dictionary key names to show the dataframes present
+data_sources.keys()
+
+print(data_location)
+
+for i in sorted(data_location.glob("*.xlsx")):
+    # skip Excel's temporary lock files (created while a workbook is open)
+    if i.name.startswith("~$"):
+        continue
+    # get the pack year from the file name, e.g. "...June-2026.xlsx" -> 2026
+    found = re.search(r"20\d{2}", i.name)
+    if not found:
+        print(f"skipped (no year in name): {i.name}")
+        continue
+    pack_year = int(found.group())
+    # only extract packs whose tab positions have been defined
+    if pack_year not in ifac_tabs_by_year:
+        print(f"skipped (no tab positions defined for {pack_year}): {i.name}")
+        continue
+    # extract each tab into its own dataframe and store it in the dictionary
+    for tab_key, (sheet, year_row, first_col, unit, scale, rows) in ifac_tabs_by_year[pack_year].items():
+        df = ifac_block(i, pack_year, tab_key, sheet, year_row, first_col, unit, scale, rows)
+        key = f"ifac{pack_year}_{tab_key}"
+        data_sources[key] = df
+        print(f"{key} : {df.shape} <-{i.name} [{sheet}]")
+
+# Call the dictionary key names to show the dataframes present
+data_sources.keys()

@@ -1,0 +1,46 @@
+
+	First 11 years of windfall	Best 11-year stretch	Average per year in that stretch	Lifetime average per year
+Ireland (excess CT)	€81bn (2015–2025)	€81bn (so far)	€7.4bn (€19.7bn in 2025)	€7.4bn (so far)
+Norway (oil tax, real)	€17bn (1971–81)	€276bn (2004–14)	€25.1bn	€12.7bn
+Netherlands (gas, real)	€59bn (1969–79)	€158bn (1976–86)	€14.4bn	€8.6bn
+UK (oil and gas, nominal)	€1bn (1968–78)	€98bn (2002–12)	€8.9bn	€4.4bn
+
+Table 1: Feature Table
+Table 2: Feature Table - Tab data Extracted
+Table 3: Windfall Average Amounts over its lifetime
+
+Figure 1 - CSO feature data in Tableau
+Figure 2: Irish Government Revenue vs Expenditure 1995 - 2025
+Figure 3: Irish Government Surplus and Deficit:  1995 - 2025
+Figure 4: Irish Government: Gross and Net Debt with Cash and Assets:  2000 - 2025
+Figure 5: Tax Growth % since 2000
+Figure 6: Tax Composition %:  2000 - 2025
+Figure 7: Corporation Tax as % of National Income Irl vs European Average:
+Figure 8: State Funds Balances – 2024 – 2030
+Figure 9 :  Norway – Oil tax take vs Total Stat Oil Cash flow – 1975 - 2025
+Figure 10: UK Oil and Gas Revenue 1969 - 2021
+Figure 11: Dutch Gas Revenue – Nominal and Inflation Adjusted Terms: 1969 - 2021
+Figure 12: Exploratory Data Analysis (EDA) Dashboard
+Figure 13: Insights Dashboard - Has Ireland Struck "Oil" and If so what will we do with it?
+Figure 14: First iteration
+Figure 15 State Fund Balances: 2024 - 2030
+Figure 16: Final Iteration
+Figure 17: Tax Growth % since 200
+Figure 18 Total Tax composition
+Figure 19: Dutch Gas revenue: 1969 - 2021
+Figure 20: Insight 1 - Has Ireland Struck "Oil"
+
+
+Government_revenues_from_oil_and_gas_production_October_2026_-_data_tables.ods
+30_Statens-netto-kontantstrom_1971-2025_07102026.xlsx
+CBS-aardgasbaten-parlementaire-enqutecommissie-aardgaswinning-Groningen_Update.xlsx
+Data-pack-Fiscal-Assessment-Report-June-2026.xlsx
+GFA01.20261025T131014.csv
+GFA02.20261025T141020.csv
+GFA03.20261025T141058.csv
+GFA04.20261025T141047.csv
+GFQ02.20261026T041034.csv
+spec9995_data_vis_assignment1_csohvd_eamonn_kelly_D24127620.pdf
+spec995_data_vis_assignment1_eamonn_kelly_D24127620.ipynb
+spec9995_data_vis_eamonn_kelly_d24127630_jupyternotebook_and_data.zip
+spec9995_data_vis_eamonn_kelly_d24127630_jupyternotebook_and_data

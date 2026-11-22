@@ -1,0 +1,550 @@
+year,series,value,unit,source,table,item,is_forecast
+1995,Total revenue,20959.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+1995,Total expenditure,22096.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+1995,Surplus/deficit,-1137.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+1996,Total revenue,23074.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+1996,Total expenditure,23192.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+1996,Surplus/deficit,-119.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+1997,Total revenue,26002.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+1997,Total expenditure,25049.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+1997,Surplus/deficit,953.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+1998,Total revenue,29154.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+1998,Total expenditure,27488.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+1998,Surplus/deficit,1666.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+1999,Total revenue,33447.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+1999,Total expenditure,30165.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+1999,Surplus/deficit,3282.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2000,Total revenue,38432.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2000,Total expenditure,33165.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2000,Surplus/deficit,5268.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2001,Total revenue,40451.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2001,Total expenditure,39280.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2001,Surplus/deficit,1171.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2002,Total revenue,44010.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2002,Total expenditure,44716.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2002,Surplus/deficit,-706.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2003,Total revenue,48056.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2003,Total expenditure,47552.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2003,Surplus/deficit,504.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2004,Total revenue,53316.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2004,Total expenditure,51287.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2004,Surplus/deficit,2029.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2005,Total revenue,58913.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2005,Total expenditure,56238.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2005,Surplus/deficit,2675.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2006,Total revenue,67195.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2006,Total expenditure,62063.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2006,Surplus/deficit,5132.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2007,Total revenue,70764.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2007,Total expenditure,70236.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2007,Surplus/deficit,528.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2008,Total revenue,64663.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2008,Total expenditure,77830.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2008,Surplus/deficit,-13167.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2009,Total revenue,55943.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2009,Total expenditure,79461.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2009,Surplus/deficit,-23517.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2010,Total revenue,54864.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2010,Total expenditure,108628.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2010,Surplus/deficit,-53764.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2011,Total revenue,57794.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2011,Total expenditure,81114.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2011,Surplus/deficit,-23320.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2012,Total revenue,59802.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2012,Total expenditure,74669.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2012,Surplus/deficit,-14866.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2013,Total revenue,61395.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2013,Total expenditure,72879.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2013,Surplus/deficit,-11484.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2014,Total revenue,66266.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2014,Total expenditure,73327.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2014,Surplus/deficit,-7060.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2015,Total revenue,71058.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2015,Total expenditure,76436.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2015,Surplus/deficit,-5378.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2016,Total revenue,73822.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2016,Total expenditure,75994.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2016,Surplus/deficit,-2172.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2017,Total revenue,77035.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2017,Total expenditure,77954.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2017,Surplus/deficit,-920.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2018,Total revenue,83241.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2018,Total expenditure,82938.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2018,Surplus/deficit,303.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2019,Total revenue,88303.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2019,Total expenditure,86884.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2019,Surplus/deficit,1419.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2020,Total revenue,83352.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2020,Total expenditure,102123.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2020,Surplus/deficit,-18772.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2021,Total revenue,99650.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2021,Total expenditure,105205.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2021,Surplus/deficit,-5555.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2022,Total revenue,115875.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2022,Total expenditure,107266.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2022,Surplus/deficit,8609.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2023,Total revenue,124031.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2023,Total expenditure,116449.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2023,Surplus/deficit,7582.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2024,Total revenue,149142.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2024,Total expenditure,125708.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2024,Surplus/deficit,23433.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2025,Total revenue,144803.0,Euro Million,CSO,GFA01,General Government transactions - Revenue - ESA2010 Code (TR),False
+2025,Total expenditure,134136.0,Euro Million,CSO,GFA01,General Government transactions - Expenditure - ESA2010 Code (TE),False
+2025,Surplus/deficit,10667.0,Euro Million,CSO,GFA01,General Government Surplus/Deficit - ESA2010 Code (B9),False
+2000,Gross debt,39506.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2000,Net debt,26648.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2001,Gross debt,40995.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2001,Net debt,25481.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2002,Gross debt,42009.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2002,Net debt,30843.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2003,Gross debt,43429.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2003,Net debt,32105.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2004,Gross debt,43914.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2004,Net debt,30965.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2005,Gross debt,44381.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2005,Net debt,30015.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2006,Gross debt,43739.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2006,Net debt,26799.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2007,Gross debt,47195.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2007,Net debt,28331.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2008,Gross debt,79621.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2008,Net debt,42645.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2009,Gross debt,104703.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2009,Net debt,62652.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2010,Gross debt,144227.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2010,Net debt,111483.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2011,Gross debt,189724.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2011,Net debt,136058.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2012,Gross debt,210023.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2012,Net debt,153185.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2013,Gross debt,215239.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2013,Net debt,162685.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2014,Gross debt,203378.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2014,Net debt,168512.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2015,Gross debt,201575.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2015,Net debt,173519.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2016,Gross debt,200557.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2016,Net debt,176862.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2017,Gross debt,201122.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2017,Net debt,175497.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2018,Gross debt,205566.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2018,Net debt,176646.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2019,Gross debt,202936.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2019,Net debt,172788.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2020,Gross debt,217206.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2020,Net debt,183932.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2021,Gross debt,235182.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2021,Net debt,190439.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2022,Gross debt,223696.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2022,Net debt,185417.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2023,Gross debt,219261.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2023,Net debt,177676.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2024,Gross debt,215571.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2024,Net debt,155131.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2025,Gross debt,209923.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Gross General Government Debt - ESA2010 Code (GGDebt),False
+2025,Net debt,138367.0,Euro Million,CSO,GFA02,Gross General Government Debt (EDP face value) - Net General Government Debt - ESA2010 Code (GGNetDebt),False
+2000,Total taxes,29176.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2000,Income tax,9197.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2000,Corporation tax,3885.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2001,Total taxes,30213.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2001,Income tax,9215.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2001,Corporation tax,4144.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2002,Total taxes,32730.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2002,Income tax,9355.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2002,Corporation tax,4804.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2003,Total taxes,36009.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2003,Income tax,9638.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2003,Corporation tax,5155.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2004,Total taxes,40060.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2004,Income tax,11237.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2004,Corporation tax,5335.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2005,Total taxes,44394.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2005,Income tax,11978.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2005,Corporation tax,5503.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2006,Total taxes,50686.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2006,Income tax,13003.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2006,Corporation tax,6685.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2007,Total taxes,52374.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2007,Income tax,14407.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2007,Corporation tax,6393.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2008,Total taxes,45889.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2008,Income tax,14173.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2008,Corporation tax,5071.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2009,Total taxes,38730.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2009,Income tax,12668.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2009,Corporation tax,3889.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2010,Total taxes,37890.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2010,Income tax,11997.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2010,Corporation tax,3944.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2011,Total taxes,38875.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2011,Income tax,14849.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2011,Corporation tax,3500.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2012,Total taxes,40940.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2012,Income tax,16102.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2012,Corporation tax,4215.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2013,Total taxes,42517.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2013,Income tax,16526.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2013,Corporation tax,4272.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2014,Total taxes,46568.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2014,Income tax,17980.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2014,Corporation tax,4617.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2015,Total taxes,50877.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2015,Income tax,19053.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2015,Corporation tax,6872.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2016,Total taxes,52989.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2016,Income tax,19716.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2016,Corporation tax,7352.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2017,Total taxes,55932.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2017,Income tax,20573.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2017,Corporation tax,8201.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2018,Total taxes,60747.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2018,Income tax,21897.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2018,Corporation tax,10387.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2019,Total taxes,64866.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2019,Income tax,23599.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2019,Corporation tax,10887.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2020,Total taxes,61748.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2020,Income tax,23428.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2020,Corporation tax,11953.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2021,Total taxes,75977.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2021,Income tax,27768.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2021,Corporation tax,15323.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2022,Total taxes,89157.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2022,Income tax,31288.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2022,Corporation tax,22645.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2023,Total taxes,93856.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2023,Income tax,33179.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2023,Corporation tax,23838.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2024,Total taxes,103386.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2024,Income tax,35324.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2024,Corporation tax,28110.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2025,Total taxes,111811.0,Euro Million,CSO,GFA03,Revenue - Total Taxes - ESA2010 Code (D2 + D5 + D91),False
+2025,Income tax,36894.0,Euro Million,CSO,GFA03,Revenue - Income tax - ESA2010 Code (D51 part of),False
+2025,Corporation tax,32941.0,Euro Million,CSO,GFA03,Revenue - Corporation tax - ESA2010 Code (D51 part of),False
+2022,GG surplus (incorporating overruns),8482.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.1,GG surplus (incorporating overruns),False
+2023,GG surplus (incorporating overruns),7430.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.1,GG surplus (incorporating overruns),False
+2024,GG surplus (incorporating overruns),9075.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.1,GG surplus (incorporating overruns),False
+2025,GG surplus (incorporating overruns),11222.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.1,GG surplus (incorporating overruns),False
+2026,GG surplus (incorporating overruns),8700.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.1,GG surplus (incorporating overruns),True
+2027,GG surplus (incorporating overruns),8515.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.1,GG surplus (incorporating overruns),True
+2028,GG surplus (incorporating overruns),6155.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.1,GG surplus (incorporating overruns),True
+2029,GG surplus (incorporating overruns),1630.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.1,GG surplus (incorporating overruns),True
+2030,GG surplus (incorporating overruns),5785.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.1,GG surplus (incorporating overruns),True
+1995,GG balance (excl excess CT and CJEU),-1137.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+1996,GG balance (excl excess CT and CJEU),-118.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+1997,GG balance (excl excess CT and CJEU),953.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+1998,GG balance (excl excess CT and CJEU),1666.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+1999,GG balance (excl excess CT and CJEU),3282.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2000,GG balance (excl excess CT and CJEU),5267.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2001,GG balance (excl excess CT and CJEU),1171.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2002,GG balance (excl excess CT and CJEU),-706.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2003,GG balance (excl excess CT and CJEU),504.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2004,GG balance (excl excess CT and CJEU),2029.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2005,GG balance (excl excess CT and CJEU),2675.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2006,GG balance (excl excess CT and CJEU),5132.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2007,GG balance (excl excess CT and CJEU),528.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2008,GG balance (excl excess CT and CJEU),-13167.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2009,GG balance (excl excess CT and CJEU),-23517.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2010,GG balance (excl excess CT and CJEU),-53764.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2011,GG balance (excl excess CT and CJEU),-23320.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2012,GG balance (excl excess CT and CJEU),-14864.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2013,GG balance (excl excess CT and CJEU),-11480.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2014,GG balance (excl excess CT and CJEU),-7056.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2015,GG balance (excl excess CT and CJEU),-6840.723678133644,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2016,GG balance (excl excess CT and CJEU),-3439.6874318259734,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2017,GG balance (excl excess CT and CJEU),-2497.7728026639325,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2018,GG balance (excl excess CT and CJEU),-3039.3765842107846,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2019,GG balance (excl excess CT and CJEU),-1880.8717517004652,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2020,GG balance (excl excess CT and CJEU),-23548.226314757227,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2021,GG balance (excl excess CT and CJEU),-12665.00881388123,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2022,GG balance (excl excess CT and CJEU),-3276.06221263716,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2023,GG balance (excl excess CT and CJEU),-4085.795137488627,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2024,GG balance (excl excess CT and CJEU),-5275.269897391958,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2025,GG balance (excl excess CT and CJEU),-7180.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),False
+2026,GG balance (excl excess CT and CJEU),-11303.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),True
+2027,GG balance (excl excess CT and CJEU),-12786.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),True
+2028,GG balance (excl excess CT and CJEU),-16831.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),True
+2029,GG balance (excl excess CT and CJEU),-20168.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),True
+2030,GG balance (excl excess CT and CJEU),-20911.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.2,GG balance (excl excess CT and CJEU),True
+2024,Contribution - National Training Fund,229.36,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - National Training Fund,False
+2025,Contribution - National Training Fund,251.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - National Training Fund,False
+2026,Contribution - National Training Fund,110.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - National Training Fund,True
+2027,Contribution - National Training Fund,110.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - National Training Fund,True
+2028,Contribution - National Training Fund,110.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - National Training Fund,True
+2029,Contribution - National Training Fund,110.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - National Training Fund,True
+2030,Contribution - National Training Fund,110.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - National Training Fund,True
+2024,Contribution - Social Insurance Fund,3708.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Social Insurance Fund,False
+2025,Contribution - Social Insurance Fund,4557.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Social Insurance Fund,False
+2026,Contribution - Social Insurance Fund,5080.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Social Insurance Fund,True
+2027,Contribution - Social Insurance Fund,6290.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Social Insurance Fund,True
+2028,Contribution - Social Insurance Fund,7645.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Social Insurance Fund,True
+2029,Contribution - Social Insurance Fund,9000.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Social Insurance Fund,True
+2030,Contribution - Social Insurance Fund,10030.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Social Insurance Fund,True
+2024,"Contribution - Infrastructure, Climate & Nature Fund",2000.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,"Contribution - Infrastructure, Climate & Nature Fund",False
+2025,"Contribution - Infrastructure, Climate & Nature Fund",2000.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,"Contribution - Infrastructure, Climate & Nature Fund",False
+2026,"Contribution - Infrastructure, Climate & Nature Fund",2000.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,"Contribution - Infrastructure, Climate & Nature Fund",True
+2027,"Contribution - Infrastructure, Climate & Nature Fund",2000.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,"Contribution - Infrastructure, Climate & Nature Fund",True
+2028,"Contribution - Infrastructure, Climate & Nature Fund",2000.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,"Contribution - Infrastructure, Climate & Nature Fund",True
+2029,"Contribution - Infrastructure, Climate & Nature Fund",2000.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,"Contribution - Infrastructure, Climate & Nature Fund",True
+2030,"Contribution - Infrastructure, Climate & Nature Fund",2000.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,"Contribution - Infrastructure, Climate & Nature Fund",True
+2024,Contribution - Future Ireland Fund,4050.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Future Ireland Fund,False
+2025,Contribution - Future Ireland Fund,4080.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Future Ireland Fund,False
+2026,Contribution - Future Ireland Fund,4500.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Future Ireland Fund,True
+2027,Contribution - Future Ireland Fund,5110.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Future Ireland Fund,True
+2028,Contribution - Future Ireland Fund,5345.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Future Ireland Fund,True
+2029,Contribution - Future Ireland Fund,5645.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Future Ireland Fund,True
+2030,Contribution - Future Ireland Fund,5955.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,Contribution - Future Ireland Fund,True
+2024,GG surplus (incl. Apple),23320.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,GG surplus (incl. Apple),False
+2025,GG surplus (incl. Apple),11222.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,GG surplus (incl. Apple),False
+2026,GG surplus (incl. Apple),8700.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,GG surplus (incl. Apple),True
+2027,GG surplus (incl. Apple),8515.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,GG surplus (incl. Apple),True
+2028,GG surplus (incl. Apple),6155.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,GG surplus (incl. Apple),True
+2029,GG surplus (incl. Apple),1630.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,GG surplus (incl. Apple),True
+2030,GG surplus (incl. Apple),5785.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.9,GG surplus (incl. Apple),True
+2024,Balance - Social Insurance Fund,9252.029999999999,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Social Insurance Fund,False
+2025,Balance - Social Insurance Fund,13809.03,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Social Insurance Fund,False
+2026,Balance - Social Insurance Fund,18889.030000000002,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Social Insurance Fund,True
+2027,Balance - Social Insurance Fund,25179.030000000002,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Social Insurance Fund,True
+2028,Balance - Social Insurance Fund,32824.03,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Social Insurance Fund,True
+2029,Balance - Social Insurance Fund,41824.03,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Social Insurance Fund,True
+2030,Balance - Social Insurance Fund,51854.03,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Social Insurance Fund,True
+2024,Balance - Future Ireland Fund (7.6% return assumed),8398.709,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Future Ireland Fund (7.6% return assumed),False
+2025,Balance - Future Ireland Fund (7.6% return assumed),13113.98734876,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Future Ireland Fund (7.6% return assumed),False
+2026,Balance - Future Ireland Fund (7.6% return assumed),18605.929351820207,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Future Ireland Fund (7.6% return assumed),True
+2027,Balance - Future Ireland Fund (7.6% return assumed),25123.281847991886,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Future Ireland Fund (7.6% return assumed),True
+2028,Balance - Future Ireland Fund (7.6% return assumed),32368.606886973994,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Future Ireland Fund (7.6% return assumed),True
+2029,Balance - Future Ireland Fund (7.6% return assumed),40461.968311904704,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Future Ireland Fund (7.6% return assumed),True
+2030,Balance - Future Ireland Fund (7.6% return assumed),49477.511595017175,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Future Ireland Fund (7.6% return assumed),True
+2024,Balance - National Training Fund,1771.9689999999998,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - National Training Fund,False
+2025,Balance - National Training Fund,2022.9689999999998,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - National Training Fund,False
+2026,Balance - National Training Fund,2132.969,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - National Training Fund,True
+2027,Balance - National Training Fund,2242.969,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - National Training Fund,True
+2028,Balance - National Training Fund,2352.969,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - National Training Fund,True
+2029,Balance - National Training Fund,2462.969,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - National Training Fund,True
+2030,Balance - National Training Fund,2572.969,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - National Training Fund,True
+2024,"Balance - Infrastructure, Climate & Nature Fund",2016.2399999999998,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,"Balance - Infrastructure, Climate & Nature Fund",False
+2025,"Balance - Infrastructure, Climate & Nature Fund",3976.318448,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,"Balance - Infrastructure, Climate & Nature Fund",False
+2026,"Balance - Infrastructure, Climate & Nature Fund",5897.5873427296,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,"Balance - Infrastructure, Climate & Nature Fund",True
+2027,"Balance - Infrastructure, Climate & Nature Fund",7780.815113343554,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,"Balance - Infrastructure, Climate & Nature Fund",True
+2028,"Balance - Infrastructure, Climate & Nature Fund",8511.75497409935,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,"Balance - Infrastructure, Climate & Nature Fund",True
+2029,"Balance - Infrastructure, Climate & Nature Fund",8343.222225612184,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,"Balance - Infrastructure, Climate & Nature Fund",True
+2030,"Balance - Infrastructure, Climate & Nature Fund",10178.026425545064,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,"Balance - Infrastructure, Climate & Nature Fund",True
+2024,Balance - Ireland Strategic Investment Fund,16667.0,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Ireland Strategic Investment Fund,False
+2025,Balance - Ireland Strategic Investment Fund,17233.678,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Ireland Strategic Investment Fund,False
+2026,Balance - Ireland Strategic Investment Fund,17819.623052,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Ireland Strategic Investment Fund,True
+2027,Balance - Ireland Strategic Investment Fund,18425.490235768,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Ireland Strategic Investment Fund,True
+2028,Balance - Ireland Strategic Investment Fund,19051.956903784114,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Ireland Strategic Investment Fund,True
+2029,Balance - Ireland Strategic Investment Fund,19699.723438512774,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Ireland Strategic Investment Fund,True
+2030,Balance - Ireland Strategic Investment Fund,20369.51403542221,Euro Million,IFAC,FAR Jun 2026 Figure 2.10,Balance - Ireland Strategic Investment Fund,True
+1995,CT % national income -ireland,2.809881075903903,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+1996,CT % national income -ireland,3.2533844235183547,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+1997,CT % national income -ireland,3.61626554959145,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+1998,CT % national income -ireland,3.624247456923396,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+1999,CT % national income -ireland,4.264776936704783,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2000,CT % national income -ireland,4.12351548984855,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2001,CT % national income -ireland,3.998861300626284,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2002,CT % national income -ireland,4.257744294261023,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2003,CT % national income -ireland,4.166484826443609,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2004,CT % national income -ireland,4.024531917140659,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2005,CT % national income -ireland,3.8180607204307044,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2006,CT % national income -ireland,4.235638520320876,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2007,CT % national income -ireland,3.864762918006625,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2008,CT % national income -ireland,3.242232451093211,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2009,CT % national income -ireland,2.8969909131535827,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2010,CT % national income -ireland,3.057314964841963,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2011,CT % national income -ireland,2.9077915232691534,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2012,CT % national income -ireland,3.0906283869659803,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2013,CT % national income -ireland,3.095774668299505,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2014,CT % national income -ireland,3.0637583447250716,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2015,CT % national income -ireland,4.0909172089036,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2016,CT % national income -ireland,4.242940168177804,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2017,CT % national income -ireland,4.440678333188946,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2018,CT % national income -ireland,5.421235861809793,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2019,CT % national income -ireland,5.269850335921315,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2020,CT % national income -ireland,6.0281516821916155,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2021,CT % national income -ireland,6.657065401558794,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2022,CT % national income -ireland,8.491349247418274,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2023,CT % national income -ireland,8.237094582538397,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2024,CT % national income -ireland,8.786600975403148,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+2025,CT % national income -ireland,9.210468891615031,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % national income -ireland,False
+1995,CT % of national income Eurpoean avg,2.29,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+1996,CT % of national income Eurpoean avg,2.61,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+1997,CT % of national income Eurpoean avg,2.8899999999999997,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+1998,CT % of national income Eurpoean avg,2.8899999999999997,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+1999,CT % of national income Eurpoean avg,2.9499999999999997,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2000,CT % of national income Eurpoean avg,3.2700000000000005,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2001,CT % of national income Eurpoean avg,3.11,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2002,CT % of national income Eurpoean avg,2.8,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2003,CT % of national income Eurpoean avg,2.5300000000000002,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2004,CT % of national income Eurpoean avg,2.68,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2005,CT % of national income Eurpoean avg,2.85,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2006,CT % of national income Eurpoean avg,3.0799999999999996,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2007,CT % of national income Eurpoean avg,3.2199999999999998,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2008,CT % of national income Eurpoean avg,2.98,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2009,CT % of national income Eurpoean avg,2.23,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2010,CT % of national income Eurpoean avg,2.44,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2011,CT % of national income Eurpoean avg,2.54,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2012,CT % of national income Eurpoean avg,2.4699999999999998,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2013,CT % of national income Eurpoean avg,2.65,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2014,CT % of national income Eurpoean avg,2.5300000000000002,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2015,CT % of national income Eurpoean avg,2.69,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2016,CT % of national income Eurpoean avg,2.78,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2017,CT % of national income Eurpoean avg,2.9999999999999996,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2018,CT % of national income Eurpoean avg,2.9600000000000004,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2019,CT % of national income Eurpoean avg,2.98,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2020,CT % of national income Eurpoean avg,2.71,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2021,CT % of national income Eurpoean avg,3.1000000000000005,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2022,CT % of national income Eurpoean avg,3.46,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2023,CT % of national income Eurpoean avg,3.4599999999999995,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2024,CT % of national income Eurpoean avg,3.500000000000001,Percent of national income,IFAC,FAR Jun 2026 Figure 3.4,CT % of national income Eurpoean avg,False
+2022,% of CT saved (surplus as % of CT),37.46040534084155,Percent,IFAC,FAR Jun 2026 Figure 3.5,% of CT saved (surplus as % of CT),False
+2023,% of CT saved (surplus as % of CT),31.165775791420458,Percent,IFAC,FAR Jun 2026 Figure 3.5,% of CT saved (surplus as % of CT),False
+2024,% of CT saved (surplus as % of CT),32.27810545340636,Percent,IFAC,FAR Jun 2026 Figure 3.5,% of CT saved (surplus as % of CT),False
+2025,% of CT saved (surplus as % of CT),34.0587348042113,Percent,IFAC,FAR Jun 2026 Figure 3.5,% of CT saved (surplus as % of CT),False
+2026,% of CT saved (surplus as % of CT),24.644375177103996,Percent,IFAC,FAR Jun 2026 Figure 3.5,% of CT saved (surplus as % of CT),True
+2027,% of CT saved (surplus as % of CT),22.776886035313,Percent,IFAC,FAR Jun 2026 Figure 3.5,% of CT saved (surplus as % of CT),True
+2028,% of CT saved (surplus as % of CT),15.488325382877228,Percent,IFAC,FAR Jun 2026 Figure 3.5,% of CT saved (surplus as % of CT),True
+2029,% of CT saved (surplus as % of CT),4.141606395127522,Percent,IFAC,FAR Jun 2026 Figure 3.5,% of CT saved (surplus as % of CT),True
+2030,% of CT saved (surplus as % of CT),12.807522123893806,Percent,IFAC,FAR Jun 2026 Figure 3.5,% of CT saved (surplus as % of CT),True
+2000,CT share of total taxes (%),13.31573896353167,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2001,CT share of total taxes (%),13.715950087710588,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2002,CT share of total taxes (%),14.677665750076383,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2003,CT share of total taxes (%),14.315865478074926,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2004,CT share of total taxes (%),13.317523714428358,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2005,CT share of total taxes (%),12.39581925485426,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2006,CT share of total taxes (%),13.18904628497021,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2007,CT share of total taxes (%),12.20643830908466,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2008,CT share of total taxes (%),11.050578570027675,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2009,CT share of total taxes (%),10.041311644719855,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2010,CT share of total taxes (%),10.409078912641858,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2011,CT share of total taxes (%),9.003215434083602,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2012,CT share of total taxes (%),10.295554469956034,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2013,CT share of total taxes (%),10.047745607639296,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2014,CT share of total taxes (%),9.914533585294622,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2015,CT share of total taxes (%),13.507085716532027,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2016,CT share of total taxes (%),13.87457774255034,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2017,CT share of total taxes (%),14.662447257383967,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2018,CT share of total taxes (%),17.098786771363194,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2019,CT share of total taxes (%),16.783831282952548,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2020,CT share of total taxes (%),19.357711990671763,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2021,CT share of total taxes (%),20.167945562472852,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2022,CT share of total taxes (%),25.399015220341642,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2023,CT share of total taxes (%),25.398482782134334,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2024,CT share of total taxes (%),27.18936799953572,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2025,CT share of total taxes (%),29.461323125631644,Percent,Calculated,Derived (notebook),CT share of total taxes (%),False
+2000,Normal CT (calculated),3460.197082382356,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2001,Normal CT (calculated),3583.182562723407,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2002,Normal CT (calculated),3881.6921615839906,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2003,Normal CT (calculated),4270.572962006658,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2004,Normal CT (calculated),4751.01093776519,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2005,Normal CT (calculated),5265.011971321714,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2006,Normal CT (calculated),6011.226669784483,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2007,Normal CT (calculated),6211.419042798653,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2008,Normal CT (calculated),5442.3150505019175,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2009,Normal CT (calculated),4593.276425852367,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2010,Normal CT (calculated),4493.654628854794,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2011,Normal CT (calculated),4610.473045572186,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2012,Normal CT (calculated),4855.376629857885,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2013,Normal CT (calculated),5042.40469398309,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2014,Normal CT (calculated),5522.842669741622,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2015,Normal CT (calculated),6033.878768863694,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2016,Normal CT (calculated),6284.356429886162,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2017,Normal CT (calculated),6633.3885115098,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2018,Normal CT (calculated),7204.434883585172,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2019,Normal CT (calculated),7692.937481005412,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2020,Normal CT (calculated),7323.150858340613,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2021,Normal CT (calculated),9010.672941053066,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2022,Normal CT (calculated),10573.786374895932,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2023,Normal CT (calculated),11131.07545119545,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2024,Normal CT (calculated),12261.308457608386,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2025,Normal CT (calculated),13260.491362018563,Euro Million,Calculated,Derived (notebook),Normal CT (calculated),False
+2000,Excess CT signed (calculated),424.8029176176442,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2001,Excess CT signed (calculated),560.817437276593,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2002,Excess CT signed (calculated),922.3078384160094,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2003,Excess CT signed (calculated),884.4270379933423,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2004,Excess CT signed (calculated),583.9890622348103,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2005,Excess CT signed (calculated),237.98802867828635,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2006,Excess CT signed (calculated),673.7733302155166,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2007,Excess CT signed (calculated),181.5809572013468,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2008,Excess CT signed (calculated),-371.31505050191754,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2009,Excess CT signed (calculated),-704.2764258523666,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2010,Excess CT signed (calculated),-549.6546288547943,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2011,Excess CT signed (calculated),-1110.4730455721856,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2012,Excess CT signed (calculated),-640.3766298578848,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2013,Excess CT signed (calculated),-770.4046939830896,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2014,Excess CT signed (calculated),-905.8426697416216,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2015,Excess CT signed (calculated),838.121231136306,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2016,Excess CT signed (calculated),1067.643570113838,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2017,Excess CT signed (calculated),1567.6114884902,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2018,Excess CT signed (calculated),3182.5651164148276,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2019,Excess CT signed (calculated),3194.0625189945877,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2020,Excess CT signed (calculated),4629.849141659387,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2021,Excess CT signed (calculated),6312.327058946934,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2022,Excess CT signed (calculated),12071.213625104068,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2023,Excess CT signed (calculated),12706.92454880455,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2024,Excess CT signed (calculated),15848.691542391614,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2025,Excess CT signed (calculated),19680.50863798144,Euro Million,Calculated,Derived (notebook),Excess CT signed (calculated),False
+2000,Excess CT (calculated),424.8029176176442,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2001,Excess CT (calculated),560.817437276593,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2002,Excess CT (calculated),922.3078384160094,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2003,Excess CT (calculated),884.4270379933423,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2004,Excess CT (calculated),583.9890622348103,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2005,Excess CT (calculated),237.98802867828635,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2006,Excess CT (calculated),673.7733302155166,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2007,Excess CT (calculated),181.5809572013468,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2008,Excess CT (calculated),0.0,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2009,Excess CT (calculated),0.0,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2010,Excess CT (calculated),0.0,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2011,Excess CT (calculated),0.0,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2012,Excess CT (calculated),0.0,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2013,Excess CT (calculated),0.0,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2014,Excess CT (calculated),0.0,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2015,Excess CT (calculated),838.121231136306,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2016,Excess CT (calculated),1067.643570113838,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2017,Excess CT (calculated),1567.6114884902,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2018,Excess CT (calculated),3182.5651164148276,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2019,Excess CT (calculated),3194.0625189945877,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2020,Excess CT (calculated),4629.849141659387,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2021,Excess CT (calculated),6312.327058946934,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2022,Excess CT (calculated),12071.213625104068,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2023,Excess CT (calculated),12706.92454880455,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2024,Excess CT (calculated),15848.691542391614,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2025,Excess CT (calculated),19680.50863798144,Euro Million,Calculated,Derived (notebook),Excess CT (calculated),False
+2000,Surplus excl. excess CT (calculated),4843.197082382356,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2001,Surplus excl. excess CT (calculated),610.182562723407,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2002,Surplus excl. excess CT (calculated),-1628.3078384160094,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2003,Surplus excl. excess CT (calculated),-380.4270379933423,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2004,Surplus excl. excess CT (calculated),1445.0109377651897,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2005,Surplus excl. excess CT (calculated),2437.0119713217136,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2006,Surplus excl. excess CT (calculated),4458.226669784483,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2007,Surplus excl. excess CT (calculated),346.4190427986532,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2008,Surplus excl. excess CT (calculated),-13167.0,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2009,Surplus excl. excess CT (calculated),-23517.0,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2010,Surplus excl. excess CT (calculated),-53764.0,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2011,Surplus excl. excess CT (calculated),-23320.0,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2012,Surplus excl. excess CT (calculated),-14866.0,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2013,Surplus excl. excess CT (calculated),-11484.0,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2014,Surplus excl. excess CT (calculated),-7060.0,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2015,Surplus excl. excess CT (calculated),-6216.121231136306,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2016,Surplus excl. excess CT (calculated),-3239.643570113838,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2017,Surplus excl. excess CT (calculated),-2487.6114884902,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2018,Surplus excl. excess CT (calculated),-2879.5651164148276,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2019,Surplus excl. excess CT (calculated),-1775.0625189945877,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2020,Surplus excl. excess CT (calculated),-23401.849141659386,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2021,Surplus excl. excess CT (calculated),-11867.327058946934,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2022,Surplus excl. excess CT (calculated),-3462.2136251040683,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2023,Surplus excl. excess CT (calculated),-5124.924548804551,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2024,Surplus excl. excess CT (calculated),7584.308457608386,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2025,Surplus excl. excess CT (calculated),-9013.508637981438,Euro Million,Calculated,Derived (notebook),Surplus excl. excess CT (calculated),False
+2015,Excess CT (IFAC-derived),1462.7236781336442,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2016,Excess CT (IFAC-derived),1267.6874318259734,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2017,Excess CT (IFAC-derived),1577.7728026639325,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2018,Excess CT (IFAC-derived),3342.3765842107846,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2019,Excess CT (IFAC-derived),3299.871751700465,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2020,Excess CT (IFAC-derived),4776.226314757227,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2021,Excess CT (IFAC-derived),7110.00881388123,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2022,Excess CT (IFAC-derived),11758.06221263716,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2023,Excess CT (IFAC-derived),11515.795137488627,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2024,Excess CT (IFAC-derived),14350.269897391958,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False
+2025,Excess CT (IFAC-derived),18402.0,Euro Million,Calculated,Derived (notebook),Excess CT (IFAC-derived),False

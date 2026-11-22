@@ -1,0 +1,1365 @@
+year,feature_name,value,unit,orig_org_source,orig_file_source,is_forecast
+1995,total_revenue,20959.0,Euro Million,irl-cso,GFA01,False
+1995,one_off_capital_receipt,911.0,Euro Million,irl-cso,GFA01,False
+1995,total_expenditure,22096.0,Euro Million,irl-cso,GFA01,False
+1995,interest_debt,2814.0,Euro Million,irl-cso,GFA01,False
+1995,surplus_deficit,-1137.0,Euro Million,irl-cso,GFA01,False
+1996,total_revenue,23074.0,Euro Million,irl-cso,GFA01,False
+1996,one_off_capital_receipt,859.0,Euro Million,irl-cso,GFA01,False
+1996,total_expenditure,23192.0,Euro Million,irl-cso,GFA01,False
+1996,interest_debt,2644.0,Euro Million,irl-cso,GFA01,False
+1996,surplus_deficit,-119.0,Euro Million,irl-cso,GFA01,False
+1997,total_revenue,26002.0,Euro Million,irl-cso,GFA01,False
+1997,one_off_capital_receipt,1115.0,Euro Million,irl-cso,GFA01,False
+1997,total_expenditure,25049.0,Euro Million,irl-cso,GFA01,False
+1997,interest_debt,2569.0,Euro Million,irl-cso,GFA01,False
+1997,surplus_deficit,953.0,Euro Million,irl-cso,GFA01,False
+1998,total_revenue,29154.0,Euro Million,irl-cso,GFA01,False
+1998,one_off_capital_receipt,1071.0,Euro Million,irl-cso,GFA01,False
+1998,total_expenditure,27488.0,Euro Million,irl-cso,GFA01,False
+1998,interest_debt,2686.0,Euro Million,irl-cso,GFA01,False
+1998,surplus_deficit,1666.0,Euro Million,irl-cso,GFA01,False
+1999,total_revenue,33447.0,Euro Million,irl-cso,GFA01,False
+1999,one_off_capital_receipt,1306.0,Euro Million,irl-cso,GFA01,False
+1999,total_expenditure,30165.0,Euro Million,irl-cso,GFA01,False
+1999,interest_debt,2190.0,Euro Million,irl-cso,GFA01,False
+1999,surplus_deficit,3282.0,Euro Million,irl-cso,GFA01,False
+2000,total_revenue,38432.0,Euro Million,irl-cso,GFA01,False
+2000,one_off_capital_receipt,1248.0,Euro Million,irl-cso,GFA01,False
+2000,total_expenditure,33165.0,Euro Million,irl-cso,GFA01,False
+2000,interest_debt,2107.0,Euro Million,irl-cso,GFA01,False
+2000,surplus_deficit,5268.0,Euro Million,irl-cso,GFA01,False
+2001,total_revenue,40451.0,Euro Million,irl-cso,GFA01,False
+2001,one_off_capital_receipt,1249.0,Euro Million,irl-cso,GFA01,False
+2001,total_expenditure,39280.0,Euro Million,irl-cso,GFA01,False
+2001,interest_debt,1757.0,Euro Million,irl-cso,GFA01,False
+2001,surplus_deficit,1171.0,Euro Million,irl-cso,GFA01,False
+2002,total_revenue,44010.0,Euro Million,irl-cso,GFA01,False
+2002,one_off_capital_receipt,1480.0,Euro Million,irl-cso,GFA01,False
+2002,total_expenditure,44716.0,Euro Million,irl-cso,GFA01,False
+2002,interest_debt,1793.0,Euro Million,irl-cso,GFA01,False
+2002,surplus_deficit,-706.0,Euro Million,irl-cso,GFA01,False
+2003,total_revenue,48056.0,Euro Million,irl-cso,GFA01,False
+2003,one_off_capital_receipt,1595.0,Euro Million,irl-cso,GFA01,False
+2003,total_expenditure,47552.0,Euro Million,irl-cso,GFA01,False
+2003,interest_debt,1775.0,Euro Million,irl-cso,GFA01,False
+2003,surplus_deficit,504.0,Euro Million,irl-cso,GFA01,False
+2004,total_revenue,53316.0,Euro Million,irl-cso,GFA01,False
+2004,one_off_capital_receipt,1631.0,Euro Million,irl-cso,GFA01,False
+2004,total_expenditure,51287.0,Euro Million,irl-cso,GFA01,False
+2004,interest_debt,1714.0,Euro Million,irl-cso,GFA01,False
+2004,surplus_deficit,2029.0,Euro Million,irl-cso,GFA01,False
+2005,total_revenue,58913.0,Euro Million,irl-cso,GFA01,False
+2005,one_off_capital_receipt,1697.0,Euro Million,irl-cso,GFA01,False
+2005,total_expenditure,56238.0,Euro Million,irl-cso,GFA01,False
+2005,interest_debt,1742.0,Euro Million,irl-cso,GFA01,False
+2005,surplus_deficit,2675.0,Euro Million,irl-cso,GFA01,False
+2006,total_revenue,67195.0,Euro Million,irl-cso,GFA01,False
+2006,one_off_capital_receipt,2184.0,Euro Million,irl-cso,GFA01,False
+2006,total_expenditure,62063.0,Euro Million,irl-cso,GFA01,False
+2006,interest_debt,1850.0,Euro Million,irl-cso,GFA01,False
+2006,surplus_deficit,5132.0,Euro Million,irl-cso,GFA01,False
+2007,total_revenue,70764.0,Euro Million,irl-cso,GFA01,False
+2007,one_off_capital_receipt,2505.0,Euro Million,irl-cso,GFA01,False
+2007,total_expenditure,70236.0,Euro Million,irl-cso,GFA01,False
+2007,interest_debt,1985.0,Euro Million,irl-cso,GFA01,False
+2007,surplus_deficit,528.0,Euro Million,irl-cso,GFA01,False
+2008,total_revenue,64663.0,Euro Million,irl-cso,GFA01,False
+2008,one_off_capital_receipt,1952.0,Euro Million,irl-cso,GFA01,False
+2008,total_expenditure,77830.0,Euro Million,irl-cso,GFA01,False
+2008,interest_debt,2403.0,Euro Million,irl-cso,GFA01,False
+2008,surplus_deficit,-13167.0,Euro Million,irl-cso,GFA01,False
+2009,total_revenue,55943.0,Euro Million,irl-cso,GFA01,False
+2009,one_off_capital_receipt,797.0,Euro Million,irl-cso,GFA01,False
+2009,total_expenditure,79461.0,Euro Million,irl-cso,GFA01,False
+2009,interest_debt,3416.0,Euro Million,irl-cso,GFA01,False
+2009,surplus_deficit,-23517.0,Euro Million,irl-cso,GFA01,False
+2010,total_revenue,54864.0,Euro Million,irl-cso,GFA01,False
+2010,one_off_capital_receipt,322.0,Euro Million,irl-cso,GFA01,False
+2010,total_expenditure,108628.0,Euro Million,irl-cso,GFA01,False
+2010,interest_debt,4748.0,Euro Million,irl-cso,GFA01,False
+2010,surplus_deficit,-53764.0,Euro Million,irl-cso,GFA01,False
+2011,total_revenue,57794.0,Euro Million,irl-cso,GFA01,False
+2011,one_off_capital_receipt,610.0,Euro Million,irl-cso,GFA01,False
+2011,total_expenditure,81114.0,Euro Million,irl-cso,GFA01,False
+2011,interest_debt,5768.0,Euro Million,irl-cso,GFA01,False
+2011,surplus_deficit,-23320.0,Euro Million,irl-cso,GFA01,False
+2012,total_revenue,59802.0,Euro Million,irl-cso,GFA01,False
+2012,one_off_capital_receipt,299.0,Euro Million,irl-cso,GFA01,False
+2012,total_expenditure,74669.0,Euro Million,irl-cso,GFA01,False
+2012,interest_debt,7298.0,Euro Million,irl-cso,GFA01,False
+2012,surplus_deficit,-14866.0,Euro Million,irl-cso,GFA01,False
+2013,total_revenue,61395.0,Euro Million,irl-cso,GFA01,False
+2013,one_off_capital_receipt,286.0,Euro Million,irl-cso,GFA01,False
+2013,total_expenditure,72879.0,Euro Million,irl-cso,GFA01,False
+2013,interest_debt,7761.0,Euro Million,irl-cso,GFA01,False
+2013,surplus_deficit,-11484.0,Euro Million,irl-cso,GFA01,False
+2014,total_revenue,66266.0,Euro Million,irl-cso,GFA01,False
+2014,one_off_capital_receipt,445.0,Euro Million,irl-cso,GFA01,False
+2014,total_expenditure,73327.0,Euro Million,irl-cso,GFA01,False
+2014,interest_debt,7591.0,Euro Million,irl-cso,GFA01,False
+2014,surplus_deficit,-7060.0,Euro Million,irl-cso,GFA01,False
+2015,total_revenue,71058.0,Euro Million,irl-cso,GFA01,False
+2015,one_off_capital_receipt,183.0,Euro Million,irl-cso,GFA01,False
+2015,total_expenditure,76436.0,Euro Million,irl-cso,GFA01,False
+2015,interest_debt,6936.0,Euro Million,irl-cso,GFA01,False
+2015,surplus_deficit,-5378.0,Euro Million,irl-cso,GFA01,False
+2016,total_revenue,73822.0,Euro Million,irl-cso,GFA01,False
+2016,one_off_capital_receipt,826.0,Euro Million,irl-cso,GFA01,False
+2016,total_expenditure,75994.0,Euro Million,irl-cso,GFA01,False
+2016,interest_debt,6267.0,Euro Million,irl-cso,GFA01,False
+2016,surplus_deficit,-2172.0,Euro Million,irl-cso,GFA01,False
+2017,total_revenue,77035.0,Euro Million,irl-cso,GFA01,False
+2017,one_off_capital_receipt,232.0,Euro Million,irl-cso,GFA01,False
+2017,total_expenditure,77954.0,Euro Million,irl-cso,GFA01,False
+2017,interest_debt,5903.0,Euro Million,irl-cso,GFA01,False
+2017,surplus_deficit,-920.0,Euro Million,irl-cso,GFA01,False
+2018,total_revenue,83241.0,Euro Million,irl-cso,GFA01,False
+2018,one_off_capital_receipt,336.0,Euro Million,irl-cso,GFA01,False
+2018,total_expenditure,82938.0,Euro Million,irl-cso,GFA01,False
+2018,interest_debt,5301.0,Euro Million,irl-cso,GFA01,False
+2018,surplus_deficit,303.0,Euro Million,irl-cso,GFA01,False
+2019,total_revenue,88303.0,Euro Million,irl-cso,GFA01,False
+2019,one_off_capital_receipt,201.0,Euro Million,irl-cso,GFA01,False
+2019,total_expenditure,86884.0,Euro Million,irl-cso,GFA01,False
+2019,interest_debt,4613.0,Euro Million,irl-cso,GFA01,False
+2019,surplus_deficit,1419.0,Euro Million,irl-cso,GFA01,False
+2020,total_revenue,83352.0,Euro Million,irl-cso,GFA01,False
+2020,one_off_capital_receipt,374.0,Euro Million,irl-cso,GFA01,False
+2020,total_expenditure,102123.0,Euro Million,irl-cso,GFA01,False
+2020,interest_debt,3822.0,Euro Million,irl-cso,GFA01,False
+2020,surplus_deficit,-18772.0,Euro Million,irl-cso,GFA01,False
+2021,total_revenue,99650.0,Euro Million,irl-cso,GFA01,False
+2021,one_off_capital_receipt,524.0,Euro Million,irl-cso,GFA01,False
+2021,total_expenditure,105205.0,Euro Million,irl-cso,GFA01,False
+2021,interest_debt,3291.0,Euro Million,irl-cso,GFA01,False
+2021,surplus_deficit,-5555.0,Euro Million,irl-cso,GFA01,False
+2022,total_revenue,115875.0,Euro Million,irl-cso,GFA01,False
+2022,one_off_capital_receipt,454.0,Euro Million,irl-cso,GFA01,False
+2022,total_expenditure,107266.0,Euro Million,irl-cso,GFA01,False
+2022,interest_debt,3309.0,Euro Million,irl-cso,GFA01,False
+2022,surplus_deficit,8609.0,Euro Million,irl-cso,GFA01,False
+2023,total_revenue,124031.0,Euro Million,irl-cso,GFA01,False
+2023,one_off_capital_receipt,692.0,Euro Million,irl-cso,GFA01,False
+2023,total_expenditure,116449.0,Euro Million,irl-cso,GFA01,False
+2023,interest_debt,3366.0,Euro Million,irl-cso,GFA01,False
+2023,surplus_deficit,7582.0,Euro Million,irl-cso,GFA01,False
+2024,total_revenue,149142.0,Euro Million,irl-cso,GFA01,False
+2024,one_off_capital_receipt,14810.0,Euro Million,irl-cso,GFA01,False
+2024,total_expenditure,125708.0,Euro Million,irl-cso,GFA01,False
+2024,interest_debt,3242.0,Euro Million,irl-cso,GFA01,False
+2024,surplus_deficit,23433.0,Euro Million,irl-cso,GFA01,False
+2025,total_revenue,144803.0,Euro Million,irl-cso,GFA01,False
+2025,one_off_capital_receipt,616.0,Euro Million,irl-cso,GFA01,False
+2025,total_expenditure,134136.0,Euro Million,irl-cso,GFA01,False
+2025,interest_debt,2928.0,Euro Million,irl-cso,GFA01,False
+2025,surplus_deficit,10667.0,Euro Million,irl-cso,GFA01,False
+2000,cash_bond_assets,12858.0,Euro Million,irl-cso,GFA02,False
+2000,gross_debt,39506.0,Euro Million,irl-cso,GFA02,False
+2000,net_debt,26648.0,Euro Million,irl-cso,GFA02,False
+2001,cash_bond_assets,15514.0,Euro Million,irl-cso,GFA02,False
+2001,gross_debt,40995.0,Euro Million,irl-cso,GFA02,False
+2001,net_debt,25481.0,Euro Million,irl-cso,GFA02,False
+2002,cash_bond_assets,11166.0,Euro Million,irl-cso,GFA02,False
+2002,gross_debt,42009.0,Euro Million,irl-cso,GFA02,False
+2002,net_debt,30843.0,Euro Million,irl-cso,GFA02,False
+2003,cash_bond_assets,11324.0,Euro Million,irl-cso,GFA02,False
+2003,gross_debt,43429.0,Euro Million,irl-cso,GFA02,False
+2003,net_debt,32105.0,Euro Million,irl-cso,GFA02,False
+2004,cash_bond_assets,12949.0,Euro Million,irl-cso,GFA02,False
+2004,gross_debt,43914.0,Euro Million,irl-cso,GFA02,False
+2004,net_debt,30965.0,Euro Million,irl-cso,GFA02,False
+2005,cash_bond_assets,14367.0,Euro Million,irl-cso,GFA02,False
+2005,gross_debt,44381.0,Euro Million,irl-cso,GFA02,False
+2005,net_debt,30015.0,Euro Million,irl-cso,GFA02,False
+2006,cash_bond_assets,16939.0,Euro Million,irl-cso,GFA02,False
+2006,gross_debt,43739.0,Euro Million,irl-cso,GFA02,False
+2006,net_debt,26799.0,Euro Million,irl-cso,GFA02,False
+2007,cash_bond_assets,18864.0,Euro Million,irl-cso,GFA02,False
+2007,gross_debt,47195.0,Euro Million,irl-cso,GFA02,False
+2007,net_debt,28331.0,Euro Million,irl-cso,GFA02,False
+2008,cash_bond_assets,36976.0,Euro Million,irl-cso,GFA02,False
+2008,gross_debt,79621.0,Euro Million,irl-cso,GFA02,False
+2008,net_debt,42645.0,Euro Million,irl-cso,GFA02,False
+2009,cash_bond_assets,42051.0,Euro Million,irl-cso,GFA02,False
+2009,gross_debt,104703.0,Euro Million,irl-cso,GFA02,False
+2009,net_debt,62652.0,Euro Million,irl-cso,GFA02,False
+2010,cash_bond_assets,32744.0,Euro Million,irl-cso,GFA02,False
+2010,gross_debt,144227.0,Euro Million,irl-cso,GFA02,False
+2010,net_debt,111483.0,Euro Million,irl-cso,GFA02,False
+2011,cash_bond_assets,53665.0,Euro Million,irl-cso,GFA02,False
+2011,gross_debt,189724.0,Euro Million,irl-cso,GFA02,False
+2011,net_debt,136058.0,Euro Million,irl-cso,GFA02,False
+2012,cash_bond_assets,56838.0,Euro Million,irl-cso,GFA02,False
+2012,gross_debt,210023.0,Euro Million,irl-cso,GFA02,False
+2012,net_debt,153185.0,Euro Million,irl-cso,GFA02,False
+2013,cash_bond_assets,52554.0,Euro Million,irl-cso,GFA02,False
+2013,gross_debt,215239.0,Euro Million,irl-cso,GFA02,False
+2013,net_debt,162685.0,Euro Million,irl-cso,GFA02,False
+2014,cash_bond_assets,34867.0,Euro Million,irl-cso,GFA02,False
+2014,gross_debt,203378.0,Euro Million,irl-cso,GFA02,False
+2014,net_debt,168512.0,Euro Million,irl-cso,GFA02,False
+2015,cash_bond_assets,28056.0,Euro Million,irl-cso,GFA02,False
+2015,gross_debt,201575.0,Euro Million,irl-cso,GFA02,False
+2015,net_debt,173519.0,Euro Million,irl-cso,GFA02,False
+2016,cash_bond_assets,23695.0,Euro Million,irl-cso,GFA02,False
+2016,gross_debt,200557.0,Euro Million,irl-cso,GFA02,False
+2016,net_debt,176862.0,Euro Million,irl-cso,GFA02,False
+2017,cash_bond_assets,25625.0,Euro Million,irl-cso,GFA02,False
+2017,gross_debt,201122.0,Euro Million,irl-cso,GFA02,False
+2017,net_debt,175497.0,Euro Million,irl-cso,GFA02,False
+2018,cash_bond_assets,28920.0,Euro Million,irl-cso,GFA02,False
+2018,gross_debt,205566.0,Euro Million,irl-cso,GFA02,False
+2018,net_debt,176646.0,Euro Million,irl-cso,GFA02,False
+2019,cash_bond_assets,30147.0,Euro Million,irl-cso,GFA02,False
+2019,gross_debt,202936.0,Euro Million,irl-cso,GFA02,False
+2019,net_debt,172788.0,Euro Million,irl-cso,GFA02,False
+2020,cash_bond_assets,33274.0,Euro Million,irl-cso,GFA02,False
+2020,gross_debt,217206.0,Euro Million,irl-cso,GFA02,False
+2020,net_debt,183932.0,Euro Million,irl-cso,GFA02,False
+2021,cash_bond_assets,44742.0,Euro Million,irl-cso,GFA02,False
+2021,gross_debt,235182.0,Euro Million,irl-cso,GFA02,False
+2021,net_debt,190439.0,Euro Million,irl-cso,GFA02,False
+2022,cash_bond_assets,38279.0,Euro Million,irl-cso,GFA02,False
+2022,gross_debt,223696.0,Euro Million,irl-cso,GFA02,False
+2022,net_debt,185417.0,Euro Million,irl-cso,GFA02,False
+2023,cash_bond_assets,41585.0,Euro Million,irl-cso,GFA02,False
+2023,gross_debt,219261.0,Euro Million,irl-cso,GFA02,False
+2023,net_debt,177676.0,Euro Million,irl-cso,GFA02,False
+2024,cash_bond_assets,60440.0,Euro Million,irl-cso,GFA02,False
+2024,gross_debt,215571.0,Euro Million,irl-cso,GFA02,False
+2024,net_debt,155131.0,Euro Million,irl-cso,GFA02,False
+2025,cash_bond_assets,71556.0,Euro Million,irl-cso,GFA02,False
+2025,gross_debt,209923.0,Euro Million,irl-cso,GFA02,False
+2025,net_debt,138367.0,Euro Million,irl-cso,GFA02,False
+2000,total_tax,29176.0,Euro Million,irl-cso,GFA03,False
+2000,vat,7643.0,Euro Million,irl-cso,GFA03,False
+2000,income_tax,9197.0,Euro Million,irl-cso,GFA03,False
+2000,ct,3885.0,Euro Million,irl-cso,GFA03,False
+2001,total_tax,30213.0,Euro Million,irl-cso,GFA03,False
+2001,vat,7996.0,Euro Million,irl-cso,GFA03,False
+2001,income_tax,9215.0,Euro Million,irl-cso,GFA03,False
+2001,ct,4144.0,Euro Million,irl-cso,GFA03,False
+2002,total_tax,32730.0,Euro Million,irl-cso,GFA03,False
+2002,vat,9134.0,Euro Million,irl-cso,GFA03,False
+2002,income_tax,9355.0,Euro Million,irl-cso,GFA03,False
+2002,ct,4804.0,Euro Million,irl-cso,GFA03,False
+2003,total_tax,36009.0,Euro Million,irl-cso,GFA03,False
+2003,vat,9808.0,Euro Million,irl-cso,GFA03,False
+2003,income_tax,9638.0,Euro Million,irl-cso,GFA03,False
+2003,ct,5155.0,Euro Million,irl-cso,GFA03,False
+2004,total_tax,40060.0,Euro Million,irl-cso,GFA03,False
+2004,vat,10986.0,Euro Million,irl-cso,GFA03,False
+2004,income_tax,11237.0,Euro Million,irl-cso,GFA03,False
+2004,ct,5335.0,Euro Million,irl-cso,GFA03,False
+2005,total_tax,44394.0,Euro Million,irl-cso,GFA03,False
+2005,vat,12373.0,Euro Million,irl-cso,GFA03,False
+2005,income_tax,11978.0,Euro Million,irl-cso,GFA03,False
+2005,ct,5503.0,Euro Million,irl-cso,GFA03,False
+2006,total_tax,50686.0,Euro Million,irl-cso,GFA03,False
+2006,vat,13746.0,Euro Million,irl-cso,GFA03,False
+2006,income_tax,13003.0,Euro Million,irl-cso,GFA03,False
+2006,ct,6685.0,Euro Million,irl-cso,GFA03,False
+2007,total_tax,52374.0,Euro Million,irl-cso,GFA03,False
+2007,vat,14355.0,Euro Million,irl-cso,GFA03,False
+2007,income_tax,14407.0,Euro Million,irl-cso,GFA03,False
+2007,ct,6393.0,Euro Million,irl-cso,GFA03,False
+2008,total_tax,45889.0,Euro Million,irl-cso,GFA03,False
+2008,vat,13084.0,Euro Million,irl-cso,GFA03,False
+2008,income_tax,14173.0,Euro Million,irl-cso,GFA03,False
+2008,ct,5071.0,Euro Million,irl-cso,GFA03,False
+2009,total_tax,38730.0,Euro Million,irl-cso,GFA03,False
+2009,vat,10324.0,Euro Million,irl-cso,GFA03,False
+2009,income_tax,12668.0,Euro Million,irl-cso,GFA03,False
+2009,ct,3889.0,Euro Million,irl-cso,GFA03,False
+2010,total_tax,37890.0,Euro Million,irl-cso,GFA03,False
+2010,vat,10067.0,Euro Million,irl-cso,GFA03,False
+2010,income_tax,11997.0,Euro Million,irl-cso,GFA03,False
+2010,ct,3944.0,Euro Million,irl-cso,GFA03,False
+2011,total_tax,38875.0,Euro Million,irl-cso,GFA03,False
+2011,vat,9755.0,Euro Million,irl-cso,GFA03,False
+2011,income_tax,14849.0,Euro Million,irl-cso,GFA03,False
+2011,ct,3500.0,Euro Million,irl-cso,GFA03,False
+2012,total_tax,40940.0,Euro Million,irl-cso,GFA03,False
+2012,vat,10219.0,Euro Million,irl-cso,GFA03,False
+2012,income_tax,16102.0,Euro Million,irl-cso,GFA03,False
+2012,ct,4215.0,Euro Million,irl-cso,GFA03,False
+2013,total_tax,42517.0,Euro Million,irl-cso,GFA03,False
+2013,vat,10372.0,Euro Million,irl-cso,GFA03,False
+2013,income_tax,16526.0,Euro Million,irl-cso,GFA03,False
+2013,ct,4272.0,Euro Million,irl-cso,GFA03,False
+2014,total_tax,46568.0,Euro Million,irl-cso,GFA03,False
+2014,vat,11527.0,Euro Million,irl-cso,GFA03,False
+2014,income_tax,17980.0,Euro Million,irl-cso,GFA03,False
+2014,ct,4617.0,Euro Million,irl-cso,GFA03,False
+2015,total_tax,50877.0,Euro Million,irl-cso,GFA03,False
+2015,vat,11831.0,Euro Million,irl-cso,GFA03,False
+2015,income_tax,19053.0,Euro Million,irl-cso,GFA03,False
+2015,ct,6872.0,Euro Million,irl-cso,GFA03,False
+2016,total_tax,52989.0,Euro Million,irl-cso,GFA03,False
+2016,vat,12603.0,Euro Million,irl-cso,GFA03,False
+2016,income_tax,19716.0,Euro Million,irl-cso,GFA03,False
+2016,ct,7352.0,Euro Million,irl-cso,GFA03,False
+2017,total_tax,55932.0,Euro Million,irl-cso,GFA03,False
+2017,vat,13060.0,Euro Million,irl-cso,GFA03,False
+2017,income_tax,20573.0,Euro Million,irl-cso,GFA03,False
+2017,ct,8201.0,Euro Million,irl-cso,GFA03,False
+2018,total_tax,60747.0,Euro Million,irl-cso,GFA03,False
+2018,vat,14149.0,Euro Million,irl-cso,GFA03,False
+2018,income_tax,21897.0,Euro Million,irl-cso,GFA03,False
+2018,ct,10387.0,Euro Million,irl-cso,GFA03,False
+2019,total_tax,64866.0,Euro Million,irl-cso,GFA03,False
+2019,vat,15271.0,Euro Million,irl-cso,GFA03,False
+2019,income_tax,23599.0,Euro Million,irl-cso,GFA03,False
+2019,ct,10887.0,Euro Million,irl-cso,GFA03,False
+2020,total_tax,61748.0,Euro Million,irl-cso,GFA03,False
+2020,vat,12753.0,Euro Million,irl-cso,GFA03,False
+2020,income_tax,23428.0,Euro Million,irl-cso,GFA03,False
+2020,ct,11953.0,Euro Million,irl-cso,GFA03,False
+2021,total_tax,75977.0,Euro Million,irl-cso,GFA03,False
+2021,vat,16642.0,Euro Million,irl-cso,GFA03,False
+2021,income_tax,27768.0,Euro Million,irl-cso,GFA03,False
+2021,ct,15323.0,Euro Million,irl-cso,GFA03,False
+2022,total_tax,89157.0,Euro Million,irl-cso,GFA03,False
+2022,vat,19176.0,Euro Million,irl-cso,GFA03,False
+2022,income_tax,31288.0,Euro Million,irl-cso,GFA03,False
+2022,ct,22645.0,Euro Million,irl-cso,GFA03,False
+2023,total_tax,93856.0,Euro Million,irl-cso,GFA03,False
+2023,vat,20377.0,Euro Million,irl-cso,GFA03,False
+2023,income_tax,33179.0,Euro Million,irl-cso,GFA03,False
+2023,ct,23838.0,Euro Million,irl-cso,GFA03,False
+2024,total_tax,103386.0,Euro Million,irl-cso,GFA03,False
+2024,vat,21940.0,Euro Million,irl-cso,GFA03,False
+2024,income_tax,35324.0,Euro Million,irl-cso,GFA03,False
+2024,ct,28110.0,Euro Million,irl-cso,GFA03,False
+2025,total_tax,111811.0,Euro Million,irl-cso,GFA03,False
+2025,vat,23070.0,Euro Million,irl-cso,GFA03,False
+2025,income_tax,36894.0,Euro Million,irl-cso,GFA03,False
+2025,ct,32941.0,Euro Million,irl-cso,GFA03,False
+2000,social_benefits,9231.0,Euro Million,irl-cso,GFA04,False
+2000,capital_transfers_paid,13.0,Euro Million,irl-cso,GFA04,False
+2000,public_investment,3800.0,Euro Million,irl-cso,GFA04,False
+2001,social_benefits,11108.0,Euro Million,irl-cso,GFA04,False
+2001,capital_transfers_paid,242.0,Euro Million,irl-cso,GFA04,False
+2001,public_investment,5152.0,Euro Million,irl-cso,GFA04,False
+2002,social_benefits,13124.0,Euro Million,irl-cso,GFA04,False
+2002,capital_transfers_paid,10.0,Euro Million,irl-cso,GFA04,False
+2002,public_investment,5741.0,Euro Million,irl-cso,GFA04,False
+2003,social_benefits,14154.0,Euro Million,irl-cso,GFA04,False
+2003,capital_transfers_paid,5.0,Euro Million,irl-cso,GFA04,False
+2003,public_investment,5352.0,Euro Million,irl-cso,GFA04,False
+2004,social_benefits,15438.0,Euro Million,irl-cso,GFA04,False
+2004,capital_transfers_paid,65.0,Euro Million,irl-cso,GFA04,False
+2004,public_investment,5506.0,Euro Million,irl-cso,GFA04,False
+2005,social_benefits,17614.0,Euro Million,irl-cso,GFA04,False
+2005,capital_transfers_paid,1.0,Euro Million,irl-cso,GFA04,False
+2005,public_investment,6024.0,Euro Million,irl-cso,GFA04,False
+2006,social_benefits,19664.0,Euro Million,irl-cso,GFA04,False
+2006,capital_transfers_paid,3.0,Euro Million,irl-cso,GFA04,False
+2006,public_investment,7028.0,Euro Million,irl-cso,GFA04,False
+2007,social_benefits,22354.0,Euro Million,irl-cso,GFA04,False
+2007,capital_transfers_paid,2.0,Euro Million,irl-cso,GFA04,False
+2007,public_investment,9206.0,Euro Million,irl-cso,GFA04,False
+2008,social_benefits,25349.0,Euro Million,irl-cso,GFA04,False
+2008,capital_transfers_paid,0.0,Euro Million,irl-cso,GFA04,False
+2008,public_investment,9877.0,Euro Million,irl-cso,GFA04,False
+2009,social_benefits,28128.0,Euro Million,irl-cso,GFA04,False
+2009,capital_transfers_paid,4396.0,Euro Million,irl-cso,GFA04,False
+2009,public_investment,6408.0,Euro Million,irl-cso,GFA04,False
+2010,social_benefits,28106.0,Euro Million,irl-cso,GFA04,False
+2010,capital_transfers_paid,35828.0,Euro Million,irl-cso,GFA04,False
+2010,public_investment,5692.0,Euro Million,irl-cso,GFA04,False
+2011,social_benefits,28185.0,Euro Million,irl-cso,GFA04,False
+2011,capital_transfers_paid,7121.0,Euro Million,irl-cso,GFA04,False
+2011,public_investment,4264.0,Euro Million,irl-cso,GFA04,False
+2012,social_benefits,28888.0,Euro Million,irl-cso,GFA04,False
+2012,capital_transfers_paid,280.0,Euro Million,irl-cso,GFA04,False
+2012,public_investment,3602.0,Euro Million,irl-cso,GFA04,False
+2013,social_benefits,27938.0,Euro Million,irl-cso,GFA04,False
+2013,capital_transfers_paid,38.0,Euro Million,irl-cso,GFA04,False
+2013,public_investment,3638.0,Euro Million,irl-cso,GFA04,False
+2014,social_benefits,27456.0,Euro Million,irl-cso,GFA04,False
+2014,capital_transfers_paid,189.0,Euro Million,irl-cso,GFA04,False
+2014,public_investment,4269.0,Euro Million,irl-cso,GFA04,False
+2015,social_benefits,27733.0,Euro Million,irl-cso,GFA04,False
+2015,capital_transfers_paid,2190.0,Euro Million,irl-cso,GFA04,False
+2015,public_investment,4606.0,Euro Million,irl-cso,GFA04,False
+2016,social_benefits,27801.0,Euro Million,irl-cso,GFA04,False
+2016,capital_transfers_paid,1.0,Euro Million,irl-cso,GFA04,False
+2016,public_investment,5364.0,Euro Million,irl-cso,GFA04,False
+2017,social_benefits,28424.0,Euro Million,irl-cso,GFA04,False
+2017,capital_transfers_paid,37.0,Euro Million,irl-cso,GFA04,False
+2017,public_investment,5602.0,Euro Million,irl-cso,GFA04,False
+2018,social_benefits,29404.0,Euro Million,irl-cso,GFA04,False
+2018,capital_transfers_paid,241.0,Euro Million,irl-cso,GFA04,False
+2018,public_investment,6741.0,Euro Million,irl-cso,GFA04,False
+2019,social_benefits,30652.0,Euro Million,irl-cso,GFA04,False
+2019,capital_transfers_paid,20.0,Euro Million,irl-cso,GFA04,False
+2019,public_investment,8245.0,Euro Million,irl-cso,GFA04,False
+2020,social_benefits,36732.0,Euro Million,irl-cso,GFA04,False
+2020,capital_transfers_paid,33.0,Euro Million,irl-cso,GFA04,False
+2020,public_investment,9137.0,Euro Million,irl-cso,GFA04,False
+2021,social_benefits,36741.0,Euro Million,irl-cso,GFA04,False
+2021,capital_transfers_paid,40.0,Euro Million,irl-cso,GFA04,False
+2021,public_investment,9040.0,Euro Million,irl-cso,GFA04,False
+2022,social_benefits,36602.0,Euro Million,irl-cso,GFA04,False
+2022,capital_transfers_paid,49.0,Euro Million,irl-cso,GFA04,False
+2022,public_investment,10833.0,Euro Million,irl-cso,GFA04,False
+2023,social_benefits,39537.0,Euro Million,irl-cso,GFA04,False
+2023,capital_transfers_paid,163.0,Euro Million,irl-cso,GFA04,False
+2023,public_investment,12225.0,Euro Million,irl-cso,GFA04,False
+2024,social_benefits,42487.0,Euro Million,irl-cso,GFA04,False
+2024,capital_transfers_paid,70.0,Euro Million,irl-cso,GFA04,False
+2024,public_investment,14694.0,Euro Million,irl-cso,GFA04,False
+2025,social_benefits,43848.0,Euro Million,irl-cso,GFA04,False
+2025,capital_transfers_paid,642.0,Euro Million,irl-cso,GFA04,False
+2025,public_investment,16835.0,Euro Million,irl-cso,GFA04,False
+2000,other_tax,8451.0,Euro Million,irl-cso,calculated,False
+2001,other_tax,8858.0,Euro Million,irl-cso,calculated,False
+2002,other_tax,9437.0,Euro Million,irl-cso,calculated,False
+2003,other_tax,11408.0,Euro Million,irl-cso,calculated,False
+2004,other_tax,12502.0,Euro Million,irl-cso,calculated,False
+2005,other_tax,14540.0,Euro Million,irl-cso,calculated,False
+2006,other_tax,17252.0,Euro Million,irl-cso,calculated,False
+2007,other_tax,17219.0,Euro Million,irl-cso,calculated,False
+2008,other_tax,13561.0,Euro Million,irl-cso,calculated,False
+2009,other_tax,11849.0,Euro Million,irl-cso,calculated,False
+2010,other_tax,11882.0,Euro Million,irl-cso,calculated,False
+2011,other_tax,10771.0,Euro Million,irl-cso,calculated,False
+2012,other_tax,10404.0,Euro Million,irl-cso,calculated,False
+2013,other_tax,11347.0,Euro Million,irl-cso,calculated,False
+2014,other_tax,12444.0,Euro Million,irl-cso,calculated,False
+2015,other_tax,13121.0,Euro Million,irl-cso,calculated,False
+2016,other_tax,13318.0,Euro Million,irl-cso,calculated,False
+2017,other_tax,14098.0,Euro Million,irl-cso,calculated,False
+2018,other_tax,14314.0,Euro Million,irl-cso,calculated,False
+2019,other_tax,15109.0,Euro Million,irl-cso,calculated,False
+2020,other_tax,13614.0,Euro Million,irl-cso,calculated,False
+2021,other_tax,16244.0,Euro Million,irl-cso,calculated,False
+2022,other_tax,16048.0,Euro Million,irl-cso,calculated,False
+2023,other_tax,16462.0,Euro Million,irl-cso,calculated,False
+2024,other_tax,18012.0,Euro Million,irl-cso,calculated,False
+2025,other_tax,18906.0,Euro Million,irl-cso,calculated,False
+2000,ct_pct_tot_tax,13.31573896353167,Percent,irl-cso,calculated,False
+2001,ct_pct_tot_tax,13.715950087710588,Percent,irl-cso,calculated,False
+2002,ct_pct_tot_tax,14.677665750076383,Percent,irl-cso,calculated,False
+2003,ct_pct_tot_tax,14.315865478074926,Percent,irl-cso,calculated,False
+2004,ct_pct_tot_tax,13.317523714428358,Percent,irl-cso,calculated,False
+2005,ct_pct_tot_tax,12.39581925485426,Percent,irl-cso,calculated,False
+2006,ct_pct_tot_tax,13.18904628497021,Percent,irl-cso,calculated,False
+2007,ct_pct_tot_tax,12.20643830908466,Percent,irl-cso,calculated,False
+2008,ct_pct_tot_tax,11.050578570027675,Percent,irl-cso,calculated,False
+2009,ct_pct_tot_tax,10.041311644719855,Percent,irl-cso,calculated,False
+2010,ct_pct_tot_tax,10.409078912641858,Percent,irl-cso,calculated,False
+2011,ct_pct_tot_tax,9.003215434083602,Percent,irl-cso,calculated,False
+2012,ct_pct_tot_tax,10.295554469956034,Percent,irl-cso,calculated,False
+2013,ct_pct_tot_tax,10.047745607639296,Percent,irl-cso,calculated,False
+2014,ct_pct_tot_tax,9.914533585294622,Percent,irl-cso,calculated,False
+2015,ct_pct_tot_tax,13.507085716532027,Percent,irl-cso,calculated,False
+2016,ct_pct_tot_tax,13.87457774255034,Percent,irl-cso,calculated,False
+2017,ct_pct_tot_tax,14.662447257383967,Percent,irl-cso,calculated,False
+2018,ct_pct_tot_tax,17.098786771363194,Percent,irl-cso,calculated,False
+2019,ct_pct_tot_tax,16.783831282952548,Percent,irl-cso,calculated,False
+2020,ct_pct_tot_tax,19.357711990671763,Percent,irl-cso,calculated,False
+2021,ct_pct_tot_tax,20.167945562472852,Percent,irl-cso,calculated,False
+2022,ct_pct_tot_tax,25.399015220341642,Percent,irl-cso,calculated,False
+2023,ct_pct_tot_tax,25.398482782134334,Percent,irl-cso,calculated,False
+2024,ct_pct_tot_tax,27.18936799953572,Percent,irl-cso,calculated,False
+2025,ct_pct_tot_tax,29.461323125631644,Percent,irl-cso,calculated,False
+2000,ct_diff_from_xpctd,424.80291761764374,Euro Million,irl-cso,calculated,False
+2001,ct_diff_from_xpctd,560.8174372765925,Euro Million,irl-cso,calculated,False
+2002,ct_diff_from_xpctd,922.307838416009,Euro Million,irl-cso,calculated,False
+2003,ct_diff_from_xpctd,884.4270379933414,Euro Million,irl-cso,calculated,False
+2004,ct_diff_from_xpctd,583.9890622348094,Euro Million,irl-cso,calculated,False
+2005,ct_diff_from_xpctd,237.98802867828635,Euro Million,irl-cso,calculated,False
+2006,ct_diff_from_xpctd,673.7733302155157,Euro Million,irl-cso,calculated,False
+2007,ct_diff_from_xpctd,181.58095720134588,Euro Million,irl-cso,calculated,False
+2008,ct_diff_from_xpctd,-371.31505050191754,Euro Million,irl-cso,calculated,False
+2009,ct_diff_from_xpctd,-704.2764258523675,Euro Million,irl-cso,calculated,False
+2010,ct_diff_from_xpctd,-549.6546288547943,Euro Million,irl-cso,calculated,False
+2011,ct_diff_from_xpctd,-1110.4730455721865,Euro Million,irl-cso,calculated,False
+2012,ct_diff_from_xpctd,-640.3766298578857,Euro Million,irl-cso,calculated,False
+2013,ct_diff_from_xpctd,-770.4046939830905,Euro Million,irl-cso,calculated,False
+2014,ct_diff_from_xpctd,-905.8426697416226,Euro Million,irl-cso,calculated,False
+2015,ct_diff_from_xpctd,838.121231136306,Euro Million,irl-cso,calculated,False
+2016,ct_diff_from_xpctd,1067.643570113837,Euro Million,irl-cso,calculated,False
+2017,ct_diff_from_xpctd,1567.611488490199,Euro Million,irl-cso,calculated,False
+2018,ct_diff_from_xpctd,3182.5651164148267,Euro Million,irl-cso,calculated,False
+2019,ct_diff_from_xpctd,3194.0625189945868,Euro Million,irl-cso,calculated,False
+2020,ct_diff_from_xpctd,4629.849141659386,Euro Million,irl-cso,calculated,False
+2021,ct_diff_from_xpctd,6312.327058946932,Euro Million,irl-cso,calculated,False
+2022,ct_diff_from_xpctd,12071.213625104067,Euro Million,irl-cso,calculated,False
+2023,ct_diff_from_xpctd,12706.92454880455,Euro Million,irl-cso,calculated,False
+2024,ct_diff_from_xpctd,15848.691542391613,Euro Million,irl-cso,calculated,False
+2025,ct_diff_from_xpctd,19680.508637981435,Euro Million,irl-cso,calculated,False
+2000,bdgt_srplus_minus_ct_diff_from_xpctd,4843.197082382356,Euro Million,irl-cso,calculated,False
+2001,bdgt_srplus_minus_ct_diff_from_xpctd,610.1825627234075,Euro Million,irl-cso,calculated,False
+2002,bdgt_srplus_minus_ct_diff_from_xpctd,-1628.307838416009,Euro Million,irl-cso,calculated,False
+2003,bdgt_srplus_minus_ct_diff_from_xpctd,-380.4270379933414,Euro Million,irl-cso,calculated,False
+2004,bdgt_srplus_minus_ct_diff_from_xpctd,1445.0109377651906,Euro Million,irl-cso,calculated,False
+2005,bdgt_srplus_minus_ct_diff_from_xpctd,2437.0119713217136,Euro Million,irl-cso,calculated,False
+2006,bdgt_srplus_minus_ct_diff_from_xpctd,4458.226669784484,Euro Million,irl-cso,calculated,False
+2007,bdgt_srplus_minus_ct_diff_from_xpctd,346.4190427986541,Euro Million,irl-cso,calculated,False
+2008,bdgt_srplus_minus_ct_diff_from_xpctd,-13167.0,Euro Million,irl-cso,calculated,False
+2009,bdgt_srplus_minus_ct_diff_from_xpctd,-23517.0,Euro Million,irl-cso,calculated,False
+2010,bdgt_srplus_minus_ct_diff_from_xpctd,-53764.0,Euro Million,irl-cso,calculated,False
+2011,bdgt_srplus_minus_ct_diff_from_xpctd,-23320.0,Euro Million,irl-cso,calculated,False
+2012,bdgt_srplus_minus_ct_diff_from_xpctd,-14866.0,Euro Million,irl-cso,calculated,False
+2013,bdgt_srplus_minus_ct_diff_from_xpctd,-11484.0,Euro Million,irl-cso,calculated,False
+2014,bdgt_srplus_minus_ct_diff_from_xpctd,-7060.0,Euro Million,irl-cso,calculated,False
+2015,bdgt_srplus_minus_ct_diff_from_xpctd,-6216.121231136306,Euro Million,irl-cso,calculated,False
+2016,bdgt_srplus_minus_ct_diff_from_xpctd,-3239.643570113837,Euro Million,irl-cso,calculated,False
+2017,bdgt_srplus_minus_ct_diff_from_xpctd,-2487.611488490199,Euro Million,irl-cso,calculated,False
+2018,bdgt_srplus_minus_ct_diff_from_xpctd,-2879.5651164148267,Euro Million,irl-cso,calculated,False
+2019,bdgt_srplus_minus_ct_diff_from_xpctd,-1775.0625189945868,Euro Million,irl-cso,calculated,False
+2020,bdgt_srplus_minus_ct_diff_from_xpctd,-23401.849141659386,Euro Million,irl-cso,calculated,False
+2021,bdgt_srplus_minus_ct_diff_from_xpctd,-11867.327058946932,Euro Million,irl-cso,calculated,False
+2022,bdgt_srplus_minus_ct_diff_from_xpctd,-3462.2136251040665,Euro Million,irl-cso,calculated,False
+2023,bdgt_srplus_minus_ct_diff_from_xpctd,-5124.924548804551,Euro Million,irl-cso,calculated,False
+2024,bdgt_srplus_minus_ct_diff_from_xpctd,7584.3084576083875,Euro Million,irl-cso,calculated,False
+2025,bdgt_srplus_minus_ct_diff_from_xpctd,-9013.508637981435,Euro Million,irl-cso,calculated,False
+2022,ifac_gg_surplus_excl_apple,8482.0,Euro Million,irl-ifac,far2026_2.1_srpls_excl_apl,False
+2023,ifac_gg_surplus_excl_apple,7430.0,Euro Million,irl-ifac,far2026_2.1_srpls_excl_apl,False
+2024,ifac_gg_surplus_excl_apple,9075.0,Euro Million,irl-ifac,far2026_2.1_srpls_excl_apl,False
+2025,ifac_gg_surplus_excl_apple,11222.0,Euro Million,irl-ifac,far2026_2.1_srpls_excl_apl,False
+2026,ifac_gg_surplus_excl_apple,8700.0,Euro Million,irl-ifac,far2026_2.1_srpls_excl_apl,True
+2027,ifac_gg_surplus_excl_apple,8515.0,Euro Million,irl-ifac,far2026_2.1_srpls_excl_apl,True
+2028,ifac_gg_surplus_excl_apple,6155.0,Euro Million,irl-ifac,far2026_2.1_srpls_excl_apl,True
+2029,ifac_gg_surplus_excl_apple,1630.0,Euro Million,irl-ifac,far2026_2.1_srpls_excl_apl,True
+2030,ifac_gg_surplus_excl_apple,5785.0,Euro Million,irl-ifac,far2026_2.1_srpls_excl_apl,True
+1995,ifac_gg_bal_excl_excess_ct,-1137.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+1996,ifac_gg_bal_excl_excess_ct,-118.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+1997,ifac_gg_bal_excl_excess_ct,953.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+1998,ifac_gg_bal_excl_excess_ct,1666.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+1999,ifac_gg_bal_excl_excess_ct,3282.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2000,ifac_gg_bal_excl_excess_ct,5267.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2001,ifac_gg_bal_excl_excess_ct,1171.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2002,ifac_gg_bal_excl_excess_ct,-706.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2003,ifac_gg_bal_excl_excess_ct,504.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2004,ifac_gg_bal_excl_excess_ct,2029.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2005,ifac_gg_bal_excl_excess_ct,2675.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2006,ifac_gg_bal_excl_excess_ct,5132.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2007,ifac_gg_bal_excl_excess_ct,528.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2008,ifac_gg_bal_excl_excess_ct,-13167.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2009,ifac_gg_bal_excl_excess_ct,-23517.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2010,ifac_gg_bal_excl_excess_ct,-53764.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2011,ifac_gg_bal_excl_excess_ct,-23320.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2012,ifac_gg_bal_excl_excess_ct,-14864.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2013,ifac_gg_bal_excl_excess_ct,-11480.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2014,ifac_gg_bal_excl_excess_ct,-7056.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2015,ifac_gg_bal_excl_excess_ct,-6840.723678133644,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2016,ifac_gg_bal_excl_excess_ct,-3439.6874318259734,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2017,ifac_gg_bal_excl_excess_ct,-2497.7728026639325,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2018,ifac_gg_bal_excl_excess_ct,-3039.3765842107846,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2019,ifac_gg_bal_excl_excess_ct,-1880.8717517004652,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2020,ifac_gg_bal_excl_excess_ct,-23548.226314757227,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2021,ifac_gg_bal_excl_excess_ct,-12665.00881388123,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2022,ifac_gg_bal_excl_excess_ct,-3276.06221263716,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2023,ifac_gg_bal_excl_excess_ct,-4085.795137488627,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2024,ifac_gg_bal_excl_excess_ct,-5275.269897391958,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2025,ifac_gg_bal_excl_excess_ct,-7180.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,False
+2026,ifac_gg_bal_excl_excess_ct,-11303.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,True
+2027,ifac_gg_bal_excl_excess_ct,-12786.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,True
+2028,ifac_gg_bal_excl_excess_ct,-16831.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,True
+2029,ifac_gg_bal_excl_excess_ct,-20168.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,True
+2030,ifac_gg_bal_excl_excess_ct,-20911.0,Euro Million,irl-ifac,far2026_2.2_bal_excl_xcs_ct,True
+2024,ifac_ntf_contribution,229.36,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2025,ifac_ntf_contribution,251.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2026,ifac_ntf_contribution,110.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2027,ifac_ntf_contribution,110.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2028,ifac_ntf_contribution,110.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2029,ifac_ntf_contribution,110.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2030,ifac_ntf_contribution,110.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2024,ifac_sif_contribution,3708.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2025,ifac_sif_contribution,4557.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2026,ifac_sif_contribution,5080.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2027,ifac_sif_contribution,6290.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2028,ifac_sif_contribution,7645.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2029,ifac_sif_contribution,9000.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2030,ifac_sif_contribution,10030.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2024,ifac_icnf_contribution,2000.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2025,ifac_icnf_contribution,2000.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2026,ifac_icnf_contribution,2000.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2027,ifac_icnf_contribution,2000.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2028,ifac_icnf_contribution,2000.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2029,ifac_icnf_contribution,2000.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2030,ifac_icnf_contribution,2000.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2024,ifac_fif_contribution,4050.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2025,ifac_fif_contribution,4080.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2026,ifac_fif_contribution,4500.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2027,ifac_fif_contribution,5110.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2028,ifac_fif_contribution,5345.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2029,ifac_fif_contribution,5645.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2030,ifac_fif_contribution,5955.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2024,ifac_gg_surplus_incl_apple,23320.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2025,ifac_gg_surplus_incl_apple,11222.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,False
+2026,ifac_gg_surplus_incl_apple,8700.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2027,ifac_gg_surplus_incl_apple,8515.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2028,ifac_gg_surplus_incl_apple,6155.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2029,ifac_gg_surplus_incl_apple,1630.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2030,ifac_gg_surplus_incl_apple,5785.0,Euro Million,irl-ifac,far2026_2.9_state_fund_contribs,True
+2024,ifac_sif_balance,9252.029999999999,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2025,ifac_sif_balance,13809.03,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2026,ifac_sif_balance,18889.030000000002,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2027,ifac_sif_balance,25179.030000000002,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2028,ifac_sif_balance,32824.03,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2029,ifac_sif_balance,41824.03,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2030,ifac_sif_balance,51854.03,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2024,ifac_fif_balance,8398.709,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2025,ifac_fif_balance,13113.98734876,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2026,ifac_fif_balance,18605.929351820207,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2027,ifac_fif_balance,25123.281847991886,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2028,ifac_fif_balance,32368.606886973994,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2029,ifac_fif_balance,40461.968311904704,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2030,ifac_fif_balance,49477.511595017175,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2024,ifac_ntf_balance,1771.9689999999998,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2025,ifac_ntf_balance,2022.9689999999998,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2026,ifac_ntf_balance,2132.969,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2027,ifac_ntf_balance,2242.969,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2028,ifac_ntf_balance,2352.969,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2029,ifac_ntf_balance,2462.969,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2030,ifac_ntf_balance,2572.969,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2024,ifac_icnf_balance,2016.2399999999998,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2025,ifac_icnf_balance,3976.318448,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2026,ifac_icnf_balance,5897.5873427296,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2027,ifac_icnf_balance,7780.815113343554,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2028,ifac_icnf_balance,8511.75497409935,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2029,ifac_icnf_balance,8343.222225612184,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2030,ifac_icnf_balance,10178.026425545064,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2024,ifac_isif_balance,16667.0,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2025,ifac_isif_balance,17233.678,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,False
+2026,ifac_isif_balance,17819.623052,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2027,ifac_isif_balance,18425.490235768,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2028,ifac_isif_balance,19051.956903784114,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2029,ifac_isif_balance,19699.723438512774,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+2030,ifac_isif_balance,20369.51403542221,Euro Million,irl-ifac,far2026_2.10_state_fund_bals,True
+1995,ifac_ct_pct_natl_income_ie,2.809881075903903,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+1996,ifac_ct_pct_natl_income_ie,3.2533844235183547,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+1997,ifac_ct_pct_natl_income_ie,3.61626554959145,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+1998,ifac_ct_pct_natl_income_ie,3.624247456923396,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+1999,ifac_ct_pct_natl_income_ie,4.264776936704783,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2000,ifac_ct_pct_natl_income_ie,4.12351548984855,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2001,ifac_ct_pct_natl_income_ie,3.998861300626284,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2002,ifac_ct_pct_natl_income_ie,4.257744294261023,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2003,ifac_ct_pct_natl_income_ie,4.166484826443609,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2004,ifac_ct_pct_natl_income_ie,4.024531917140659,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2005,ifac_ct_pct_natl_income_ie,3.8180607204307044,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2006,ifac_ct_pct_natl_income_ie,4.235638520320876,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2007,ifac_ct_pct_natl_income_ie,3.864762918006625,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2008,ifac_ct_pct_natl_income_ie,3.242232451093211,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2009,ifac_ct_pct_natl_income_ie,2.8969909131535827,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2010,ifac_ct_pct_natl_income_ie,3.057314964841963,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2011,ifac_ct_pct_natl_income_ie,2.9077915232691534,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2012,ifac_ct_pct_natl_income_ie,3.0906283869659803,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2013,ifac_ct_pct_natl_income_ie,3.095774668299505,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2014,ifac_ct_pct_natl_income_ie,3.0637583447250716,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2015,ifac_ct_pct_natl_income_ie,4.0909172089036,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2016,ifac_ct_pct_natl_income_ie,4.242940168177804,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2017,ifac_ct_pct_natl_income_ie,4.440678333188946,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2018,ifac_ct_pct_natl_income_ie,5.421235861809793,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2019,ifac_ct_pct_natl_income_ie,5.269850335921315,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2020,ifac_ct_pct_natl_income_ie,6.0281516821916155,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2021,ifac_ct_pct_natl_income_ie,6.657065401558794,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2022,ifac_ct_pct_natl_income_ie,8.491349247418274,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2023,ifac_ct_pct_natl_income_ie,8.237094582538397,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2024,ifac_ct_pct_natl_income_ie,8.786600975403148,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2025,ifac_ct_pct_natl_income_ie,9.210468891615031,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+1995,ifac_ct_pct_natl_income_eu,2.29,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+1996,ifac_ct_pct_natl_income_eu,2.61,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+1997,ifac_ct_pct_natl_income_eu,2.8899999999999997,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+1998,ifac_ct_pct_natl_income_eu,2.8899999999999997,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+1999,ifac_ct_pct_natl_income_eu,2.9499999999999997,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2000,ifac_ct_pct_natl_income_eu,3.2700000000000005,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2001,ifac_ct_pct_natl_income_eu,3.11,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2002,ifac_ct_pct_natl_income_eu,2.8,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2003,ifac_ct_pct_natl_income_eu,2.5300000000000002,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2004,ifac_ct_pct_natl_income_eu,2.68,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2005,ifac_ct_pct_natl_income_eu,2.85,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2006,ifac_ct_pct_natl_income_eu,3.0799999999999996,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2007,ifac_ct_pct_natl_income_eu,3.2199999999999998,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2008,ifac_ct_pct_natl_income_eu,2.98,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2009,ifac_ct_pct_natl_income_eu,2.23,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2010,ifac_ct_pct_natl_income_eu,2.44,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2011,ifac_ct_pct_natl_income_eu,2.54,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2012,ifac_ct_pct_natl_income_eu,2.4699999999999998,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2013,ifac_ct_pct_natl_income_eu,2.65,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2014,ifac_ct_pct_natl_income_eu,2.5300000000000002,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2015,ifac_ct_pct_natl_income_eu,2.69,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2016,ifac_ct_pct_natl_income_eu,2.78,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2017,ifac_ct_pct_natl_income_eu,2.9999999999999996,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2018,ifac_ct_pct_natl_income_eu,2.9600000000000004,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2019,ifac_ct_pct_natl_income_eu,2.98,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2020,ifac_ct_pct_natl_income_eu,2.71,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2021,ifac_ct_pct_natl_income_eu,3.1000000000000005,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2022,ifac_ct_pct_natl_income_eu,3.46,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2023,ifac_ct_pct_natl_income_eu,3.4599999999999995,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2024,ifac_ct_pct_natl_income_eu,3.500000000000001,Percent,irl-ifac,far2026_3.4_ct_pct_ntnl_income,False
+2022,ifac_pct_ct_saved,37.46040534084155,Percent,irl-ifac,far2026_3.5_pct_ct_saved,False
+2023,ifac_pct_ct_saved,31.165775791420458,Percent,irl-ifac,far2026_3.5_pct_ct_saved,False
+2024,ifac_pct_ct_saved,32.27810545340636,Percent,irl-ifac,far2026_3.5_pct_ct_saved,False
+2025,ifac_pct_ct_saved,34.0587348042113,Percent,irl-ifac,far2026_3.5_pct_ct_saved,False
+2026,ifac_pct_ct_saved,24.644375177103996,Percent,irl-ifac,far2026_3.5_pct_ct_saved,True
+2027,ifac_pct_ct_saved,22.776886035313,Percent,irl-ifac,far2026_3.5_pct_ct_saved,True
+2028,ifac_pct_ct_saved,15.488325382877228,Percent,irl-ifac,far2026_3.5_pct_ct_saved,True
+2029,ifac_pct_ct_saved,4.141606395127522,Percent,irl-ifac,far2026_3.5_pct_ct_saved,True
+2030,ifac_pct_ct_saved,12.807522123893806,Percent,irl-ifac,far2026_3.5_pct_ct_saved,True
+1971,noroil_ord_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1972,noroil_ord_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1973,noroil_ord_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1974,noroil_ord_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1975,noroil_ord_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1976,noroil_ord_tax,6.851511400837473,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1977,noroil_ord_tax,9.534481611069616,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1978,noroil_ord_tax,9.559224065365921,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1979,noroil_ord_tax,15.976444721320213,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1980,noroil_ord_tax,41.030440875682864,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1981,noroil_ord_tax,51.78901629389627,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1982,noroil_ord_tax,53.152173046539474,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1983,noroil_ord_tax,48.74416302883837,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1984,noroil_ord_tax,60.20099688653734,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1985,noroil_ord_tax,69.16303820956512,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1986,noroil_ord_tax,53.86657137756467,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1987,noroil_ord_tax,21.42682494712312,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1988,noroil_ord_tax,14.79506801666285,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1989,noroil_ord_tax,13.296520974305285,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1990,noroil_ord_tax,32.28554701714084,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1991,noroil_ord_tax,37.623945137578005,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1992,noroil_ord_tax,18.374420433588877,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1993,noroil_ord_tax,15.139070030130938,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1994,noroil_ord_tax,14.356214294578697,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1995,noroil_ord_tax,17.58204748104746,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1996,noroil_ord_tax,21.618117965388493,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1997,noroil_ord_tax,32.917201371181505,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1998,noroil_ord_tax,19.020516999834204,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1999,noroil_ord_tax,11.343841844222531,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2000,noroil_ord_tax,43.42534084924133,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2001,noroil_ord_tax,79.88419793386849,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2002,noroil_ord_tax,61.6579174056151,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2003,noroil_ord_tax,68.27626640325191,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2004,noroil_ord_tax,77.97849451384155,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2005,noroil_ord_tax,107.58097150620382,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2006,noroil_ord_tax,132.01413130695764,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2007,noroil_ord_tax,115.62929187425769,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2008,noroil_ord_tax,140.7007319179803,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2009,noroil_ord_tax,97.79034877981472,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2010,noroil_ord_tax,92.00677375971759,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2011,noroil_ord_tax,118.6564980340534,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2012,noroil_ord_tax,127.48471485708198,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2013,noroil_ord_tax,111.46184080276674,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2014,noroil_ord_tax,92.5262199752632,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2015,noroil_ord_tax,56.817433785048635,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2016,noroil_ord_tax,22.789950618848994,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2017,noroil_ord_tax,32.96742927010554,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2018,noroil_ord_tax,52.35635388949009,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2019,noroil_ord_tax,57.39059105160967,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2020,noroil_ord_tax,22.04437167914315,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2021,noroil_ord_tax,42.462467592268034,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2022,noroil_ord_tax,248.2728198417849,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2023,noroil_ord_tax,210.7420376234076,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2024,noroil_ord_tax,144.30007178242883,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2025,noroil_ord_tax,126.39089784257978,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1971,noroil_spec_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1972,noroil_spec_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1973,noroil_spec_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1974,noroil_spec_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1975,noroil_spec_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1976,noroil_spec_tax,0.023977292741338477,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1977,noroil_spec_tax,4.080578021266512,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1978,noroil_spec_tax,3.801726419869269,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1979,noroil_spec_tax,7.012902478437705,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1980,noroil_spec_tax,20.51108096640523,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1981,noroil_spec_tax,30.24652632290581,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1982,noroil_spec_tax,31.86443787187462,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1983,noroil_spec_tax,30.37947766060965,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1984,noroil_spec_tax,36.37738741662908,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1985,noroil_spec_tax,41.26822028616951,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1986,noroil_spec_tax,31.109905678884697,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1987,noroil_spec_tax,9.559059917562006,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1988,noroil_spec_tax,3.09228171453745,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1989,noroil_spec_tax,4.2569780519971605,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1990,noroil_spec_tax,12.957558616049655,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1991,noroil_spec_tax,16.879553044546842,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1992,noroil_spec_tax,17.662101673726276,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1993,noroil_spec_tax,22.499619286708416,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1994,noroil_spec_tax,20.63677037183187,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1995,noroil_spec_tax,24.1523695280139,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1996,noroil_spec_tax,28.033957804211028,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1997,noroil_spec_tax,41.6156393085723,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1998,noroil_spec_tax,23.021752394672244,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1999,noroil_spec_tax,12.594940646897617,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2000,noroil_spec_tax,65.17664063139864,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2001,noroil_spec_tax,123.90768296912299,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2002,noroil_spec_tax,99.39380693984641,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2003,noroil_spec_tax,111.78177948309366,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2004,noroil_spec_tax,127.22141624102048,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2005,noroil_spec_tax,180.42944147107139,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2006,noroil_spec_tax,225.89028284853404,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2007,noroil_spec_tax,191.22655995830283,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2008,noroil_spec_tax,238.98978813591518,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2009,noroil_spec_tax,164.9418098888883,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2010,noroil_spec_tax,151.35685122712405,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2011,noroil_spec_tax,193.64804779293198,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2012,noroil_spec_tax,212.27097236928296,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2013,noroil_spec_tax,183.60643173619528,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2014,noroil_spec_tax,152.5057239070879,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2015,noroil_spec_tax,92.39435568216895,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2016,noroil_spec_tax,35.61647980115189,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2017,noroil_spec_tax,57.56333860612574,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2018,noroil_spec_tax,97.50453928552834,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2019,noroil_spec_tax,120.74293981214474,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2020,noroil_spec_tax,15.372406989168699,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2021,noroil_spec_tax,65.44389333821383,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2022,noroil_spec_tax,583.5445540618741,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2023,noroil_spec_tax,477.13565777936304,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2024,noroil_spec_tax,303.15808875728845,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2025,noroil_spec_tax,269.3410303292467,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1971,noroil_ord_plus_special_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1972,noroil_ord_plus_special_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1973,noroil_ord_plus_special_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1974,noroil_ord_plus_special_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1975,noroil_ord_plus_special_tax,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1976,noroil_ord_plus_special_tax,6.875488693578811,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1977,noroil_ord_plus_special_tax,13.615059632336125,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1978,noroil_ord_plus_special_tax,13.36095048523519,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1979,noroil_ord_plus_special_tax,22.98934719975792,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1980,noroil_ord_plus_special_tax,61.54152184208811,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1981,noroil_ord_plus_special_tax,82.03554261680209,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1982,noroil_ord_plus_special_tax,85.01661091841409,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1983,noroil_ord_plus_special_tax,79.12364068944802,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1984,noroil_ord_plus_special_tax,96.57838430316639,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1985,noroil_ord_plus_special_tax,110.43125849573461,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1986,noroil_ord_plus_special_tax,84.97647705644935,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1987,noroil_ord_plus_special_tax,30.985884864685133,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1988,noroil_ord_plus_special_tax,17.887349731200302,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1989,noroil_ord_plus_special_tax,17.553499026302443,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1990,noroil_ord_plus_special_tax,45.24310563319049,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1991,noroil_ord_plus_special_tax,54.50349818212485,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1992,noroil_ord_plus_special_tax,36.03652210731515,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1993,noroil_ord_plus_special_tax,37.63868931683935,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1994,noroil_ord_plus_special_tax,34.99298466641057,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1995,noroil_ord_plus_special_tax,41.734417009061346,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1996,noroil_ord_plus_special_tax,49.652075769599534,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1997,noroil_ord_plus_special_tax,74.53284067975379,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1998,noroil_ord_plus_special_tax,42.042269394506434,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1999,noroil_ord_plus_special_tax,23.93878249112014,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2000,noroil_ord_plus_special_tax,108.60198148063996,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2001,noroil_ord_plus_special_tax,203.7918809029915,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2002,noroil_ord_plus_special_tax,161.05172434546148,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2003,noroil_ord_plus_special_tax,180.05804588634552,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2004,noroil_ord_plus_special_tax,205.19991075486206,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2005,noroil_ord_plus_special_tax,288.0104129772752,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2006,noroil_ord_plus_special_tax,357.9044141554917,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2007,noroil_ord_plus_special_tax,306.85585183256046,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2008,noroil_ord_plus_special_tax,379.69052005389557,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2009,noroil_ord_plus_special_tax,262.732158668703,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2010,noroil_ord_plus_special_tax,243.3636249868417,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2011,noroil_ord_plus_special_tax,312.3045458269854,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2012,noroil_ord_plus_special_tax,339.755687226365,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2013,noroil_ord_plus_special_tax,295.0682725389621,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2014,noroil_ord_plus_special_tax,245.0319438823511,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2015,noroil_ord_plus_special_tax,149.21178946721756,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2016,noroil_ord_plus_special_tax,58.4064304200009,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2017,noroil_ord_plus_special_tax,90.53076787623131,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2018,noroil_ord_plus_special_tax,149.8608931750184,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2019,noroil_ord_plus_special_tax,178.13353086375443,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2020,noroil_ord_plus_special_tax,37.41677866831185,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2021,noroil_ord_plus_special_tax,107.90636093048184,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2022,noroil_ord_plus_special_tax,831.817373903659,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2023,noroil_ord_plus_special_tax,687.8776954027705,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2024,noroil_ord_plus_special_tax,447.45816053971737,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2025,noroil_ord_plus_special_tax,395.73192817182644,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1971,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1972,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1973,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1974,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1975,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1976,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1977,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1978,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1979,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1980,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1981,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1982,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1983,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1984,noroil_sdfi_net_cash_flow,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1985,noroil_sdfi_net_cash_flow,-26.458215772497674,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1986,noroil_sdfi_net_cash_flow,-37.22233612639665,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1987,noroil_sdfi_net_cash_flow,-32.15674961589405,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1988,noroil_sdfi_net_cash_flow,-26.344970987752355,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1989,noroil_sdfi_net_cash_flow,2.0775814022352,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1990,noroil_sdfi_net_cash_flow,19.173949320223386,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1991,noroil_sdfi_net_cash_flow,14.725462583304777,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1992,noroil_sdfi_net_cash_flow,8.807955177413671,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1993,noroil_sdfi_net_cash_flow,0.3754659389784463,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1994,noroil_sdfi_net_cash_flow,0.011507065000463852,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1995,noroil_sdfi_net_cash_flow,20.727295343394253,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1996,noroil_sdfi_net_cash_flow,76.0309643814906,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1997,noroil_sdfi_net_cash_flow,85.86497775702881,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1998,noroil_sdfi_net_cash_flow,30.494637428201376,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1999,noroil_sdfi_net_cash_flow,52.77699047048419,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2000,noroil_sdfi_net_cash_flow,194.570518410091,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2001,noroil_sdfi_net_cash_flow,241.6640842631795,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2002,noroil_sdfi_net_cash_flow,141.82788299388193,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2003,noroil_sdfi_net_cash_flow,125.13779954164602,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2004,noroil_sdfi_net_cash_flow,144.78153692688457,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2005,noroil_sdfi_net_cash_flow,172.2332435951497,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2006,noroil_sdfi_net_cash_flow,212.4059464102189,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2007,noroil_sdfi_net_cash_flow,183.00416015248726,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2008,noroil_sdfi_net_cash_flow,243.61528562165378,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2009,noroil_sdfi_net_cash_flow,151.5946762734513,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2010,noroil_sdfi_net_cash_flow,162.73275296727505,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2011,noroil_sdfi_net_cash_flow,193.77240182893263,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2012,noroil_sdfi_net_cash_flow,221.21687715296767,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2013,noroil_sdfi_net_cash_flow,182.0103124677566,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2014,noroil_sdfi_net_cash_flow,162.6240680898933,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2015,noroil_sdfi_net_cash_flow,133.44188238251567,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2016,noroil_sdfi_net_cash_flow,94.45502169845285,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2017,noroil_sdfi_net_cash_flow,122.85082583817966,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2018,noroil_sdfi_net_cash_flow,161.23692087275035,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2019,noroil_sdfi_net_cash_flow,128.746212582542,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2020,noroil_sdfi_net_cash_flow,74.32083622552132,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2021,noroil_sdfi_net_cash_flow,233.10848610690684,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2022,noroil_sdfi_net_cash_flow,616.6569588508318,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2023,noroil_sdfi_net_cash_flow,309.56571623158385,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2024,noroil_sdfi_net_cash_flow,238.4189063255956,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2025,noroil_sdfi_net_cash_flow,260.94312178368864,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1971,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1972,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1973,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1974,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1975,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1976,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1977,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1978,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1979,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1980,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1981,noroil_equinor_dividend,0.0002138491689910234,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1982,noroil_equinor_dividend,1.3008778718493303,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1983,noroil_equinor_dividend,1.209014161690553,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1984,noroil_equinor_dividend,2.6105816028362616,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1985,noroil_equinor_dividend,2.248456788049964,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1986,noroil_equinor_dividend,3.8747331502812585,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1987,noroil_equinor_dividend,2.614931277699908,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1988,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1989,noroil_equinor_dividend,0.0,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1990,noroil_equinor_dividend,2.088665503292308,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1991,noroil_equinor_dividend,3.7571345254222086,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1992,noroil_equinor_dividend,3.403570866237686,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1993,noroil_equinor_dividend,2.951776249830553,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1994,noroil_equinor_dividend,2.474018975099728,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1995,noroil_equinor_dividend,3.6131174731869877,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1996,noroil_equinor_dividend,4.023492780278542,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1997,noroil_equinor_dividend,3.400317786422004,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1998,noroil_equinor_dividend,6.1525272284643595,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1999,noroil_equinor_dividend,0.27642935901986315,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2000,noroil_equinor_dividend,3.3716495655037986,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2001,noroil_equinor_dividend,11.069928887688611,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2002,noroil_equinor_dividend,9.567673268680117,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2003,noroil_equinor_dividend,9.518511514378227,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2004,noroil_equinor_dividend,9.43103268757164,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2005,noroil_equinor_dividend,14.21684922776783,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2006,noroil_equinor_dividend,21.309414286336175,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2007,noroil_equinor_dividend,23.042179213642104,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2008,noroil_equinor_dividend,26.839997703953113,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2009,noroil_equinor_dividend,24.628456647055334,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2010,noroil_equinor_dividend,20.04662291436444,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2011,noroil_equinor_dividend,20.24847669121431,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2012,noroil_equinor_dividend,20.633080838901876,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2013,noroil_equinor_dividend,21.11709722032502,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2014,noroil_equinor_dividend,32.63173203699947,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2015,noroil_equinor_dividend,22.138606441259935,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2016,noroil_equinor_dividend,15.233117296116342,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2017,noroil_equinor_dividend,11.687496902693214,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2018,noroil_equinor_dividend,20.355672202390227,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2019,noroil_equinor_dividend,26.76252783525459,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2020,noroil_equinor_dividend,19.810278405830882,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2021,noroil_equinor_dividend,13.211127451515301,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2022,noroil_equinor_dividend,41.098035789948774,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2023,noroil_equinor_dividend,87.67040001580229,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2024,noroil_equinor_dividend,68.05164705993622,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2025,noroil_equinor_dividend,36.69385814412711,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1971,noroil_state_net_cash_flow,0.12124313639905326,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1972,noroil_state_net_cash_flow,0.34262251641516556,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1973,noroil_state_net_cash_flow,0.5301297070669766,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1974,noroil_state_net_cash_flow,0.837107182178579,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1975,noroil_state_net_cash_flow,1.3184466507883563,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1976,noroil_state_net_cash_flow,11.736884796885157,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1977,noroil_state_net_cash_flow,17.571813217095194,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1978,noroil_state_net_cash_flow,19.97082970767634,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1979,noroil_state_net_cash_flow,30.79660659431885,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1980,noroil_state_net_cash_flow,76.86584509892589,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1981,noroil_state_net_cash_flow,102.20886140745735,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1982,noroil_state_net_cash_flow,106.9371100579184,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1983,noroil_state_net_cash_flow,106.83506726802638,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1984,noroil_state_net_cash_flow,131.37628775631808,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1985,noroil_state_net_cash_flow,123.78563301544992,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1986,noroil_state_net_cash_flow,77.67828489788725,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1987,noroil_state_net_cash_flow,24.741272858237522,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1988,noroil_state_net_cash_flow,7.883587617379499,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1989,noroil_state_net_cash_flow,40.29957567646944,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1990,noroil_state_net_cash_flow,89.29567192950414,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1991,noroil_state_net_cash_flow,98.86523790195976,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1992,noroil_state_net_cash_flow,74.16137805327163,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1993,noroil_state_net_cash_flow,66.17646210020095,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1994,noroil_state_net_cash_flow,58.86093889037252,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1995,noroil_state_net_cash_flow,86.21113197639635,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1996,noroil_state_net_cash_flow,151.99233321218674,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1997,noroil_state_net_cash_flow,184.79509855435995,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1998,noroil_state_net_cash_flow,94.40767623246302,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1999,noroil_state_net_cash_flow,91.41567198681592,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2000,noroil_state_net_cash_flow,319.68209300407256,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2001,noroil_state_net_cash_flow,468.71321917455407,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2002,noroil_state_net_cash_flow,321.5104937995039,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2003,noroil_state_net_cash_flow,322.65479456258464,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2004,noroil_state_net_cash_flow,367.5792995598955,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2005,noroil_state_net_cash_flow,481.3339916966488,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2006,noroil_state_net_cash_flow,601.3581754887374,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2007,noroil_state_net_cash_flow,520.5348130453159,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2008,noroil_state_net_cash_flow,658.9017467251791,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2009,noroil_state_net_cash_flow,444.8893996792603,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2010,noroil_state_net_cash_flow,431.70907443317213,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2011,noroil_state_net_cash_flow,532.0002146241326,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2012,noroil_state_net_cash_flow,587.6022689862034,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2013,noroil_state_net_cash_flow,505.4177558343261,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2014,noroil_state_net_cash_flow,449.0977064606342,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2015,noroil_state_net_cash_flow,314.12440182272616,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2016,noroil_state_net_cash_flow,177.348701876545,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2017,noroil_state_net_cash_flow,233.58804343783524,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2018,noroil_state_net_cash_flow,340.9262640309421,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2019,noroil_state_net_cash_flow,342.81708014604686,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2020,noroil_state_net_cash_flow,140.8005981838242,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2021,noroil_state_net_cash_flow,361.9528373552811,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2022,noroil_state_net_cash_flow,1498.0927489498918,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2023,noroil_state_net_cash_flow,1094.987022089542,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2024,noroil_state_net_cash_flow,763.5767060523101,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+2025,noroil_state_net_cash_flow,703.0517279420354,NOK Billion (2027 prices),nor-gov-oil,nor-oil_net_cash_flow,False
+1971,noroil_ord_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1972,noroil_ord_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1973,noroil_ord_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1974,noroil_ord_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1975,noroil_ord_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1976,noroil_ord_tax_eur,585.5992650288439,Euro Million (constant prices),nor-gov-oil,calculated,False
+1977,noroil_ord_tax_eur,814.9129582110783,Euro Million (constant prices),nor-gov-oil,calculated,False
+1978,noroil_ord_tax_eur,817.0276978945232,Euro Million (constant prices),nor-gov-oil,calculated,False
+1979,noroil_ord_tax_eur,1365.5080958393346,Euro Million (constant prices),nor-gov-oil,calculated,False
+1980,noroil_ord_tax_eur,3506.8752885199033,Euro Million (constant prices),nor-gov-oil,calculated,False
+1981,noroil_ord_tax_eur,4426.411649050963,Euro Million (constant prices),nor-gov-oil,calculated,False
+1982,noroil_ord_tax_eur,4542.920773208502,Euro Million (constant prices),nor-gov-oil,calculated,False
+1983,noroil_ord_tax_eur,4166.167780242597,Euro Million (constant prices),nor-gov-oil,calculated,False
+1984,noroil_ord_tax_eur,5145.3843492766955,Euro Million (constant prices),nor-gov-oil,calculated,False
+1985,noroil_ord_tax_eur,5911.370787142318,Euro Million (constant prices),nor-gov-oil,calculated,False
+1986,noroil_ord_tax_eur,4603.9804596209115,Euro Million (constant prices),nor-gov-oil,calculated,False
+1987,noroil_ord_tax_eur,1831.352559583173,Euro Million (constant prices),nor-gov-oil,calculated,False
+1988,noroil_ord_tax_eur,1264.5357279199018,Euro Million (constant prices),nor-gov-oil,calculated,False
+1989,noroil_ord_tax_eur,1136.454784128657,Euro Million (constant prices),nor-gov-oil,calculated,False
+1990,noroil_ord_tax_eur,2759.448463003491,Euro Million (constant prices),nor-gov-oil,calculated,False
+1991,noroil_ord_tax_eur,3215.721806630599,Euro Million (constant prices),nor-gov-oil,calculated,False
+1992,noroil_ord_tax_eur,1570.4632849221266,Euro Million (constant prices),nor-gov-oil,calculated,False
+1993,noroil_ord_tax_eur,1293.9376094129007,Euro Million (constant prices),nor-gov-oil,calculated,False
+1994,noroil_ord_tax_eur,1227.0268627845041,Euro Million (constant prices),nor-gov-oil,calculated,False
+1995,noroil_ord_tax_eur,1502.7391009442276,Euro Million (constant prices),nor-gov-oil,calculated,False
+1996,noroil_ord_tax_eur,1847.7023902041449,Euro Million (constant prices),nor-gov-oil,calculated,False
+1997,noroil_ord_tax_eur,2813.436014630898,Euro Million (constant prices),nor-gov-oil,calculated,False
+1998,noroil_ord_tax_eur,1625.685213661043,Euro Million (constant prices),nor-gov-oil,calculated,False
+1999,noroil_ord_tax_eur,969.5591319848319,Euro Million (constant prices),nor-gov-oil,calculated,False
+2000,noroil_ord_tax_eur,3711.5675939522507,Euro Million (constant prices),nor-gov-oil,calculated,False
+2001,noroil_ord_tax_eur,6827.709225116965,Euro Million (constant prices),nor-gov-oil,calculated,False
+2002,noroil_ord_tax_eur,5269.907470565394,Euro Million (constant prices),nor-gov-oil,calculated,False
+2003,noroil_ord_tax_eur,5835.578325064266,Euro Million (constant prices),nor-gov-oil,calculated,False
+2004,noroil_ord_tax_eur,6664.828590926629,Euro Million (constant prices),nor-gov-oil,calculated,False
+2005,noroil_ord_tax_eur,9194.954829590071,Euro Million (constant prices),nor-gov-oil,calculated,False
+2006,noroil_ord_tax_eur,11283.259086064756,Euro Million (constant prices),nor-gov-oil,calculated,False
+2007,noroil_ord_tax_eur,9882.845459338265,Euro Million (constant prices),nor-gov-oil,calculated,False
+2008,noroil_ord_tax_eur,12025.70358273336,Euro Million (constant prices),nor-gov-oil,calculated,False
+2009,noroil_ord_tax_eur,8358.149468360234,Euro Million (constant prices),nor-gov-oil,calculated,False
+2010,noroil_ord_tax_eur,7863.826817069879,Euro Million (constant prices),nor-gov-oil,calculated,False
+2011,noroil_ord_tax_eur,10141.581028551573,Euro Million (constant prices),nor-gov-oil,calculated,False
+2012,noroil_ord_tax_eur,10896.129474964273,Euro Million (constant prices),nor-gov-oil,calculated,False
+2013,noroil_ord_tax_eur,9526.653060065535,Euro Million (constant prices),nor-gov-oil,calculated,False
+2014,noroil_ord_tax_eur,7908.223929509676,Euro Million (constant prices),nor-gov-oil,calculated,False
+2015,noroil_ord_tax_eur,4856.190921799029,Euro Million (constant prices),nor-gov-oil,calculated,False
+2016,noroil_ord_tax_eur,1947.859027252051,Euro Million (constant prices),nor-gov-oil,calculated,False
+2017,noroil_ord_tax_eur,2817.728997444918,Euro Million (constant prices),nor-gov-oil,calculated,False
+2018,noroil_ord_tax_eur,4474.90204183676,Euro Million (constant prices),nor-gov-oil,calculated,False
+2019,noroil_ord_tax_eur,4905.178722359801,Euro Million (constant prices),nor-gov-oil,calculated,False
+2020,noroil_ord_tax_eur,1884.1343315506967,Euro Million (constant prices),nor-gov-oil,calculated,False
+2021,noroil_ord_tax_eur,3629.2707343818834,Euro Million (constant prices),nor-gov-oil,calculated,False
+2022,noroil_ord_tax_eur,21219.89913177649,Euro Million (constant prices),nor-gov-oil,calculated,False
+2023,noroil_ord_tax_eur,18012.139967812618,Euro Million (constant prices),nor-gov-oil,calculated,False
+2024,noroil_ord_tax_eur,12333.339468583661,Euro Million (constant prices),nor-gov-oil,calculated,False
+2025,noroil_ord_tax_eur,10802.640841246135,Euro Million (constant prices),nor-gov-oil,calculated,False
+1971,noroil_spec_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1972,noroil_spec_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1973,noroil_spec_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1974,noroil_spec_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1975,noroil_spec_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1976,noroil_spec_tax_eur,2.0493412599434597,Euro Million (constant prices),nor-gov-oil,calculated,False
+1977,noroil_spec_tax_eur,348.76735224500106,Euro Million (constant prices),nor-gov-oil,calculated,False
+1978,noroil_spec_tax_eur,324.9338820401085,Euro Million (constant prices),nor-gov-oil,calculated,False
+1979,noroil_spec_tax_eur,599.393374225445,Euro Million (constant prices),nor-gov-oil,calculated,False
+1980,noroil_spec_tax_eur,1753.0838432824985,Euro Million (constant prices),nor-gov-oil,calculated,False
+1981,noroil_spec_tax_eur,2585.1731899919496,Euro Million (constant prices),nor-gov-oil,calculated,False
+1982,noroil_spec_tax_eur,2723.456228365352,Euro Million (constant prices),nor-gov-oil,calculated,False
+1983,noroil_spec_tax_eur,2596.536552188859,Euro Million (constant prices),nor-gov-oil,calculated,False
+1984,noroil_spec_tax_eur,3109.178411677699,Euro Million (constant prices),nor-gov-oil,calculated,False
+1985,noroil_spec_tax_eur,3527.198315057223,Euro Million (constant prices),nor-gov-oil,calculated,False
+1986,noroil_spec_tax_eur,2658.9662973405725,Euro Million (constant prices),nor-gov-oil,calculated,False
+1987,noroil_spec_tax_eur,817.0136681676929,Euro Million (constant prices),nor-gov-oil,calculated,False
+1988,noroil_spec_tax_eur,264.2975824390983,Euro Million (constant prices),nor-gov-oil,calculated,False
+1989,noroil_spec_tax_eur,363.84427794847534,Euro Million (constant prices),nor-gov-oil,calculated,False
+1990,noroil_spec_tax_eur,1107.4836423974066,Euro Million (constant prices),nor-gov-oil,calculated,False
+1991,noroil_spec_tax_eur,1442.6968414142602,Euro Million (constant prices),nor-gov-oil,calculated,False
+1992,noroil_spec_tax_eur,1509.5813396347246,Euro Million (constant prices),nor-gov-oil,calculated,False
+1993,noroil_spec_tax_eur,1923.044383479352,Euro Million (constant prices),nor-gov-oil,calculated,False
+1994,noroil_spec_tax_eur,1763.8265275069975,Euro Million (constant prices),nor-gov-oil,calculated,False
+1995,noroil_spec_tax_eur,2064.3050878644362,Euro Million (constant prices),nor-gov-oil,calculated,False
+1996,noroil_spec_tax_eur,2396.064769590686,Euro Million (constant prices),nor-gov-oil,calculated,False
+1997,noroil_spec_tax_eur,3556.892248595923,Euro Million (constant prices),nor-gov-oil,calculated,False
+1998,noroil_spec_tax_eur,1967.6711448437816,Euro Million (constant prices),nor-gov-oil,calculated,False
+1999,noroil_spec_tax_eur,1076.490653580993,Euro Million (constant prices),nor-gov-oil,calculated,False
+2000,noroil_spec_tax_eur,5570.653045418688,Euro Million (constant prices),nor-gov-oil,calculated,False
+2001,noroil_spec_tax_eur,10590.400253771197,Euro Million (constant prices),nor-gov-oil,calculated,False
+2002,noroil_spec_tax_eur,8495.197174345847,Euro Million (constant prices),nor-gov-oil,calculated,False
+2003,noroil_spec_tax_eur,9553.998246418263,Euro Million (constant prices),nor-gov-oil,calculated,False
+2004,noroil_spec_tax_eur,10873.62531974534,Euro Million (constant prices),nor-gov-oil,calculated,False
+2005,noroil_spec_tax_eur,15421.319783852257,Euro Million (constant prices),nor-gov-oil,calculated,False
+2006,noroil_spec_tax_eur,19306.861781925985,Euro Million (constant prices),nor-gov-oil,calculated,False
+2007,noroil_spec_tax_eur,16344.150423786567,Euro Million (constant prices),nor-gov-oil,calculated,False
+2008,noroil_spec_tax_eur,20426.47761845429,Euro Million (constant prices),nor-gov-oil,calculated,False
+2009,noroil_spec_tax_eur,14097.590588793872,Euro Million (constant prices),nor-gov-oil,calculated,False
+2010,noroil_spec_tax_eur,12936.483010865304,Euro Million (constant prices),nor-gov-oil,calculated,False
+2011,noroil_spec_tax_eur,16551.115195977094,Euro Million (constant prices),nor-gov-oil,calculated,False
+2012,noroil_spec_tax_eur,18142.818151220767,Euro Million (constant prices),nor-gov-oil,calculated,False
+2013,noroil_spec_tax_eur,15692.857413350026,Euro Million (constant prices),nor-gov-oil,calculated,False
+2014,noroil_spec_tax_eur,13034.677257016061,Euro Million (constant prices),nor-gov-oil,calculated,False
+2015,noroil_spec_tax_eur,7896.953477108458,Euro Million (constant prices),nor-gov-oil,calculated,False
+2016,noroil_spec_tax_eur,3044.143572748025,Euro Million (constant prices),nor-gov-oil,calculated,False
+2017,noroil_spec_tax_eur,4919.943470609038,Euro Million (constant prices),nor-gov-oil,calculated,False
+2018,noroil_spec_tax_eur,8333.721306455414,Euro Million (constant prices),nor-gov-oil,calculated,False
+2019,noroil_spec_tax_eur,10319.909385653398,Euro Million (constant prices),nor-gov-oil,calculated,False
+2020,noroil_spec_tax_eur,1313.880939245188,Euro Million (constant prices),nor-gov-oil,calculated,False
+2021,noroil_spec_tax_eur,5593.495157112293,Euro Million (constant prices),nor-gov-oil,calculated,False
+2022,noroil_spec_tax_eur,49875.6029112713,Euro Million (constant prices),nor-gov-oil,calculated,False
+2023,noroil_spec_tax_eur,40780.82545122761,Euro Million (constant prices),nor-gov-oil,calculated,False
+2024,noroil_spec_tax_eur,25910.947757033206,Euro Million (constant prices),nor-gov-oil,calculated,False
+2025,noroil_spec_tax_eur,23020.600882841594,Euro Million (constant prices),nor-gov-oil,calculated,False
+1971,noroil_ord_plus_special_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1972,noroil_ord_plus_special_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1973,noroil_ord_plus_special_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1974,noroil_ord_plus_special_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1975,noroil_ord_plus_special_tax_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1976,noroil_ord_plus_special_tax_eur,587.6486062887873,Euro Million (constant prices),nor-gov-oil,calculated,False
+1977,noroil_ord_plus_special_tax_eur,1163.6803104560793,Euro Million (constant prices),nor-gov-oil,calculated,False
+1978,noroil_ord_plus_special_tax_eur,1141.9615799346316,Euro Million (constant prices),nor-gov-oil,calculated,False
+1979,noroil_ord_plus_special_tax_eur,1964.9014700647795,Euro Million (constant prices),nor-gov-oil,calculated,False
+1980,noroil_ord_plus_special_tax_eur,5259.959131802402,Euro Million (constant prices),nor-gov-oil,calculated,False
+1981,noroil_ord_plus_special_tax_eur,7011.584839042915,Euro Million (constant prices),nor-gov-oil,calculated,False
+1982,noroil_ord_plus_special_tax_eur,7266.377001573855,Euro Million (constant prices),nor-gov-oil,calculated,False
+1983,noroil_ord_plus_special_tax_eur,6762.7043324314545,Euro Million (constant prices),nor-gov-oil,calculated,False
+1984,noroil_ord_plus_special_tax_eur,8254.562760954392,Euro Million (constant prices),nor-gov-oil,calculated,False
+1985,noroil_ord_plus_special_tax_eur,9438.56910219954,Euro Million (constant prices),nor-gov-oil,calculated,False
+1986,noroil_ord_plus_special_tax_eur,7262.9467569614835,Euro Million (constant prices),nor-gov-oil,calculated,False
+1987,noroil_ord_plus_special_tax_eur,2648.366227750866,Euro Million (constant prices),nor-gov-oil,calculated,False
+1988,noroil_ord_plus_special_tax_eur,1528.8333103590003,Euro Million (constant prices),nor-gov-oil,calculated,False
+1989,noroil_ord_plus_special_tax_eur,1500.299062077132,Euro Million (constant prices),nor-gov-oil,calculated,False
+1990,noroil_ord_plus_special_tax_eur,3866.932105400897,Euro Million (constant prices),nor-gov-oil,calculated,False
+1991,noroil_ord_plus_special_tax_eur,4658.41864804486,Euro Million (constant prices),nor-gov-oil,calculated,False
+1992,noroil_ord_plus_special_tax_eur,3080.0446245568505,Euro Million (constant prices),nor-gov-oil,calculated,False
+1993,noroil_ord_plus_special_tax_eur,3216.9819928922516,Euro Million (constant prices),nor-gov-oil,calculated,False
+1994,noroil_ord_plus_special_tax_eur,2990.853390291502,Euro Million (constant prices),nor-gov-oil,calculated,False
+1995,noroil_ord_plus_special_tax_eur,3567.0441888086625,Euro Million (constant prices),nor-gov-oil,calculated,False
+1996,noroil_ord_plus_special_tax_eur,4243.767159794832,Euro Million (constant prices),nor-gov-oil,calculated,False
+1997,noroil_ord_plus_special_tax_eur,6370.32826322682,Euro Million (constant prices),nor-gov-oil,calculated,False
+1998,noroil_ord_plus_special_tax_eur,3593.356358504823,Euro Million (constant prices),nor-gov-oil,calculated,False
+1999,noroil_ord_plus_special_tax_eur,2046.0497855658239,Euro Million (constant prices),nor-gov-oil,calculated,False
+2000,noroil_ord_plus_special_tax_eur,9282.220639370938,Euro Million (constant prices),nor-gov-oil,calculated,False
+2001,noroil_ord_plus_special_tax_eur,17418.109478888164,Euro Million (constant prices),nor-gov-oil,calculated,False
+2002,noroil_ord_plus_special_tax_eur,13765.104644911236,Euro Million (constant prices),nor-gov-oil,calculated,False
+2003,noroil_ord_plus_special_tax_eur,15389.576571482525,Euro Million (constant prices),nor-gov-oil,calculated,False
+2004,noroil_ord_plus_special_tax_eur,17538.45391067197,Euro Million (constant prices),nor-gov-oil,calculated,False
+2005,noroil_ord_plus_special_tax_eur,24616.274613442325,Euro Million (constant prices),nor-gov-oil,calculated,False
+2006,noroil_ord_plus_special_tax_eur,30590.120867990743,Euro Million (constant prices),nor-gov-oil,calculated,False
+2007,noroil_ord_plus_special_tax_eur,26226.995883124826,Euro Million (constant prices),nor-gov-oil,calculated,False
+2008,noroil_ord_plus_special_tax_eur,32452.181201187654,Euro Million (constant prices),nor-gov-oil,calculated,False
+2009,noroil_ord_plus_special_tax_eur,22455.740057154104,Euro Million (constant prices),nor-gov-oil,calculated,False
+2010,noroil_ord_plus_special_tax_eur,20800.309827935187,Euro Million (constant prices),nor-gov-oil,calculated,False
+2011,noroil_ord_plus_special_tax_eur,26692.69622452867,Euro Million (constant prices),nor-gov-oil,calculated,False
+2012,noroil_ord_plus_special_tax_eur,29038.947626185047,Euro Million (constant prices),nor-gov-oil,calculated,False
+2013,noroil_ord_plus_special_tax_eur,25219.51047341557,Euro Million (constant prices),nor-gov-oil,calculated,False
+2014,noroil_ord_plus_special_tax_eur,20942.901186525738,Euro Million (constant prices),nor-gov-oil,calculated,False
+2015,noroil_ord_plus_special_tax_eur,12753.144398907483,Euro Million (constant prices),nor-gov-oil,calculated,False
+2016,noroil_ord_plus_special_tax_eur,4992.002600000077,Euro Million (constant prices),nor-gov-oil,calculated,False
+2017,noroil_ord_plus_special_tax_eur,7737.672468053959,Euro Million (constant prices),nor-gov-oil,calculated,False
+2018,noroil_ord_plus_special_tax_eur,12808.62334829217,Euro Million (constant prices),nor-gov-oil,calculated,False
+2019,noroil_ord_plus_special_tax_eur,15225.088108013199,Euro Million (constant prices),nor-gov-oil,calculated,False
+2020,noroil_ord_plus_special_tax_eur,3198.0152707958846,Euro Million (constant prices),nor-gov-oil,calculated,False
+2021,noroil_ord_plus_special_tax_eur,9222.765891494175,Euro Million (constant prices),nor-gov-oil,calculated,False
+2022,noroil_ord_plus_special_tax_eur,71095.50204304779,Euro Million (constant prices),nor-gov-oil,calculated,False
+2023,noroil_ord_plus_special_tax_eur,58792.96541904022,Euro Million (constant prices),nor-gov-oil,calculated,False
+2024,noroil_ord_plus_special_tax_eur,38244.28722561687,Euro Million (constant prices),nor-gov-oil,calculated,False
+2025,noroil_ord_plus_special_tax_eur,33823.24172408773,Euro Million (constant prices),nor-gov-oil,calculated,False
+1971,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1972,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1973,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1974,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1975,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1976,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1977,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1978,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1979,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1980,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1981,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1982,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1983,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1984,noroil_sdfi_net_cash_flow_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1985,noroil_sdfi_net_cash_flow_eur,-2261.38596346134,Euro Million (constant prices),nor-gov-oil,calculated,False
+1986,noroil_sdfi_net_cash_flow_eur,-3181.396250119372,Euro Million (constant prices),nor-gov-oil,calculated,False
+1987,noroil_sdfi_net_cash_flow_eur,-2748.4401381106027,Euro Million (constant prices),nor-gov-oil,calculated,False
+1988,noroil_sdfi_net_cash_flow_eur,-2251.706922030116,Euro Million (constant prices),nor-gov-oil,calculated,False
+1989,noroil_sdfi_net_cash_flow_eur,177.57106002010258,Euro Million (constant prices),nor-gov-oil,calculated,False
+1990,noroil_sdfi_net_cash_flow_eur,1638.79908719858,Euro Million (constant prices),nor-gov-oil,calculated,False
+1991,noroil_sdfi_net_cash_flow_eur,1258.586545581605,Euro Million (constant prices),nor-gov-oil,calculated,False
+1992,noroil_sdfi_net_cash_flow_eur,752.8166818302283,Euro Million (constant prices),nor-gov-oil,calculated,False
+1993,noroil_sdfi_net_cash_flow_eur,32.09110589559371,Euro Million (constant prices),nor-gov-oil,calculated,False
+1994,noroil_sdfi_net_cash_flow_eur,0.9835098290994746,Euro Million (constant prices),nor-gov-oil,calculated,False
+1995,noroil_sdfi_net_cash_flow_eur,1771.5637045636115,Euro Million (constant prices),nor-gov-oil,calculated,False
+1996,noroil_sdfi_net_cash_flow_eur,6498.373024059026,Euro Million (constant prices),nor-gov-oil,calculated,False
+1997,noroil_sdfi_net_cash_flow_eur,7338.886987780241,Euro Million (constant prices),nor-gov-oil,calculated,False
+1998,noroil_sdfi_net_cash_flow_eur,2606.379267367639,Euro Million (constant prices),nor-gov-oil,calculated,False
+1999,noroil_sdfi_net_cash_flow_eur,4510.853886366171,Euro Million (constant prices),nor-gov-oil,calculated,False
+2000,noroil_sdfi_net_cash_flow_eur,16629.958838469316,Euro Million (constant prices),nor-gov-oil,calculated,False
+2001,noroil_sdfi_net_cash_flow_eur,20655.049937023887,Euro Million (constant prices),nor-gov-oil,calculated,False
+2002,noroil_sdfi_net_cash_flow_eur,12122.041281528373,Euro Million (constant prices),nor-gov-oil,calculated,False
+2003,noroil_sdfi_net_cash_flow_eur,10695.538422362908,Euro Million (constant prices),nor-gov-oil,calculated,False
+2004,noroil_sdfi_net_cash_flow_eur,12374.490335631162,Euro Million (constant prices),nor-gov-oil,calculated,False
+2005,noroil_sdfi_net_cash_flow_eur,14720.790050867496,Euro Million (constant prices),nor-gov-oil,calculated,False
+2006,noroil_sdfi_net_cash_flow_eur,18154.354394035803,Euro Million (constant prices),nor-gov-oil,calculated,False
+2007,noroil_sdfi_net_cash_flow_eur,15641.381209614296,Euro Million (constant prices),nor-gov-oil,calculated,False
+2008,noroil_sdfi_net_cash_flow_eur,20821.819283902034,Euro Million (constant prices),nor-gov-oil,calculated,False
+2009,noroil_sdfi_net_cash_flow_eur,12956.809937901822,Euro Million (constant prices),nor-gov-oil,calculated,False
+2010,noroil_sdfi_net_cash_flow_eur,13908.782304895303,Euro Million (constant prices),nor-gov-oil,calculated,False
+2011,noroil_sdfi_net_cash_flow_eur,16561.74374606262,Euro Million (constant prices),nor-gov-oil,calculated,False
+2012,noroil_sdfi_net_cash_flow_eur,18907.425397689545,Euro Million (constant prices),nor-gov-oil,calculated,False
+2013,noroil_sdfi_net_cash_flow_eur,15556.43696305612,Euro Million (constant prices),nor-gov-oil,calculated,False
+2014,noroil_sdfi_net_cash_flow_eur,13899.492999136182,Euro Million (constant prices),nor-gov-oil,calculated,False
+2015,noroil_sdfi_net_cash_flow_eur,11405.289092522708,Euro Million (constant prices),nor-gov-oil,calculated,False
+2016,noroil_sdfi_net_cash_flow_eur,8073.078777645544,Euro Million (constant prices),nor-gov-oil,calculated,False
+2017,noroil_sdfi_net_cash_flow_eur,10500.070584459801,Euro Million (constant prices),nor-gov-oil,calculated,False
+2018,noroil_sdfi_net_cash_flow_eur,13780.933407927381,Euro Million (constant prices),nor-gov-oil,calculated,False
+2019,noroil_sdfi_net_cash_flow_eur,11003.949793379657,Euro Million (constant prices),nor-gov-oil,calculated,False
+2020,noroil_sdfi_net_cash_flow_eur,6352.208224403532,Euro Million (constant prices),nor-gov-oil,calculated,False
+2021,noroil_sdfi_net_cash_flow_eur,19923.80223135956,Euro Million (constant prices),nor-gov-oil,calculated,False
+2022,noroil_sdfi_net_cash_flow_eur,52705.72297870357,Euro Million (constant prices),nor-gov-oil,calculated,False
+2023,noroil_sdfi_net_cash_flow_eur,26458.6082249217,Euro Million (constant prices),nor-gov-oil,calculated,False
+2024,noroil_sdfi_net_cash_flow_eur,20377.68430133296,Euro Million (constant prices),nor-gov-oil,calculated,False
+2025,noroil_sdfi_net_cash_flow_eur,22302.83092168279,Euro Million (constant prices),nor-gov-oil,calculated,False
+1971,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1972,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1973,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1974,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1975,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1976,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1977,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1978,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1979,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1980,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1981,noroil_equinor_dividend_eur,0.018277706751369523,Euro Million (constant prices),nor-gov-oil,calculated,False
+1982,noroil_equinor_dividend_eur,111.18614289310517,Euro Million (constant prices),nor-gov-oil,calculated,False
+1983,noroil_equinor_dividend_eur,103.33454373423531,Euro Million (constant prices),nor-gov-oil,calculated,False
+1984,noroil_equinor_dividend_eur,223.126632721048,Euro Million (constant prices),nor-gov-oil,calculated,False
+1985,noroil_equinor_dividend_eur,192.17579385042427,Euro Million (constant prices),nor-gov-oil,calculated,False
+1986,noroil_equinor_dividend_eur,331.1737735283127,Euro Million (constant prices),nor-gov-oil,calculated,False
+1987,noroil_equinor_dividend_eur,223.49839980341093,Euro Million (constant prices),nor-gov-oil,calculated,False
+1988,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1989,noroil_equinor_dividend_eur,0.0,Euro Million (constant prices),nor-gov-oil,calculated,False
+1990,noroil_equinor_dividend_eur,178.51841908481268,Euro Million (constant prices),nor-gov-oil,calculated,False
+1991,noroil_equinor_dividend_eur,321.1226090104452,Euro Million (constant prices),nor-gov-oil,calculated,False
+1992,noroil_equinor_dividend_eur,290.9034928408279,Euro Million (constant prices),nor-gov-oil,calculated,False
+1993,noroil_equinor_dividend_eur,252.28856836158573,Euro Million (constant prices),nor-gov-oil,calculated,False
+1994,noroil_equinor_dividend_eur,211.45461325638706,Euro Million (constant prices),nor-gov-oil,calculated,False
+1995,noroil_equinor_dividend_eur,308.8134592467511,Euro Million (constant prices),nor-gov-oil,calculated,False
+1996,noroil_equinor_dividend_eur,343.88827181867885,Euro Million (constant prices),nor-gov-oil,calculated,False
+1997,noroil_equinor_dividend_eur,290.62545183094056,Euro Million (constant prices),nor-gov-oil,calculated,False
+1998,noroil_equinor_dividend_eur,525.8570280738769,Euro Million (constant prices),nor-gov-oil,calculated,False
+1999,noroil_equinor_dividend_eur,23.626440941868648,Euro Million (constant prices),nor-gov-oil,calculated,False
+2000,noroil_equinor_dividend_eur,288.1751765387862,Euro Million (constant prices),nor-gov-oil,calculated,False
+2001,noroil_equinor_dividend_eur,946.1477681785138,Euro Million (constant prices),nor-gov-oil,calculated,False
+2002,noroil_equinor_dividend_eur,817.7498520239417,Euro Million (constant prices),nor-gov-oil,calculated,False
+2003,noroil_equinor_dividend_eur,813.5479926818998,Euro Million (constant prices),nor-gov-oil,calculated,False
+2004,noroil_equinor_dividend_eur,806.071169877918,Euro Million (constant prices),nor-gov-oil,calculated,False
+2005,noroil_equinor_dividend_eur,1215.115318612635,Euro Million (constant prices),nor-gov-oil,calculated,False
+2006,noroil_equinor_dividend_eur,1821.3174603706132,Euro Million (constant prices),nor-gov-oil,calculated,False
+2007,noroil_equinor_dividend_eur,1969.4170268070175,Euro Million (constant prices),nor-gov-oil,calculated,False
+2008,noroil_equinor_dividend_eur,2294.0168977737703,Euro Million (constant prices),nor-gov-oil,calculated,False
+2009,noroil_equinor_dividend_eur,2104.996294620114,Euro Million (constant prices),nor-gov-oil,calculated,False
+2010,noroil_equinor_dividend_eur,1713.3865738773027,Euro Million (constant prices),nor-gov-oil,calculated,False
+2011,noroil_equinor_dividend_eur,1730.6390334371206,Euro Million (constant prices),nor-gov-oil,calculated,False
+2012,noroil_equinor_dividend_eur,1763.5111828121262,Euro Million (constant prices),nor-gov-oil,calculated,False
+2013,noroil_equinor_dividend_eur,1804.8801043012838,Euro Million (constant prices),nor-gov-oil,calculated,False
+2014,noroil_equinor_dividend_eur,2789.0369262392715,Euro Million (constant prices),nor-gov-oil,calculated,False
+2015,noroil_equinor_dividend_eur,1892.1885847230712,Euro Million (constant prices),nor-gov-oil,calculated,False
+2016,noroil_equinor_dividend_eur,1301.975837274901,Euro Million (constant prices),nor-gov-oil,calculated,False
+2017,noroil_equinor_dividend_eur,998.9313592045482,Euro Million (constant prices),nor-gov-oil,calculated,False
+2018,noroil_equinor_dividend_eur,1739.8010429393357,Euro Million (constant prices),nor-gov-oil,calculated,False
+2019,noroil_equinor_dividend_eur,2287.3955414747516,Euro Million (constant prices),nor-gov-oil,calculated,False
+2020,noroil_equinor_dividend_eur,1693.186188532554,Euro Million (constant prices),nor-gov-oil,calculated,False
+2021,noroil_equinor_dividend_eur,1129.1561924372054,Euro Million (constant prices),nor-gov-oil,calculated,False
+2022,noroil_equinor_dividend_eur,3512.652631619553,Euro Million (constant prices),nor-gov-oil,calculated,False
+2023,noroil_equinor_dividend_eur,7493.196582547204,Euro Million (constant prices),nor-gov-oil,calculated,False
+2024,noroil_equinor_dividend_eur,5816.38009059284,Euro Million (constant prices),nor-gov-oil,calculated,False
+2025,noroil_equinor_dividend_eur,3136.227191805736,Euro Million (constant prices),nor-gov-oil,calculated,False
+1971,noroil_state_net_cash_flow_eur,10.362661230688314,Euro Million (constant prices),nor-gov-oil,calculated,False
+1972,noroil_state_net_cash_flow_eur,29.283975761979963,Euro Million (constant prices),nor-gov-oil,calculated,False
+1973,noroil_state_net_cash_flow_eur,45.31023137324587,Euro Million (constant prices),nor-gov-oil,calculated,False
+1974,noroil_state_net_cash_flow_eur,71.54762240842557,Euro Million (constant prices),nor-gov-oil,calculated,False
+1975,noroil_state_net_cash_flow_eur,112.68774793062875,Euro Million (constant prices),nor-gov-oil,calculated,False
+1976,noroil_state_net_cash_flow_eur,1003.1525467423212,Euro Million (constant prices),nor-gov-oil,calculated,False
+1977,noroil_state_net_cash_flow_eur,1501.8643775295038,Euro Million (constant prices),nor-gov-oil,calculated,False
+1978,noroil_state_net_cash_flow_eur,1706.908522023619,Euro Million (constant prices),nor-gov-oil,calculated,False
+1979,noroil_state_net_cash_flow_eur,2632.18859780503,Euro Million (constant prices),nor-gov-oil,calculated,False
+1980,noroil_state_net_cash_flow_eur,6569.730350335546,Euro Million (constant prices),nor-gov-oil,calculated,False
+1981,noroil_state_net_cash_flow_eur,8735.8001202955,Euro Million (constant prices),nor-gov-oil,calculated,False
+1982,noroil_state_net_cash_flow_eur,9139.923936574223,Euro Million (constant prices),nor-gov-oil,calculated,False
+1983,noroil_state_net_cash_flow_eur,9131.202330600547,Euro Million (constant prices),nor-gov-oil,calculated,False
+1984,noroil_state_net_cash_flow_eur,11228.74254327505,Euro Million (constant prices),nor-gov-oil,calculated,False
+1985,noroil_state_net_cash_flow_eur,10579.968633799139,Euro Million (constant prices),nor-gov-oil,calculated,False
+1986,noroil_state_net_cash_flow_eur,6639.169649392073,Euro Million (constant prices),nor-gov-oil,calculated,False
+1987,noroil_state_net_cash_flow_eur,2114.638705832267,Euro Million (constant prices),nor-gov-oil,calculated,False
+1988,noroil_state_net_cash_flow_eur,673.8109074683333,Euro Million (constant prices),nor-gov-oil,calculated,False
+1989,noroil_state_net_cash_flow_eur,3444.4081774760207,Euro Million (constant prices),nor-gov-oil,calculated,False
+1990,noroil_state_net_cash_flow_eur,7632.108711923432,Euro Million (constant prices),nor-gov-oil,calculated,False
+1991,noroil_state_net_cash_flow_eur,8450.020333500834,Euro Million (constant prices),nor-gov-oil,calculated,False
+1992,noroil_state_net_cash_flow_eur,6338.579320792448,Euro Million (constant prices),nor-gov-oil,calculated,False
+1993,noroil_state_net_cash_flow_eur,5656.107871812047,Euro Million (constant prices),nor-gov-oil,calculated,False
+1994,noroil_state_net_cash_flow_eur,5030.849477809618,Euro Million (constant prices),nor-gov-oil,calculated,False
+1995,noroil_state_net_cash_flow_eur,7368.472818495414,Euro Million (constant prices),nor-gov-oil,calculated,False
+1996,noroil_state_net_cash_flow_eur,12990.79771044331,Euro Million (constant prices),nor-gov-oil,calculated,False
+1997,noroil_state_net_cash_flow_eur,15794.452867894013,Euro Million (constant prices),nor-gov-oil,calculated,False
+1998,noroil_state_net_cash_flow_eur,8069.03215662077,Euro Million (constant prices),nor-gov-oil,calculated,False
+1999,noroil_state_net_cash_flow_eur,7813.305298018456,Euro Million (constant prices),nor-gov-oil,calculated,False
+2000,noroil_state_net_cash_flow_eur,27323.255812313895,Euro Million (constant prices),nor-gov-oil,calculated,False
+2001,noroil_state_net_cash_flow_eur,40060.95890380804,Euro Million (constant prices),nor-gov-oil,calculated,False
+2002,noroil_state_net_cash_flow_eur,27479.529384572983,Euro Million (constant prices),nor-gov-oil,calculated,False
+2003,noroil_state_net_cash_flow_eur,27577.332868596983,Euro Million (constant prices),nor-gov-oil,calculated,False
+2004,noroil_state_net_cash_flow_eur,31417.03415041842,Euro Million (constant prices),nor-gov-oil,calculated,False
+2005,noroil_state_net_cash_flow_eur,41139.65740996999,Euro Million (constant prices),nor-gov-oil,calculated,False
+2006,noroil_state_net_cash_flow_eur,51398.13465715705,Euro Million (constant prices),nor-gov-oil,calculated,False
+2007,noroil_state_net_cash_flow_eur,44490.15496113811,Euro Million (constant prices),nor-gov-oil,calculated,False
+2008,noroil_state_net_cash_flow_eur,56316.38860898968,Euro Million (constant prices),nor-gov-oil,calculated,False
+2009,noroil_state_net_cash_flow_eur,38024.73501532139,Euro Million (constant prices),nor-gov-oil,calculated,False
+2010,noroil_state_net_cash_flow_eur,36898.21149001471,Euro Million (constant prices),nor-gov-oil,calculated,False
+2011,noroil_state_net_cash_flow_eur,45470.10381402843,Euro Million (constant prices),nor-gov-oil,calculated,False
+2012,noroil_state_net_cash_flow_eur,50222.416152666956,Euro Million (constant prices),nor-gov-oil,calculated,False
+2013,noroil_state_net_cash_flow_eur,43198.09878925864,Euro Million (constant prices),nor-gov-oil,calculated,False
+2014,noroil_state_net_cash_flow_eur,38384.41935560976,Euro Million (constant prices),nor-gov-oil,calculated,False
+2015,noroil_state_net_cash_flow_eur,26848.23947202788,Euro Million (constant prices),nor-gov-oil,calculated,False
+2016,noroil_state_net_cash_flow_eur,15158.00870739701,Euro Million (constant prices),nor-gov-oil,calculated,False
+2017,noroil_state_net_cash_flow_eur,19964.790037421815,Euro Million (constant prices),nor-gov-oil,calculated,False
+2018,noroil_state_net_cash_flow_eur,29138.99692572155,Euro Million (constant prices),nor-gov-oil,calculated,False
+2019,noroil_state_net_cash_flow_eur,29300.60514068777,Euro Million (constant prices),nor-gov-oil,calculated,False
+2020,noroil_state_net_cash_flow_eur,12034.239161010617,Euro Million (constant prices),nor-gov-oil,calculated,False
+2021,noroil_state_net_cash_flow_eur,30936.13994489582,Euro Million (constant prices),nor-gov-oil,calculated,False
+2022,noroil_state_net_cash_flow_eur,128042.11529486254,Euro Million (constant prices),nor-gov-oil,calculated,False
+2023,noroil_state_net_cash_flow_eur,93588.63436662754,Euro Million (constant prices),nor-gov-oil,calculated,False
+2024,noroil_state_net_cash_flow_eur,65262.96632925727,Euro Million (constant prices),nor-gov-oil,calculated,False
+2025,noroil_state_net_cash_flow_eur,60089.89127709705,Euro Million (constant prices),nor-gov-oil,calculated,False

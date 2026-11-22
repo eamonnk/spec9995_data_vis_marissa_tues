@@ -1,0 +1,41 @@
+---
+title: "World Number 1 Tennis Players Dashboard"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: columns
+runtime: shiny
+---
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(shiny)
+library(tidyverse)
+
+atp <- read.csv("atp_number_1.csv")
+
+#### creating the filtered data
+filtered_data <- reactive({
+  if(input$sex == "All"){
+    atp   } else {    filter(atp, Sex == input$sex)  }})
+```
+
+Column    
+-------------------------------------------
+ 
+```{r}
+selectInput(
+  "sex",
+  "Select Sex",
+  choices = c("All", unique(atp$Sex)))
+```
+
+```{r}
+renderValueBox({                   #### needs render value box to react to the filter
+  valueBox(nrow(filtered_data()),"Records") })
+```
+
+```{r}
+renderPlot({                              #### needs render plot to react to the filter
+ ggplot(filtered_data(), aes(x = Age_years)) +
+ geom_histogram(bins = 15, fill = "steelblue", colour = "white")+
+ theme_minimal()})
+```
