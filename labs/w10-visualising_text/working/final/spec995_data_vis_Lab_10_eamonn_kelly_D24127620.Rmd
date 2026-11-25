@@ -1,0 +1,213 @@
+---
+title: "World Number 1 Tennis Players Dashboard"
+output:
+  flexdashboard::flex_dashboard:
+    orientation: columns
+runtime: shiny
+
+# Lab 10 - submission
+# student name = eamonn kelly
+# student number = D24127620
+# student email address = D24127620@myTUDublin.ie
+# Date= 22.11.2026
+---
+```{r}
+packages <- c(
+  "ggplot2",         # Data visualization (histograms, QQ plots, diagnostic plots)
+  "flexdashboard",   # dashboad, charts cards etc package
+  "shiny",           # for filters make sure graphs are reactive the filters and can be rendered
+  "tidyverse"        # data wrangling package
+)
+
+quiet_library <- function(pkg) {
+  suppressMessages(suppressWarnings({
+    if (!requireNamespace(pkg, quietly = TRUE)) {
+      install.packages(pkg, dependencies = TRUE)
+    }
+    library(pkg, character.only = TRUE)
+  }))
+}
+
+# Install any that are missing
+installed <- packages %in% rownames(installed.packages())
+if (any(!installed)) {
+  message("Installing missing packages: ", paste(packages[!installed], collapse = ", "))
+  install.packages(packages[!installed], dependencies = TRUE)
+}
+
+# Apply the function to load the packages 
+invisible(lapply(packages, quiet_library))
+```
+
+```{r}
+
+#defining where datag file is in folder structure - stndardise it
+datalocation <- file.path("./")
+datapath <- file.path(datalocation,'atp_number_1.csv')
+
+#Load data csv file
+atp<- read.csv(datapath)
+#colnames(atp) <- tolower(colnames(atp))
+
+
+#### creating the filtered data
+filtered_data <- reactive({
+  if(input$sex == "All"){
+    atp   } else {    filter(atp, Sex == input$sex)  }})
+```
+
+```{r setup, include=FALSE}
+# library(flexdashboard)
+# library(shiny)
+# library(tidyverse)
+
+
+
+atp <- read.csv("atp_number_1.csv")
+
+#### creating the filtered data
+filtered_data <- reactive({
+  if(input$sex == "All"){
+    atp   } else {    filter(atp, Sex == input$sex)  }})
+```
+
+Column    
+-------------------------------------------
+ 
+
+
+```{r}
+# Creating the dropdown box filter
+selectInput(
+  "sex",
+  "Select Sex",
+  choices = c("All", unique(atp$Sex)))
+```
+
+### Number of Records in a KPI card
+```{r}
+# Number of records in a KPI card
+renderValueBox({                   #### needs render value box to react to the filter
+  valueBox(nrow(filtered_data()),"Records") })
+```
+### Age plot
+```{r}
+renderPlot({                              #### needs render plot to react to the filter
+ ggplot(filtered_data(), aes(x = Age_years)) +
+ geom_histogram(bins = 15, fill = "steelblue", colour = "white")+
+ theme_minimal()})
+```
+### Task 1 - Add a second card showing average age.
+```{r}
+# Task 1 - Add a second card showing average age.
+
+renderValueBox({                   #### needs render value box to react to the filter
+  valueBox(round(mean(filtered_data()$Age_years), 1), "Average Age in yrs") })
+
+```
+
+### Task 2 - boxplot comparing age by sex.
+
+```{r}
+# Task 2 - Add a boxplot comparing age by sex.
+renderPlot({                              #### needs render plot to react to the filter
+ ggplot(filtered_data(), aes(x = Sex, y = Age_years, fill = Sex)) + # sex on x axis, age on y axis
+ geom_boxplot() + 
+ scale_fill_brewer(palette = 'Set2') +
+ labs(x="Sex", y = "Age (yrs)") +
+ theme_minimal()})
+
+```
+
+
+### Task 3. chart showing players with more than 150 weeks at No. 1.
+
+```{r}
+# Task 3 - chart showing players with more than 150 weeks at No. 1.
+# csv data just has number of weeks at number 1 form a start date, so will sort from that
+renderPlot({                              #### needs render plot to react to the filter
+ weeks150 <- filtered_data() %>% # using pipe operatr from tidyverse to pass output
+  group_by(Player, Sex) %>%       # group by player and sex
+  summarise(totalweeks = sum(Weeks)) %>%   # sum of weeks at number 1 per player
+  filter(totalweeks > 150) %>%          # 
+  arrange(totalweeks)
+  
+  # pick out the player column from the weeks150- dataframe, will keep the sorted order in the plot
+  weeks150$Player <-factor(weeks150$Player, levels = weeks150$Player)
+
+ ggplot(weeks150, aes(x = Player, y = totalweeks, fill = Sex)) +
+ geom_col() + 
+ coord_flip() +      #flip the bars to horizontal bars
+ scale_fill_brewer(palette = 'Set2') +
+ labs(x="Player", y = "ttoal weeks at nunebr 1") +
+ theme_minimal()})
+
+```
+
+
+
+### Task 4 - Chart showing the youngest 10 players to reach No. 1.
+
+```{r}
+
+renderPlot({                              #### needs render plot to react to the filter
+ youngest10 <- filtered_data() %>% # using pipe operatr from tidyverse to pass output
+  group_by(Player, Sex) %>%       # group by player and sex, one row per player
+  summarise(agefirstno1 = min(Age_div_365.25)) %>%   # age when first became no. 1 
+  arrange(agefirstno1)   %>%  # youngest first
+  head(10)  %>%           # get firsst 10 records
+  arrange(desc(agefirstno1)) # sort order
+  
+  # pick out the player column from the weeks150- datsaframe, will keep the sorted order in the plot
+  youngest10$Player <-factor(youngest10$Player, levels = youngest10$Player)
+
+ ggplot(youngest10, aes(x = Player, y = agefirstno1, fill = Sex)) +
+ geom_col() + 
+ coord_flip() +      #flip the bars to horizontal
+ scale_fill_brewer(palette = 'Set2') +
+ labs(x="Player", y = "age when became World No.1") +
+ theme_minimal()})
+
+```
+
+### Task 5. Which players have spent more than 150 cumulative weeks at World No. 1?
+
+```{r}
+
+
+# csv data just has number of weeks at number 1 form a start date, so will sort from that
+# displying in table rather than chart for somethgin different 
+# renderdatatable seems to be deprecated so will just use this version
+# as per here > https://shiny.posit.co/r/reference/shiny/latest/
+renderTable({                              #### needs render plot to react to the filter
+ cumulwks150 <- filtered_data() %>% # using pipe operatr from tidyverse to pass output
+  group_by(Player, Sex) %>%       # group by player and sex
+  summarise(totalweeks = sum(Weeks)) %>%   # sum of weeks at number 1 per player
+  filter(totalweeks > 150) %>%          # 
+  arrange(desc(totalweeks))
+  cumulwks150
+}
+)
+
+
+```
+
+### Task 6. The youngest 10 players to achieve World No. 1?
+
+
+
+```{r}
+# will render in atable as per questio 5 as question very similar to question 4...s
+renderTable({                              #### needs render plot to react to the filter
+ youngest10tbl <- filtered_data() %>% # using pipe operatr from tidyverse to pass output
+  group_by(Player, Sex) %>%       # group by player and sex, one row per player
+  summarise(agefirstno1 = min(Age_div_365.25)) %>%   # age when first became no. 1 
+  arrange(agefirstno1)   %>%  # youngest first
+  head(10)  %>%           # get firsst 10 records
+  arrange(agefirstno1) # sort order
+  youngest10tbl
+ }
+ )
+
+
+```
